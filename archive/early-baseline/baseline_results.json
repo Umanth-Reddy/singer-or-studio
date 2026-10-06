@@ -1,0 +1,32 @@
+{
+  "status": "complete",
+  "minimum_failed_families": 2,
+  "protocol": "gate1_protocol.md",
+  "raw_results": "gate1_pilot/results.json",
+  "claim_scope": "VocalSet excerpt identity retrieval with a straight-singing query and a same-singer vibrato positive; two frozen pretrained families",
+  "results": [
+    {
+      "family": "cvsm",
+      "model": "m4all_cvsmart",
+      "effect": 0.5583333333333333,
+      "ci_low": 0.39166666666666666,
+      "ci_high": 0.725,
+      "failure_threshold": 0.20,
+      "prespecified": true,
+      "queries": 59,
+      "independent_singers": 20
+    },
+    {
+      "family": "singer_identity_ssl",
+      "model": "contrastive-vc",
+      "effect": 0.4333333333333333,
+      "ci_low": 0.2833333333333333,
+      "ci_high": 0.5833333333333334,
+      "failure_threshold": 0.20,
+      "prespecified": true,
+      "queries": 59,
+      "independent_singers": 20
+    }
+  ],
+  "interpretation_limit": "The SSL preprocessing correction was found in a post-hoc audit. The two primary conditions still meet the numerical pilot threshold, but post-hoc controls and crop sensitivity prevent a technique-specific causal conclusion. This is not a published-score reproduction or a reason to develop the proposed model from this gate alone."
+}
