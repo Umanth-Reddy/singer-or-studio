@@ -1,0 +1,176 @@
+{
+  "bootstrap_95_ci": [
+    0.5333333333333333,
+    0.9333333333333332
+  ],
+  "checkpoint": "tests_before_koding/yakura_runs/train_20261008_112243/ckpt/ckpt_epoch_100.pth",
+  "checkpoint_sha256": "8c43021cd84bdfc3a1d75ee37be8bf8dd0b8f87f69fd07eb5bab844126697305",
+  "errors": 11,
+  "evaluation_population": "VocalSet official test singers only",
+  "exploratory_same_technique_different_song_control": {
+    "error_rate": 0.43333333333333335,
+    "errors": 13,
+    "queries": 30,
+    "status": "post_hoc_diagnostic_not_gate_evidence"
+  },
+  "independent_singers": 5,
+  "material_failure_supported": true,
+  "material_failure_threshold": 0.2,
+  "mean_singer_error_rate": 0.7333333333333333,
+  "model": "yakura_epoch_100",
+  "preprocessing": "mono; resample to 16 kHz; deterministic central five seconds; Yakura n_fft=800; CPU inference",
+  "queries": 15,
+  "query_results": [
+    {
+      "anchor_clip_id": "vs-53f18393483fdd7c",
+      "error": false,
+      "excerpt_key": "caro",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.7147953510284424,
+      "positive_clip_id": "vs-bc0d21de8c120a13",
+      "positive_similarity": 0.7828910946846008,
+      "singer_id": "vocalset:female2"
+    },
+    {
+      "anchor_clip_id": "vs-fe1c52edd6f2be97",
+      "error": true,
+      "excerpt_key": "dona",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.7725962400436401,
+      "positive_clip_id": "vs-b10ba6b59cdfacd5",
+      "positive_similarity": 0.7149105072021484,
+      "singer_id": "vocalset:female2"
+    },
+    {
+      "anchor_clip_id": "vs-4c209fa0cb20e1e9",
+      "error": true,
+      "excerpt_key": "row",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.7917381525039673,
+      "positive_clip_id": "vs-7116433c3bb4ea03",
+      "positive_similarity": 0.5436486601829529,
+      "singer_id": "vocalset:female2"
+    },
+    {
+      "anchor_clip_id": "vs-cc108e0440a669f0",
+      "error": true,
+      "excerpt_key": "caro",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.7147953510284424,
+      "positive_clip_id": "vs-a441eb8288b3a029",
+      "positive_similarity": 0.5209482908248901,
+      "singer_id": "vocalset:female8"
+    },
+    {
+      "anchor_clip_id": "vs-8c0d61ed8c93dc18",
+      "error": true,
+      "excerpt_key": "dona",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.7725962400436401,
+      "positive_clip_id": "vs-719058d1d4c38389",
+      "positive_similarity": 0.7200990319252014,
+      "singer_id": "vocalset:female8"
+    },
+    {
+      "anchor_clip_id": "vs-b534b49465b3e85c",
+      "error": true,
+      "excerpt_key": "row",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.7917381525039673,
+      "positive_clip_id": "vs-d5fd1d267f1f843f",
+      "positive_similarity": 0.5497172474861145,
+      "singer_id": "vocalset:female8"
+    },
+    {
+      "anchor_clip_id": "vs-5d33d7fcdd351c16",
+      "error": false,
+      "excerpt_key": "caro",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.7337100505828857,
+      "positive_clip_id": "vs-0fe268576fddacda",
+      "positive_similarity": 0.7673160433769226,
+      "singer_id": "vocalset:male10"
+    },
+    {
+      "anchor_clip_id": "vs-dae75d722fcaae68",
+      "error": true,
+      "excerpt_key": "dona",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.8637101650238037,
+      "positive_clip_id": "vs-c364d77429f1aeb1",
+      "positive_similarity": 0.7437468767166138,
+      "singer_id": "vocalset:male10"
+    },
+    {
+      "anchor_clip_id": "vs-e517441ac606ecc4",
+      "error": true,
+      "excerpt_key": "row",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.8177181482315063,
+      "positive_clip_id": "vs-0768abe9aace22b5",
+      "positive_similarity": 0.7290849089622498,
+      "singer_id": "vocalset:male10"
+    },
+    {
+      "anchor_clip_id": "vs-198eae7f0c2c0382",
+      "error": true,
+      "excerpt_key": "caro",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.7337100505828857,
+      "positive_clip_id": "vs-91727fe7fc079110",
+      "positive_similarity": 0.6757069826126099,
+      "singer_id": "vocalset:male3"
+    },
+    {
+      "anchor_clip_id": "vs-8371b5db515c5c4e",
+      "error": true,
+      "excerpt_key": "dona",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.805314838886261,
+      "positive_clip_id": "vs-6364c96d9f70eb8a",
+      "positive_similarity": 0.620305061340332,
+      "singer_id": "vocalset:male3"
+    },
+    {
+      "anchor_clip_id": "vs-bfa6550b862655e7",
+      "error": true,
+      "excerpt_key": "row",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.8524172902107239,
+      "positive_clip_id": "vs-5f8b3af216f18122",
+      "positive_similarity": 0.7378613948822021,
+      "singer_id": "vocalset:male3"
+    },
+    {
+      "anchor_clip_id": "vs-7c73f55209430e2c",
+      "error": true,
+      "excerpt_key": "caro",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.7048565149307251,
+      "positive_clip_id": "vs-9ee07715ba9b623a",
+      "positive_similarity": 0.6797102689743042,
+      "singer_id": "vocalset:male5"
+    },
+    {
+      "anchor_clip_id": "vs-e7d831e59bbd8865",
+      "error": false,
+      "excerpt_key": "dona",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.8637101650238037,
+      "positive_clip_id": "vs-359844426a2e4dda",
+      "positive_similarity": 0.9487415552139282,
+      "singer_id": "vocalset:male5"
+    },
+    {
+      "anchor_clip_id": "vs-09bc98c71c64d9fd",
+      "error": false,
+      "excerpt_key": "row",
+      "impostor_count": 4,
+      "max_impostor_similarity": 0.8524172902107239,
+      "positive_clip_id": "vs-815ff9da8fbf3d50",
+      "positive_similarity": 0.9323830604553223,
+      "singer_id": "vocalset:male5"
+    }
+  ],
+  "status": "preliminary_checkpoint_diagnostic_not_final_gate_evidence"
+}
