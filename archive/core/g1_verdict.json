@@ -1,0 +1,191 @@
+[
+ {
+  "model": "cvsm_art",
+  "n_singers": 19,
+  "failing_vocalset": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "mixsep@-6",
+   "mixsep@0",
+   "mixsep@12",
+   "mixsep@6",
+   "mp3@32",
+   "mp3@64",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "baseline_error_pct": 8.893762183235866,
+  "a_mean_effect_pts": 37.161044973544975,
+  "a_ci95_pts": [
+   32.9458846769702,
+   41.21526689988861
+  ],
+  "b_families_with_breakpoint": [
+   "codec",
+   "mixsep",
+   "reverb"
+  ],
+  "c_cross_error_pct": 46.054807156780846,
+  "c_both_processed_error_pct": 14.216966026176552,
+  "a": true,
+  "b": true,
+  "c": true,
+  "pass": true
+ },
+ {
+  "model": "cvsm_a",
+  "n_singers": 19,
+  "failing_vocalset": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "mixsep@-6",
+   "mixsep@0",
+   "mp3@32",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "baseline_error_pct": 6.999269005847954,
+  "a_mean_effect_pts": 25.754253056884636,
+  "a_ci95_pts": [
+   22.02427232854864,
+   29.896760920609605
+  ],
+  "b_families_with_breakpoint": [
+   "codec",
+   "mixsep",
+   "reverb"
+  ],
+  "c_cross_error_pct": 32.75352206273259,
+  "c_both_processed_error_pct": 10.135344674818358,
+  "a": true,
+  "b": true,
+  "c": true,
+  "pass": true
+ },
+ {
+  "model": "ssl",
+  "n_singers": 19,
+  "failing_vocalset": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "eq@12",
+   "mixsep@-6",
+   "mixsep@0",
+   "mixsep@12",
+   "mixsep@6",
+   "mp3@128",
+   "mp3@32",
+   "mp3@64",
+   "reverb@0.1",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "baseline_error_pct": 7.797270955165692,
+  "a_mean_effect_pts": 44.518260520582494,
+  "a_ci95_pts": [
+   36.778197024423804,
+   52.95422865783741
+  ],
+  "b_families_with_breakpoint": [
+   "codec",
+   "mixsep",
+   "reverb"
+  ],
+  "c_cross_error_pct": 52.315531475748195,
+  "c_both_processed_error_pct": 21.80118392386194,
+  "a": true,
+  "b": true,
+  "c": true,
+  "pass": true
+ },
+ {
+  "model": "ecapa",
+  "n_singers": 19,
+  "failing_vocalset": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "eq@12",
+   "mixsep@-6",
+   "mixsep@0",
+   "mixsep@12",
+   "mixsep@6",
+   "mp3@128",
+   "mp3@32",
+   "mp3@64",
+   "reverb@0.1",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "baseline_error_pct": 6.408382066276803,
+  "a_mean_effect_pts": 4.395281504414632,
+  "a_ci95_pts": [
+   2.800343638917555,
+   6.483738963421626
+  ],
+  "b_families_with_breakpoint": [
+   "codec",
+   "mixsep"
+  ],
+  "c_cross_error_pct": 10.803663570691434,
+  "c_both_processed_error_pct": 9.530157092076596,
+  "a": false,
+  "b": true,
+  "c": false,
+  "pass": false
+ },
+ {
+  "model": "mert",
+  "n_singers": 19,
+  "failing_vocalset": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "eq@12",
+   "mixsep@-6",
+   "mixsep@0",
+   "mixsep@12",
+   "mixsep@6",
+   "mp3@128",
+   "mp3@32",
+   "mp3@64",
+   "reverb@0.1",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "baseline_error_pct": 15.265594541910332,
+  "a_mean_effect_pts": 5.19328345373237,
+  "a_ci95_pts": [
+   3.605870528035777,
+   7.047374871001029
+  ],
+  "b_families_with_breakpoint": [
+   "codec",
+   "reverb"
+  ],
+  "c_cross_error_pct": 20.458877995642702,
+  "c_both_processed_error_pct": 16.374269005847953,
+  "a": false,
+  "b": true,
+  "c": false,
+  "pass": false
+ }
+]
