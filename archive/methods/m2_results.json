@@ -1,0 +1,158 @@
+[
+ {
+  "model": "cvsm_art",
+  "test_singers": [
+   "female5",
+   "female6",
+   "female7",
+   "female8",
+   "female9",
+   "male10",
+   "male11",
+   "male6",
+   "male7",
+   "male8",
+   "male9"
+  ],
+  "failing_variants": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "mixsep@-6",
+   "mixsep@0",
+   "mixsep@12",
+   "mixsep@6",
+   "mp3@32",
+   "mp3@64",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "failing_mean_error_pct": {
+   "raw": 60.736703772418046,
+   "clean_singer": 41.377551020408156,
+   "cropid": 21.943413729128014,
+   "fusion": 27.963048855906
+  },
+  "clean_error_pct": {
+   "raw": 7.846320346320345,
+   "clean_singer": 27.867965367965365,
+   "cropid": 13.852813852813853,
+   "fusion": 12.121212121212123
+  },
+  "cropid_minus_clean_singer_pts": -19.434137291280145,
+  "cropid_minus_clean_singer_ci95_pts": [
+   -31.710633116883113,
+   -7.446273964131116
+  ],
+  "clean_trial_change_pts": 6.006493506493507,
+  "pass": false,
+  "m3_pass": false
+ },
+ {
+  "model": "cvsm_a",
+  "test_singers": [
+   "female5",
+   "female6",
+   "female7",
+   "female8",
+   "female9",
+   "male10",
+   "male11",
+   "male6",
+   "male7",
+   "male8",
+   "male9"
+  ],
+  "failing_variants": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "mixsep@-6",
+   "mixsep@0",
+   "mp3@32",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "failing_mean_error_pct": {
+   "raw": 54.63203463203463,
+   "clean_singer": 38.606847697756784,
+   "cropid": 16.85556867375049,
+   "fusion": 20.562770562770563
+  },
+  "clean_error_pct": {
+   "raw": 11.95887445887446,
+   "clean_singer": 31.872294372294373,
+   "cropid": 13.744588744588745,
+   "fusion": 13.365800865800862
+  },
+  "cropid_minus_clean_singer_pts": -21.75127902400629,
+  "cropid_minus_clean_singer_ci95_pts": [
+   -37.04447068083431,
+   -5.4431818181818175
+  ],
+  "clean_trial_change_pts": 1.7857142857142847,
+  "pass": true,
+  "m3_pass": true
+ },
+ {
+  "model": "ssl",
+  "test_singers": [
+   "female5",
+   "female6",
+   "female7",
+   "female8",
+   "female9",
+   "male10",
+   "male11",
+   "male6",
+   "male7",
+   "male8",
+   "male9"
+  ],
+  "failing_variants": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "eq@12",
+   "mixsep@-6",
+   "mixsep@0",
+   "mixsep@12",
+   "mixsep@6",
+   "mp3@128",
+   "mp3@32",
+   "mp3@64",
+   "reverb@0.1",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "failing_mean_error_pct": {
+   "raw": 79.09281894576013,
+   "clean_singer": 24.998726763432646,
+   "cropid": 18.640819964349376,
+   "fusion": 40.362872421695954
+  },
+  "clean_error_pct": {
+   "raw": 10.010822510822512,
+   "clean_singer": 8.820346320346319,
+   "cropid": 8.603896103896105,
+   "fusion": 8.225108225108226
+  },
+  "cropid_minus_clean_singer_pts": -6.35790679908327,
+  "cropid_minus_clean_singer_ci95_pts": [
+   -15.204561370002544,
+   3.6099917239623114
+  ],
+  "clean_trial_change_pts": -1.4069264069264076,
+  "pass": true,
+  "m3_pass": false
+ }
+]

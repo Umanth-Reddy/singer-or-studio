@@ -1,0 +1,182 @@
+[
+ {
+  "model": "cvsm_art",
+  "test_singers": [
+   "DE-Soprano-1",
+   "DE-Tenor-1",
+   "EN-Alto-1",
+   "EN-Alto-2",
+   "EN-Tenor-1",
+   "ES-Bass-1",
+   "ES-Soprano-1",
+   "FR-Soprano-1",
+   "FR-Tenor-1",
+   "IT-Bass-1",
+   "IT-Bass-2",
+   "IT-Soprano-1",
+   "JA-Soprano-1",
+   "JA-Tenor-1",
+   "KO-Soprano-1",
+   "KO-Soprano-2",
+   "KO-Tenor-1",
+   "ZH-Alto-1",
+   "ZH-Tenor-1"
+  ],
+  "failing_variants": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "mixsep@-6",
+   "mixsep@0",
+   "mixsep@12",
+   "mixsep@6",
+   "mp3@32",
+   "mp3@64",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "failing_mean_error_pct": {
+   "raw": 46.05480715678084,
+   "clean_singer": 43.116471734892784,
+   "cropid": 22.961918685602896,
+   "fusion": 26.65213380673907
+  },
+  "clean_error_pct": {
+   "raw": 8.893762183235866,
+   "clean_singer": 20.894249512670566,
+   "cropid": 13.249269005847953,
+   "fusion": 11.190302144249511
+  },
+  "cropid_minus_clean_singer_pts": -20.154553049289888,
+  "cropid_minus_clean_singer_ci95_pts": [
+   -28.827755151768315,
+   -11.612995161514899
+  ],
+  "clean_trial_change_pts": 4.355506822612087,
+  "pass": false,
+  "m3_pass": true
+ },
+ {
+  "model": "cvsm_a",
+  "test_singers": [
+   "DE-Soprano-1",
+   "DE-Tenor-1",
+   "EN-Alto-1",
+   "EN-Alto-2",
+   "EN-Tenor-1",
+   "ES-Bass-1",
+   "ES-Soprano-1",
+   "FR-Soprano-1",
+   "FR-Tenor-1",
+   "IT-Bass-1",
+   "IT-Bass-2",
+   "IT-Soprano-1",
+   "JA-Soprano-1",
+   "JA-Tenor-1",
+   "KO-Soprano-1",
+   "KO-Soprano-2",
+   "KO-Tenor-1",
+   "ZH-Alto-1",
+   "ZH-Tenor-1"
+  ],
+  "failing_variants": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "mixsep@-6",
+   "mixsep@0",
+   "mp3@32",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "failing_mean_error_pct": {
+   "raw": 32.753522062732586,
+   "clean_singer": 33.97682970051391,
+   "cropid": 20.87542087542088,
+   "fusion": 22.097067162856636
+  },
+  "clean_error_pct": {
+   "raw": 6.999269005847954,
+   "clean_singer": 25.785818713450286,
+   "cropid": 14.504142300194934,
+   "fusion": 12.432992202729046
+  },
+  "cropid_minus_clean_singer_pts": -13.101408825093033,
+  "cropid_minus_clean_singer_ci95_pts": [
+   -20.90089491405281,
+   -4.808820108984585
+  ],
+  "clean_trial_change_pts": 7.50487329434698,
+  "pass": false,
+  "m3_pass": false
+ },
+ {
+  "model": "ssl",
+  "test_singers": [
+   "DE-Soprano-1",
+   "DE-Tenor-1",
+   "EN-Alto-1",
+   "EN-Alto-2",
+   "EN-Tenor-1",
+   "ES-Bass-1",
+   "ES-Soprano-1",
+   "FR-Soprano-1",
+   "FR-Tenor-1",
+   "IT-Bass-1",
+   "IT-Bass-2",
+   "IT-Soprano-1",
+   "JA-Soprano-1",
+   "JA-Tenor-1",
+   "KO-Soprano-1",
+   "KO-Soprano-2",
+   "KO-Tenor-1",
+   "ZH-Alto-1",
+   "ZH-Tenor-1"
+  ],
+  "failing_variants": [
+   "codec@1.5",
+   "codec@12",
+   "codec@24",
+   "codec@3",
+   "codec@6",
+   "eq@12",
+   "mixsep@-6",
+   "mixsep@0",
+   "mixsep@12",
+   "mixsep@6",
+   "mp3@128",
+   "mp3@32",
+   "mp3@64",
+   "reverb@0.1",
+   "reverb@0.2",
+   "reverb@0.3",
+   "reverb@0.5"
+  ],
+  "failing_mean_error_pct": {
+   "raw": 52.3155314757482,
+   "clean_singer": 35.26795952299048,
+   "cropid": 28.420264304552234,
+   "fusion": 38.17258628597637
+  },
+  "clean_error_pct": {
+   "raw": 7.797270955165692,
+   "clean_singer": 20.90034113060429,
+   "cropid": 11.647173489278751,
+   "fusion": 9.13133528265107
+  },
+  "cropid_minus_clean_singer_pts": -6.847695218438253,
+  "cropid_minus_clean_singer_ci95_pts": [
+   -12.468413169361309,
+   -0.5403444272445793
+  ],
+  "clean_trial_change_pts": 3.8499025341130597,
+  "pass": false,
+  "m3_pass": true
+ }
+]
