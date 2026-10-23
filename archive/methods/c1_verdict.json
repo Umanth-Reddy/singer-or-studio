@@ -1,0 +1,99 @@
+{
+ "S": [
+  "codec@1.5",
+  "codec@12",
+  "codec@24",
+  "codec@3",
+  "codec@6",
+  "eq@12",
+  "mixsep@-6",
+  "mixsep@0",
+  "mixsep@12",
+  "mixsep@6",
+  "mp3@128",
+  "mp3@32",
+  "mp3@64",
+  "reverb@0.1",
+  "reverb@0.2",
+  "reverb@0.3",
+  "reverb@0.5"
+ ],
+ "datasets": {
+  "f2": {
+   "summary": {
+    "c1base": {
+     "clean_pct": 10.59985632183908,
+     "effect_pts": 32.17532961460446,
+     "reverb_effect_pts": 38.99604885057472
+    },
+    "c1A": {
+     "clean_pct": 9.328304597701148,
+     "effect_pts": 32.52417173766058,
+     "reverb_effect_pts": 38.925646551724135
+    },
+    "c1B": {
+     "clean_pct": 9.518678160919539,
+     "effect_pts": 25.538116970926307,
+     "reverb_effect_pts": 28.797772988505756
+    },
+    "c1Bnorev": {
+     "clean_pct": 9.70905172413793,
+     "effect_pts": 27.05231575388777,
+     "reverb_effect_pts": 35.608836206896555
+    }
+   },
+   "verdict": {
+    "B_minus_A_effect_pts": -6.98605476673428,
+    "B_minus_A_ci95": [
+     -7.919978659567274,
+     -5.99036616801893
+    ],
+    "uninformative": false,
+    "pass": false,
+    "Bnorev_minus_A_reverb_pts": -3.316810344827586,
+    "Bnorev_minus_A_reverb_ci95": [
+     -4.028421336206897,
+     -2.5804507902298846
+    ]
+   }
+  },
+  "g1": {
+   "summary": {
+    "c1base": {
+     "clean_pct": 6.999269005847954,
+     "effect_pts": 17.49441004471964,
+     "reverb_effect_pts": 28.187439083820664
+    },
+    "c1A": {
+     "clean_pct": 6.9566276803118905,
+     "effect_pts": 15.008313266827198,
+     "reverb_effect_pts": 23.94158138401559
+    },
+    "c1B": {
+     "clean_pct": 7.10891812865497,
+     "effect_pts": 10.565732140809542,
+     "reverb_effect_pts": 14.434088693957117
+    },
+    "c1Bnorev": {
+     "clean_pct": 7.212475633528265,
+     "effect_pts": 12.279626762985892,
+     "reverb_effect_pts": 21.87652290448343
+    }
+   },
+   "verdict": {
+    "B_minus_A_effect_pts": -4.442581126017659,
+    "B_minus_A_ci95": [
+     -5.433759029927759,
+     -3.558929236899439
+    ],
+    "uninformative": false,
+    "pass": false,
+    "Bnorev_minus_A_reverb_pts": -2.065058479532163,
+    "Bnorev_minus_A_reverb_ci95": [
+     -2.588937621832358,
+     -1.4984999390838198
+    ]
+   }
+  }
+ }
+}
