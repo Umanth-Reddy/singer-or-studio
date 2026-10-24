@@ -1,0 +1,52 @@
+{
+ "rooms": [
+  {
+   "file": "h124_Outside_MITCampusCourtyard_1txts.wav",
+   "t30_s": 0.058,
+   "quantile": 0.0625
+  },
+  {
+   "file": "h223_StreetsOfCambridge_1txts.wav",
+   "t30_s": 0.19,
+   "quantile": 0.1875
+  },
+  {
+   "file": "h015_Bedroom_174txts.wav",
+   "t30_s": 0.314,
+   "quantile": 0.3125
+  },
+  {
+   "file": "h157_ArtGallery_1txts.wav",
+   "t30_s": 0.394,
+   "quantile": 0.4375
+  },
+  {
+   "file": "h102_Stairwell_ElementraySchool_1txts.wav",
+   "t30_s": 0.507,
+   "quantile": 0.5625
+  },
+  {
+   "file": "h109_CoffeeShop_1txts.wav",
+   "t30_s": 0.634,
+   "quantile": 0.6875
+  },
+  {
+   "file": "h034_Classroom_6txts.wav",
+   "t30_s": 0.918,
+   "quantile": 0.8125
+  },
+  {
+   "file": "h133_SubwayStation_ParkStreetBoston_1txts.wav",
+   "t30_s": 1.644,
+   "quantile": 0.9375
+  }
+ ],
+ "n_rooms_with_t30": 270,
+ "accompaniments": [
+  "Mu - Too Bright.stem.mp4",
+  "Zeno - Signs.stem.mp4",
+  "PR - Happy Daze.stem.mp4",
+  "Arise - Run Run Run.stem.mp4",
+  "James Elder & Mark M Thompson - The English Actor.stem.mp4"
+ ]
+}
