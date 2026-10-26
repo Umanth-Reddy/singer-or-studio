@@ -1,0 +1,247 @@
+{
+ "cvsm_art": {
+  "reverb@0.3": {
+   "peak_norm_effect": 37.0,
+   "rms_matched_effect": 37.0
+  },
+  "codec@6": {
+   "peak_norm_effect": 66.1,
+   "rms_matched_effect": 66.1
+  },
+  "mp3@64": {
+   "peak_norm_effect": 15.4,
+   "rms_matched_effect": 15.4
+  },
+  "mixsep@0": {
+   "peak_norm_effect": 84.3,
+   "rms_matched_effect": 84.3
+  },
+  "eq@12": {
+   "peak_norm_effect": 8.7,
+   "rms_matched_effect": 8.7
+  },
+  "gain@-12dB_only": {
+   "err_pct": 8.1,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@-6dB_only": {
+   "err_pct": 8.1,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@6dB_only": {
+   "err_pct": 8.1,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  }
+ },
+ "cvsm_a": {
+  "reverb@0.3": {
+   "peak_norm_effect": 52.6,
+   "rms_matched_effect": 52.6
+  },
+  "codec@6": {
+   "peak_norm_effect": 61.0,
+   "rms_matched_effect": 61.0
+  },
+  "mp3@64": {
+   "peak_norm_effect": 2.1,
+   "rms_matched_effect": 2.1
+  },
+  "mixsep@0": {
+   "peak_norm_effect": 15.7,
+   "rms_matched_effect": 15.7
+  },
+  "eq@12": {
+   "peak_norm_effect": 8.1,
+   "rms_matched_effect": 8.1
+  },
+  "gain@-12dB_only": {
+   "err_pct": 10.6,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@-6dB_only": {
+   "err_pct": 10.6,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@6dB_only": {
+   "err_pct": 10.6,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  }
+ },
+ "ssl": {
+  "reverb@0.3": {
+   "peak_norm_effect": 90.5,
+   "rms_matched_effect": 90.5
+  },
+  "codec@6": {
+   "peak_norm_effect": 89.7,
+   "rms_matched_effect": 89.7
+  },
+  "mp3@64": {
+   "peak_norm_effect": 49.6,
+   "rms_matched_effect": 49.6
+  },
+  "mixsep@0": {
+   "peak_norm_effect": 74.1,
+   "rms_matched_effect": 74.1
+  },
+  "eq@12": {
+   "peak_norm_effect": 18.6,
+   "rms_matched_effect": 18.6
+  },
+  "gain@-12dB_only": {
+   "err_pct": 9.5,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@-6dB_only": {
+   "err_pct": 9.5,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@6dB_only": {
+   "err_pct": 9.5,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  }
+ },
+ "ecapa": {
+  "reverb@0.3": {
+   "peak_norm_effect": 4.2,
+   "rms_matched_effect": 4.2
+  },
+  "codec@6": {
+   "peak_norm_effect": 9.7,
+   "rms_matched_effect": 9.7
+  },
+  "mp3@64": {
+   "peak_norm_effect": 0.9,
+   "rms_matched_effect": 0.9
+  },
+  "mixsep@0": {
+   "peak_norm_effect": 10.1,
+   "rms_matched_effect": 10.1
+  },
+  "eq@12": {
+   "peak_norm_effect": 0.8,
+   "rms_matched_effect": 0.8
+  },
+  "gain@-12dB_only": {
+   "err_pct": 16.6,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@-6dB_only": {
+   "err_pct": 16.6,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@6dB_only": {
+   "err_pct": 16.6,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  }
+ },
+ "mert": {
+  "reverb@0.3": {
+   "peak_norm_effect": 12.4,
+   "rms_matched_effect": 12.4
+  },
+  "codec@6": {
+   "peak_norm_effect": 14.0,
+   "rms_matched_effect": 14.0
+  },
+  "mp3@64": {
+   "peak_norm_effect": 0.3,
+   "rms_matched_effect": 0.3
+  },
+  "mixsep@0": {
+   "peak_norm_effect": 4.9,
+   "rms_matched_effect": 4.9
+  },
+  "eq@12": {
+   "peak_norm_effect": 8.6,
+   "rms_matched_effect": 8.6
+  },
+  "gain@-12dB_only": {
+   "err_pct": 15.1,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@-6dB_only": {
+   "err_pct": 15.1,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  },
+  "gain@6dB_only": {
+   "err_pct": 15.1,
+   "effect_pts": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "passes": false
+  }
+ }
+}

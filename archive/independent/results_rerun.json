@@ -1,0 +1,158 @@
+{
+ "waveform_diff": {
+  "clean": {
+   "max_abs": 0.0,
+   "median_abs": 0.0
+  },
+  "reverb@0.3": {
+   "max_abs": 0.0,
+   "median_abs": 0.0
+  },
+  "codec@6": {
+   "max_abs": 0.42498621344566345,
+   "median_abs": 0.10320086032152176
+  },
+  "mp3@64": {
+   "max_abs": 0.0,
+   "median_abs": 0.0
+  },
+  "mixsep@0": {
+   "max_abs": 0.08397635817527771,
+   "median_abs": 0.016148680821061134
+  },
+  "eq@12": {
+   "max_abs": 0.0,
+   "median_abs": 0.0
+  }
+ },
+ "cvsm_art": {
+  "clean": {
+   "new": 8.1,
+   "stored": 8.1
+  },
+  "reverb@0.3": {
+   "new": 45.0,
+   "stored": 45.0
+  },
+  "codec@6": {
+   "new": 74.0,
+   "stored": 74.2
+  },
+  "mp3@64": {
+   "new": 23.4,
+   "stored": 23.4
+  },
+  "mixsep@0": {
+   "new": 92.8,
+   "stored": 92.4
+  },
+  "eq@12": {
+   "new": 16.8,
+   "stored": 16.8
+  }
+ },
+ "cvsm_a": {
+  "clean": {
+   "new": 10.6,
+   "stored": 10.6
+  },
+  "reverb@0.3": {
+   "new": 63.2,
+   "stored": 63.2
+  },
+  "codec@6": {
+   "new": 71.8,
+   "stored": 71.6
+  },
+  "mp3@64": {
+   "new": 12.7,
+   "stored": 12.7
+  },
+  "mixsep@0": {
+   "new": 26.9,
+   "stored": 26.3
+  },
+  "eq@12": {
+   "new": 18.7,
+   "stored": 18.7
+  }
+ },
+ "ssl": {
+  "clean": {
+   "new": 9.5,
+   "stored": 9.5
+  },
+  "reverb@0.3": {
+   "new": 100.0,
+   "stored": 100.0
+  },
+  "codec@6": {
+   "new": 99.2,
+   "stored": 99.2
+  },
+  "mp3@64": {
+   "new": 59.0,
+   "stored": 59.0
+  },
+  "mixsep@0": {
+   "new": 84.5,
+   "stored": 83.5
+  },
+  "eq@12": {
+   "new": 28.1,
+   "stored": 28.1
+  }
+ },
+ "ecapa": {
+  "clean": {
+   "new": 16.6,
+   "stored": 16.6
+  },
+  "reverb@0.3": {
+   "new": 20.9,
+   "stored": 20.9
+  },
+  "codec@6": {
+   "new": 26.8,
+   "stored": 26.4
+  },
+  "mp3@64": {
+   "new": 17.5,
+   "stored": 17.5
+  },
+  "mixsep@0": {
+   "new": 27.0,
+   "stored": 26.7
+  },
+  "eq@12": {
+   "new": 17.5,
+   "stored": 17.5
+  }
+ },
+ "mert": {
+  "clean": {
+   "new": 15.1,
+   "stored": 15.1
+  },
+  "reverb@0.3": {
+   "new": 27.5,
+   "stored": 27.5
+  },
+  "codec@6": {
+   "new": 29.0,
+   "stored": 29.0
+  },
+  "mp3@64": {
+   "new": 15.4,
+   "stored": 15.4
+  },
+  "mixsep@0": {
+   "new": 19.7,
+   "stored": 20.0
+  },
+  "eq@12": {
+   "new": 23.6,
+   "stored": 23.6
+  }
+ }
+}
