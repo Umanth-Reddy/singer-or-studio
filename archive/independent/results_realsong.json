@@ -1,0 +1,57 @@
+{
+ "cvsm_art": {
+  "n_songs": 147,
+  "gt_err_pct": 1.1,
+  "sep_err_pct": 18.0,
+  "effect_pts": 16.8,
+  "ci95": [
+   14.2,
+   19.8
+  ],
+  "both_separated_err_pct": 4.6
+ },
+ "cvsm_a": {
+  "n_songs": 147,
+  "gt_err_pct": 1.8,
+  "sep_err_pct": 2.7,
+  "effect_pts": 0.9,
+  "ci95": [
+   0.6,
+   1.3
+  ],
+  "both_separated_err_pct": 2.1
+ },
+ "ssl": {
+  "n_songs": 147,
+  "gt_err_pct": 1.1,
+  "sep_err_pct": 3.7,
+  "effect_pts": 2.6,
+  "ci95": [
+   1.7,
+   3.7
+  ],
+  "both_separated_err_pct": 3.3
+ },
+ "ecapa": {
+  "n_songs": 147,
+  "gt_err_pct": 3.3,
+  "sep_err_pct": 4.0,
+  "effect_pts": 0.7,
+  "ci95": [
+   0.3,
+   1.1
+  ],
+  "both_separated_err_pct": 4.3
+ },
+ "mert": {
+  "n_songs": 147,
+  "gt_err_pct": 6.9,
+  "sep_err_pct": 7.9,
+  "effect_pts": 1.0,
+  "ci95": [
+   0.5,
+   1.4
+  ],
+  "both_separated_err_pct": 7.8
+ }
+}
