@@ -1,0 +1,17 @@
+{
+  "seed": 20261109,
+  "artists": 12,
+  "clips": 72,
+  "eligible_artist_count": 4219,
+  "tracks_per_artist": 6,
+  "source_bitrate_histogram": {
+    "128000": 71,
+    "64000": 1
+  },
+  "source_sample_rates": {
+    "48000": 50,
+    "44100": 22
+  },
+  "cache": "/tmp/glass-breaker-cross-check-inputs.npz",
+  "cache_bytes": 102393330
+}
