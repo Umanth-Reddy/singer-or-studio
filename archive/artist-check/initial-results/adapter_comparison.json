@@ -1,0 +1,485 @@
+{
+  "cvsm_art": {
+    "0": {
+      "native": {
+        "raw_error_percent": 12.888888888888891,
+        "adapter_error_percent": 13.129629629629632,
+        "adapter_minus_raw_pp": 0.2407407407407415,
+        "artist_bootstrap_95pct": [
+          -0.11111111111111001,
+          0.6481481481481489
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -0.11111111111110716,
+          "Men at Work": -0.3333333333333339,
+          "SAAY": 0.11111111111111108,
+          "The Album Leaf": 1.1111111111111107,
+          "Tim McGraw": 0.11111111111111116,
+          "Warpaint": 0.5555555555555571
+        }
+      },
+      "mismatch_32": {
+        "raw_error_percent": 50.166666666666664,
+        "adapter_error_percent": 17.01851851851852,
+        "adapter_minus_raw_pp": -33.148148148148145,
+        "artist_bootstrap_95pct": [
+          -44.75925925925926,
+          -20.14814814814815
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -39.33333333333333,
+          "Men at Work": -43.000000000000014,
+          "SAAY": -7.444444444444445,
+          "The Album Leaf": -16.22222222222222,
+          "Tim McGraw": -42.555555555555564,
+          "Warpaint": -50.333333333333314
+        }
+      },
+      "both_32": {
+        "raw_error_percent": 17.59259259259259,
+        "adapter_error_percent": 16.38888888888889,
+        "adapter_minus_raw_pp": -1.2037037037037048,
+        "artist_bootstrap_95pct": [
+          -2.129629629629632,
+          -0.40740740740740716
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -3.222222222222225,
+          "Men at Work": -0.8888888888888857,
+          "SAAY": 0.0,
+          "The Album Leaf": -1.5555555555555571,
+          "Tim McGraw": 0.0,
+          "Warpaint": -1.5555555555555607
+        }
+      }
+    },
+    "1": {
+      "native": {
+        "raw_error_percent": 12.888888888888891,
+        "adapter_error_percent": 13.629629629629628,
+        "adapter_minus_raw_pp": 0.7407407407407406,
+        "artist_bootstrap_95pct": [
+          -0.6851851851851869,
+          2.6481481481481493
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": 1.1111111111111107,
+          "Men at Work": -0.3333333333333339,
+          "SAAY": 0.11111111111111108,
+          "The Album Leaf": -1.6666666666666696,
+          "Tim McGraw": 0.11111111111111116,
+          "Warpaint": 5.111111111111114
+        }
+      },
+      "mismatch_32": {
+        "raw_error_percent": 50.166666666666664,
+        "adapter_error_percent": 5.962962962962963,
+        "adapter_minus_raw_pp": -44.203703703703695,
+        "artist_bootstrap_95pct": [
+          -59.83333333333332,
+          -27.162037037037106
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -55.55555555555555,
+          "Men at Work": -61.555555555555564,
+          "SAAY": -7.777777777777779,
+          "The Album Leaf": -27.444444444444443,
+          "Tim McGraw": -45.44444444444445,
+          "Warpaint": -67.44444444444443
+        }
+      },
+      "both_32": {
+        "raw_error_percent": 17.59259259259259,
+        "adapter_error_percent": 16.444444444444443,
+        "adapter_minus_raw_pp": -1.1481481481481486,
+        "artist_bootstrap_95pct": [
+          -2.24074074074074,
+          -0.0555555555555568
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -2.555555555555557,
+          "Men at Work": -2.8888888888888857,
+          "SAAY": 0.11111111111111138,
+          "The Album Leaf": 0.5555555555555536,
+          "Tim McGraw": 0.3333333333333335,
+          "Warpaint": -2.4444444444444464
+        }
+      }
+    },
+    "2": {
+      "native": {
+        "raw_error_percent": 12.888888888888891,
+        "adapter_error_percent": 13.444444444444445,
+        "adapter_minus_raw_pp": 0.555555555555556,
+        "artist_bootstrap_95pct": [
+          -0.3148148148148148,
+          1.8333333333333341
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": 0.3333333333333357,
+          "Men at Work": 0.11111111111111072,
+          "SAAY": 0.0,
+          "The Album Leaf": -0.7777777777777786,
+          "Tim McGraw": 0.11111111111111116,
+          "Warpaint": 3.555555555555557
+        }
+      },
+      "mismatch_32": {
+        "raw_error_percent": 50.166666666666664,
+        "adapter_error_percent": 6.777777777777778,
+        "adapter_minus_raw_pp": -43.388888888888886,
+        "artist_bootstrap_95pct": [
+          -58.66666666666666,
+          -26.462962962962962
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -54.44444444444444,
+          "Men at Work": -60.22222222222223,
+          "SAAY": -7.777777777777779,
+          "The Album Leaf": -26.555555555555554,
+          "Tim McGraw": -45.44444444444445,
+          "Warpaint": -65.88888888888887
+        }
+      },
+      "both_32": {
+        "raw_error_percent": 17.59259259259259,
+        "adapter_error_percent": 16.333333333333332,
+        "adapter_minus_raw_pp": -1.2592592592592586,
+        "artist_bootstrap_95pct": [
+          -2.166666666666666,
+          -0.351851851851851
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -2.1111111111111107,
+          "Men at Work": -1.777777777777775,
+          "SAAY": 0.11111111111111138,
+          "The Album Leaf": -1.2222222222222214,
+          "Tim McGraw": 0.3333333333333335,
+          "Warpaint": -2.8888888888888893
+        }
+      }
+    }
+  },
+  "cvsm_a": {
+    "0": {
+      "native": {
+        "raw_error_percent": 13.814814814814815,
+        "adapter_error_percent": 15.537037037037038,
+        "adapter_minus_raw_pp": 1.7222222222222214,
+        "artist_bootstrap_95pct": [
+          -0.11111111111111072,
+          3.833333333333334
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -0.44444444444444287,
+          "Men at Work": 6.111111111111104,
+          "SAAY": -0.22222222222222232,
+          "The Album Leaf": 0.6666666666666661,
+          "Tim McGraw": 0.0,
+          "Warpaint": 4.222222222222225
+        }
+      },
+      "mismatch_32": {
+        "raw_error_percent": 23.09259259259259,
+        "adapter_error_percent": 10.203703703703704,
+        "adapter_minus_raw_pp": -12.888888888888888,
+        "artist_bootstrap_95pct": [
+          -18.48148148148148,
+          -6.851851851851852
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -21.888888888888893,
+          "Men at Work": -18.999999999999996,
+          "SAAY": -6.555555555555557,
+          "The Album Leaf": -2.333333333333332,
+          "Tim McGraw": -8.222222222222221,
+          "Warpaint": -19.333333333333336
+        }
+      },
+      "both_32": {
+        "raw_error_percent": 20.462962962962965,
+        "adapter_error_percent": 19.055555555555554,
+        "adapter_minus_raw_pp": -1.407407407407409,
+        "artist_bootstrap_95pct": [
+          -4.6666666666666705,
+          0.49999999999999706
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -9.222222222222229,
+          "Men at Work": 0.7777777777777715,
+          "SAAY": 0.44444444444444464,
+          "The Album Leaf": 0.6666666666666679,
+          "Tim McGraw": -0.4444444444444444,
+          "Warpaint": -0.6666666666666643
+        }
+      }
+    },
+    "1": {
+      "native": {
+        "raw_error_percent": 13.814814814814815,
+        "adapter_error_percent": 15.425925925925926,
+        "adapter_minus_raw_pp": 1.61111111111111,
+        "artist_bootstrap_95pct": [
+          -0.18518518518518667,
+          3.7962962962962963
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -0.4444444444444535,
+          "Men at Work": 6.333333333333332,
+          "SAAY": -0.33333333333333326,
+          "The Album Leaf": 0.33333333333333304,
+          "Tim McGraw": 0.0,
+          "Warpaint": 3.777777777777782
+        }
+      },
+      "mismatch_32": {
+        "raw_error_percent": 23.09259259259259,
+        "adapter_error_percent": 9.981481481481481,
+        "adapter_minus_raw_pp": -13.111111111111114,
+        "artist_bootstrap_95pct": [
+          -18.759259259259263,
+          -7.074074074074075
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -21.777777777777782,
+          "Men at Work": -19.33333333333333,
+          "SAAY": -6.333333333333335,
+          "The Album Leaf": -2.4444444444444438,
+          "Tim McGraw": -8.333333333333334,
+          "Warpaint": -20.44444444444445
+        }
+      },
+      "both_32": {
+        "raw_error_percent": 20.462962962962965,
+        "adapter_error_percent": 19.462962962962962,
+        "adapter_minus_raw_pp": -1.0000000000000009,
+        "artist_bootstrap_95pct": [
+          -3.500000000000002,
+          0.4444444444444439
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -7.111111111111114,
+          "Men at Work": 0.44444444444444287,
+          "SAAY": 0.44444444444444375,
+          "The Album Leaf": 0.5555555555555562,
+          "Tim McGraw": -0.5555555555555556,
+          "Warpaint": 0.22222222222222143
+        }
+      }
+    },
+    "2": {
+      "native": {
+        "raw_error_percent": 13.814814814814815,
+        "adapter_error_percent": 15.500000000000002,
+        "adapter_minus_raw_pp": 1.6851851851851858,
+        "artist_bootstrap_95pct": [
+          -1.8503717077085943e-16,
+          3.9259259259259256
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": 0.4444444444444464,
+          "Men at Work": 6.777777777777775,
+          "SAAY": -0.33333333333333326,
+          "The Album Leaf": 0.11111111111111072,
+          "Tim McGraw": 0.0,
+          "Warpaint": 3.1111111111111143
+        }
+      },
+      "mismatch_32": {
+        "raw_error_percent": 23.09259259259259,
+        "adapter_error_percent": 9.092592592592593,
+        "adapter_minus_raw_pp": -14.0,
+        "artist_bootstrap_95pct": [
+          -20.05555555555556,
+          -7.592592592592593
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -23.222222222222225,
+          "Men at Work": -20.55555555555555,
+          "SAAY": -6.666666666666668,
+          "The Album Leaf": -2.9999999999999996,
+          "Tim McGraw": -8.555555555555555,
+          "Warpaint": -22.0
+        }
+      },
+      "both_32": {
+        "raw_error_percent": 20.462962962962965,
+        "adapter_error_percent": 19.62962962962963,
+        "adapter_minus_raw_pp": -0.8333333333333349,
+        "artist_bootstrap_95pct": [
+          -2.8518518518518547,
+          0.7407407407407415
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -5.444444444444457,
+          "Men at Work": 1.7777777777777786,
+          "SAAY": 0.5555555555555545,
+          "The Album Leaf": 0.11111111111111249,
+          "Tim McGraw": -0.4444444444444444,
+          "Warpaint": -1.5555555555555536
+        }
+      }
+    }
+  },
+  "ssl": {
+    "0": {
+      "native": {
+        "raw_error_percent": 25.055555555555557,
+        "adapter_error_percent": 26.35185185185185,
+        "adapter_minus_raw_pp": 1.2962962962962958,
+        "artist_bootstrap_95pct": [
+          -5.4467592592592595,
+          7.333333333333331
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -12.88888888888889,
+          "Men at Work": 4.666666666666671,
+          "SAAY": 9.44444444444444,
+          "The Album Leaf": 8.88888888888889,
+          "Tim McGraw": -6.0,
+          "Warpaint": 3.6666666666666643
+        }
+      },
+      "mismatch_32": {
+        "raw_error_percent": 38.98148148148149,
+        "adapter_error_percent": 23.074074074074073,
+        "adapter_minus_raw_pp": -15.90740740740741,
+        "artist_bootstrap_95pct": [
+          -26.185185185185187,
+          -3.481481481481481
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -27.00000000000001,
+          "Men at Work": -10.0,
+          "SAAY": -27.22222222222222,
+          "The Album Leaf": 8.777777777777779,
+          "Tim McGraw": -31.333333333333332,
+          "Warpaint": -8.666666666666671
+        }
+      },
+      "both_32": {
+        "raw_error_percent": 31.425925925925924,
+        "adapter_error_percent": 34.33333333333333,
+        "adapter_minus_raw_pp": 2.907407407407407,
+        "artist_bootstrap_95pct": [
+          -3.6296296296296298,
+          9.316666666666642
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -8.666666666666679,
+          "Men at Work": 5.0,
+          "SAAY": 8.555555555555557,
+          "The Album Leaf": 12.222222222222223,
+          "Tim McGraw": -8.888888888888886,
+          "Warpaint": 9.222222222222229
+        }
+      }
+    },
+    "1": {
+      "native": {
+        "raw_error_percent": 25.055555555555557,
+        "adapter_error_percent": 26.277777777777775,
+        "adapter_minus_raw_pp": 1.2222222222222203,
+        "artist_bootstrap_95pct": [
+          -6.000000000000001,
+          7.574074074074073
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -13.88888888888889,
+          "Men at Work": 3.7777777777777715,
+          "SAAY": 11.222222222222221,
+          "The Album Leaf": 8.222222222222221,
+          "Tim McGraw": -6.333333333333332,
+          "Warpaint": 4.333333333333329
+        }
+      },
+      "mismatch_32": {
+        "raw_error_percent": 38.98148148148149,
+        "adapter_error_percent": 22.888888888888886,
+        "adapter_minus_raw_pp": -16.09259259259259,
+        "artist_bootstrap_95pct": [
+          -25.518518518518523,
+          -4.37037037037037
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -26.444444444444454,
+          "Men at Work": -12.222222222222221,
+          "SAAY": -26.22222222222222,
+          "The Album Leaf": 7.111111111111111,
+          "Tim McGraw": -30.777777777777775,
+          "Warpaint": -8.0
+        }
+      },
+      "both_32": {
+        "raw_error_percent": 31.425925925925924,
+        "adapter_error_percent": 33.22222222222222,
+        "adapter_minus_raw_pp": 1.7962962962962958,
+        "artist_bootstrap_95pct": [
+          -4.277777777777776,
+          7.833333333333333
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -8.222222222222229,
+          "Men at Work": 1.999999999999993,
+          "SAAY": 7.666666666666668,
+          "The Album Leaf": 9.000000000000002,
+          "Tim McGraw": -9.33333333333333,
+          "Warpaint": 9.666666666666671
+        }
+      }
+    },
+    "2": {
+      "native": {
+        "raw_error_percent": 25.055555555555557,
+        "adapter_error_percent": 26.685185185185187,
+        "adapter_minus_raw_pp": 1.629629629629629,
+        "artist_bootstrap_95pct": [
+          -5.166666666666666,
+          7.722222222222219
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -12.88888888888889,
+          "Men at Work": 4.666666666666657,
+          "SAAY": 10.333333333333332,
+          "The Album Leaf": 8.88888888888889,
+          "Tim McGraw": -5.555555555555556,
+          "Warpaint": 4.333333333333343
+        }
+      },
+      "mismatch_32": {
+        "raw_error_percent": 38.98148148148149,
+        "adapter_error_percent": 23.7037037037037,
+        "adapter_minus_raw_pp": -15.27777777777778,
+        "artist_bootstrap_95pct": [
+          -25.296296296296294,
+          -3.351851851851853
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -24.77777777777779,
+          "Men at Work": -9.666666666666664,
+          "SAAY": -26.111111111111114,
+          "The Album Leaf": 8.0,
+          "Tim McGraw": -30.888888888888886,
+          "Warpaint": -8.222222222222221
+        }
+      },
+      "both_32": {
+        "raw_error_percent": 31.425925925925924,
+        "adapter_error_percent": 34.38888888888889,
+        "adapter_minus_raw_pp": 2.962962962962962,
+        "artist_bootstrap_95pct": [
+          -3.5185185185185204,
+          9.16666666666667
+        ],
+        "per_artist_adapter_minus_raw_pp": {
+          "Iron & Wine": -6.777777777777793,
+          "Men at Work": 4.666666666666657,
+          "SAAY": 7.888888888888893,
+          "The Album Leaf": 12.555555555555555,
+          "Tim McGraw": -9.222222222222221,
+          "Warpaint": 8.666666666666679
+        }
+      }
+    }
+  }
+}
