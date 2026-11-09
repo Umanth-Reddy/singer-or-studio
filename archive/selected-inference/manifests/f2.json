@@ -1,0 +1,1595 @@
+[
+  {
+    "singer": "female1",
+    "sex": "female",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female1/excerpts/straight/f1_caro_straight.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female1_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female1_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female1_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female1_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female1_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female1_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female1",
+    "sex": "female",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female1/excerpts/straight/f1_dona_straight.wav",
+    "start": 441000,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female1_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female1_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female1_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female1_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female1_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female1_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female1",
+    "sex": "female",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female1/excerpts/straight/f1_row_straight.wav",
+    "start": 308700,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female1_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female1_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female1_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female1_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female1_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female1_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female2",
+    "sex": "female",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female2/excerpts/straight/f2_caro_straight.wav",
+    "start": 793800,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female2_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female2_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female2_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female2_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female2_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female2_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female2",
+    "sex": "female",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female2/excerpts/straight/f2_dona_straight.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female2_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female2_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female2_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female2_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female2_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female2_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female2",
+    "sex": "female",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female2/excerpts/straight/f2_row_straight.wav",
+    "start": 220500,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female2_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female2_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female2_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female2_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female2_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female2_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female3",
+    "sex": "female",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female3/excerpts/straight/f3_caro_straight.wav",
+    "start": 418950,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female3_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female3_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female3_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female3_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female3_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female3_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female3",
+    "sex": "female",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female3/excerpts/straight/f3_dona_straight.wav",
+    "start": 551250,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female3_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female3_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female3_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female3_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female3_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female3_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female3",
+    "sex": "female",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female3/excerpts/straight/f3_row_straight.wav",
+    "start": 242550,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female3_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female3_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female3_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female3_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female3_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female3_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female4",
+    "sex": "female",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female4/excerpts/straight/f4_caro_straight.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female4_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female4_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female4_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female4_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female4_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female4_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female4",
+    "sex": "female",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female4/excerpts/straight/f4_dona_straight.wav",
+    "start": 463050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female4_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female4_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female4_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female4_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female4_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female4_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female4",
+    "sex": "female",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female4/excerpts/straight/f4_row_straight.wav",
+    "start": 242550,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female4_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female4_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female4_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female4_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female4_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female4_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female5",
+    "sex": "female",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female5/excerpts/straight/f5_caro_straight.wav",
+    "start": 1014300,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female5_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female5_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female5_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female5_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female5_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female5_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female5",
+    "sex": "female",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female5/excerpts/straight/f5_dona_straight.wav",
+    "start": 529200,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female5_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female5_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female5_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female5_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female5_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female5_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female5",
+    "sex": "female",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female5/excerpts/straight/f5_row_straight.wav",
+    "start": 308700,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female5_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female5_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female5_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female5_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female5_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female5_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female6",
+    "sex": "female",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female6/excerpts/straight/f6_caro_straight.wav",
+    "start": 992250,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female6_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female6_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female6_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female6_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female6_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female6_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female6",
+    "sex": "female",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female6/excerpts/straight/f6_dona_straight.wav",
+    "start": 441000,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female6_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female6_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female6_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female6_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female6_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female6_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female6",
+    "sex": "female",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female6/excerpts/straight/f6_row_straight.wav",
+    "start": 176400,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female6_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female6_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female6_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female6_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female6_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female6_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female7",
+    "sex": "female",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female7/excerpts/straight/f7_caro_straight.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female7_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female7_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female7_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female7_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female7_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female7_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female7",
+    "sex": "female",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female7/excerpts/straight/f7_dona_straight.wav",
+    "start": 463050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female7_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female7_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female7_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female7_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female7_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female7_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female7",
+    "sex": "female",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female7/excerpts/straight/f7_row_straight.wav",
+    "start": 286650,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female7_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female7_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female7_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female7_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female7_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female7_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female8",
+    "sex": "female",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female8/excerpts/straight/f8_caro_straight.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female8_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female8_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female8_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female8_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female8_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female8_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female8",
+    "sex": "female",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female8/excerpts/straight/f8_dona_straight.wav",
+    "start": 485100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female8_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female8_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female8_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female8_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female8_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female8_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female8",
+    "sex": "female",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female8/excerpts/straight/f8_row_straight.wav",
+    "start": 441000,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female8_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female8_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female8_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female8_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female8_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female8_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female9",
+    "sex": "female",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female9/excerpts/straight/f9_caro_straight.wav",
+    "start": 705600,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female9_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female9_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female9_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female9_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female9_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female9_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female9",
+    "sex": "female",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female9/excerpts/straight/f9_dona_straight.wav",
+    "start": 463050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female9_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female9_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female9_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female9_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female9_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female9_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "female9",
+    "sex": "female",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/female9/excerpts/straight/f9_row_straight.wav",
+    "start": 176400,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/female9_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/female9_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/female9_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/female9_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/female9_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/female9_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male1",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male1/excerpts/straight/m1_caro_straight.wav",
+    "start": 1168650,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male1_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male1_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male1_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male1_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male1_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male1_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male1",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male1/excerpts/straight/m1_dona_straight.wav",
+    "start": 529200,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male1_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male1_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male1_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male1_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male1_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male1_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male1",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male1/excerpts/straight/m1_row_straight.wav",
+    "start": 352800,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male1_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male1_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male1_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male1_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male1_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male1_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male10",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male10/excerpts/straight/m10_caro_straight.wav",
+    "start": 705600,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male10_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male10_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male10_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male10_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male10_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male10_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male10",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male10/excerpts/straight/m10_dona_straight.wav",
+    "start": 441000,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male10_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male10_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male10_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male10_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male10_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male10_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male10",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male10/excerpts/straight/m10_row_straight.wav",
+    "start": 286650,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male10_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male10_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male10_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male10_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male10_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male10_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male11",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male11/excerpts/straight/m11_caro_straight.wav",
+    "start": 837900,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male11_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male11_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male11_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male11_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male11_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male11_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male11",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male11/excerpts/straight/m11_dona_straight.wav",
+    "start": 507150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male11_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male11_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male11_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male11_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male11_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male11_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male11",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male11/excerpts/straight/m11_row_straight.wav",
+    "start": 352800,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male11_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male11_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male11_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male11_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male11_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male11_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male2",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male2/excerpts/straight/m2_caro_straight.wav",
+    "start": 661500,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male2_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male2_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male2_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male2_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male2_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male2_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male2",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male2/excerpts/straight/m2_dona_straight.wav",
+    "start": 507150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male2_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male2_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male2_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male2_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male2_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male2_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male2",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male2/excerpts/straight/m2_row_straight.wav",
+    "start": 396900,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male2_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male2_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male2_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male2_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male2_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male2_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male3",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male3/excerpts/straight/m3_caro_straight.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male3_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male3_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male3_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male3_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male3_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male3_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male3",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male3/excerpts/straight/m3_dona_straight.wav",
+    "start": 485100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male3_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male3_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male3_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male3_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male3_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male3_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male3",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male3/excerpts/straight/m3_row_straight.wav",
+    "start": 308700,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male3_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male3_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male3_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male3_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male3_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male3_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male4",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male4/excerpts/straight/m4_caro_straight.wav",
+    "start": 705600,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male4_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male4_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male4_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male4_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male4_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male4_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male4",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male4/excerpts/straight/m4_dona_straight.wav",
+    "start": 374850,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male4_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male4_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male4_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male4_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male4_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male4_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male4",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male4/excerpts/straight/m4_row_straight.wav",
+    "start": 220500,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male4_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male4_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male4_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male4_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male4_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male4_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male5",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male5/excerpts/straight/m5_caro_straight.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male5_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male5_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male5_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male5_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male5_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male5_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male5",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male5/excerpts/straight/m5_dona_straight.wav",
+    "start": 396900,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male5_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male5_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male5_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male5_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male5_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male5_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male5",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male5/excerpts/straight/m5_row_straight.wav",
+    "start": 242550,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male5_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male5_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male5_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male5_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male5_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male5_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male6",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male6/excerpts/straight/m6_caro_straight.wav",
+    "start": 948150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male6_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male6_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male6_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male6_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male6_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male6_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male6",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male6/excerpts/straight/m6_dona_straight.wav",
+    "start": 374850,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male6_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male6_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male6_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male6_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male6_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male6_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male6",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male6/excerpts/straight/m6_row_straight.wav",
+    "start": 308700,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male6_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male6_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male6_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male6_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male6_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male6_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male7",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male7/excerpts/straight/m7_caro_straight.wav",
+    "start": 771750,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male7_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male7_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male7_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male7_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male7_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male7_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male7",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male7/excerpts/straight/m7_dona_straight.wav",
+    "start": 507150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male7_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male7_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male7_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male7_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male7_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male7_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male7",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male7/excerpts/straight/m7_row_straight.wav",
+    "start": 220500,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male7_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male7_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male7_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male7_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male7_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male7_row.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male8",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male8/excerpts/straight/m8_caro_straight.wav",
+    "start": 948150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male8_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male8_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male8_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male8_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male8_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male8_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male8",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male8/excerpts/straight/m8_dona_straight.wav",
+    "start": 507150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male8_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male8_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male8_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male8_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male8_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male8_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male9",
+    "sex": "male",
+    "song": "caro",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male9/excerpts/straight/m9_caro_straight.wav",
+    "start": 992250,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male9_caro.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male9_caro.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male9_caro.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male9_caro.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male9_caro.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male9_caro.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male9",
+    "sex": "male",
+    "song": "dona",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male9/excerpts/straight/m9_dona_straight.wav",
+    "start": 463050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male9_dona.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male9_dona.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male9_dona.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male9_dona.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male9_dona.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male9_dona.wav"
+      ]
+    }
+  },
+  {
+    "singer": "male9",
+    "sex": "male",
+    "song": "row",
+    "source": "/legacy/ps/datasets/PS_Acoustics/VocalSet/FULL/male9/excerpts/straight/m9_row_straight.wav",
+    "start": 308700,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/f2/crops/clean/male9_row.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/f2/crops/reverb@0.3/male9_row.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/f2/crops/codec@6/male9_row.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/f2/crops/mp3@64/male9_row.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/f2/crops/eq@12/male9_row.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/f2/crops/mixsep@0/male9_row.wav"
+      ]
+    }
+  }
+]

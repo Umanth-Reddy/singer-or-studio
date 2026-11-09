@@ -1,0 +1,2054 @@
+[
+  {
+    "singer": "ZH-Alto-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Chinese/ZH-Alto-1/Breathy/\u4e0d\u518d\u89c1/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ZH-Alto-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ZH-Alto-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ZH-Alto-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ZH-Alto-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ZH-Alto-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ZH-Alto-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ZH-Alto-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Chinese/ZH-Alto-1/Breathy/\u4e91\u70df\u6210\u96e8/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ZH-Alto-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ZH-Alto-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ZH-Alto-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ZH-Alto-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ZH-Alto-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ZH-Alto-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ZH-Alto-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Chinese/ZH-Alto-1/Vibrato/\u4e0d\u518d\u89c1/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ZH-Alto-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ZH-Alto-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ZH-Alto-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ZH-Alto-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ZH-Alto-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ZH-Alto-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ZH-Alto-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Chinese/ZH-Alto-1/Vibrato/\u5357\u5c4f\u665a\u949f/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ZH-Alto-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ZH-Alto-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ZH-Alto-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ZH-Alto-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ZH-Alto-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ZH-Alto-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ZH-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Chinese/ZH-Tenor-1/Breathy/\u4e0d\u67d3/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ZH-Tenor-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ZH-Tenor-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ZH-Tenor-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ZH-Tenor-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ZH-Tenor-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ZH-Tenor-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ZH-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Chinese/ZH-Tenor-1/Breathy/\u4f1a\u547c\u5438\u7684\u75db/Control_Group/0000.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ZH-Tenor-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ZH-Tenor-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ZH-Tenor-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ZH-Tenor-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ZH-Tenor-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ZH-Tenor-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ZH-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Chinese/ZH-Tenor-1/Vibrato/\u4ece\u524d\u6162/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ZH-Tenor-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ZH-Tenor-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ZH-Tenor-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ZH-Tenor-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ZH-Tenor-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ZH-Tenor-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ZH-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Chinese/ZH-Tenor-1/Vibrato/\u4f60\u7ed9\u6211\u542c\u597d/Control_Group/0000.wav",
+    "start": 154350,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ZH-Tenor-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ZH-Tenor-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ZH-Tenor-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ZH-Tenor-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ZH-Tenor-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ZH-Tenor-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Alto-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Alto-1/Breathy/all is found/Control_Group/0000.wav",
+    "start": 110250,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Alto-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Alto-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Alto-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Alto-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Alto-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Alto-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Alto-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Alto-1/Breathy/god is a girl/Control_Group/0000.wav",
+    "start": 88200,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Alto-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Alto-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Alto-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Alto-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Alto-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Alto-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Alto-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Alto-1/Vibrato/edelweiss/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Alto-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Alto-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Alto-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Alto-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Alto-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Alto-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Alto-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Alto-1/Vibrato/if you love me for me/Control_Group/0000.wav",
+    "start": 110250,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Alto-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Alto-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Alto-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Alto-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Alto-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Alto-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Alto-2",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Alto-2/Breathy/A Thousand Years/Control_Group/0000.wav",
+    "start": 242550,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Alto-2_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Alto-2_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Alto-2_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Alto-2_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Alto-2_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Alto-2_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Alto-2",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Alto-2/Breathy/All of Me/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Alto-2_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Alto-2_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Alto-2_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Alto-2_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Alto-2_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Alto-2_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Alto-2",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Alto-2/Vibrato/A Thousand Years/Control_Group/0000.wav",
+    "start": 242550,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Alto-2_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Alto-2_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Alto-2_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Alto-2_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Alto-2_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Alto-2_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Alto-2",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Alto-2/Vibrato/All of Me/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Alto-2_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Alto-2_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Alto-2_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Alto-2_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Alto-2_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Alto-2_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Tenor-1/Breathy/All I Ask/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Tenor-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Tenor-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Tenor-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Tenor-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Tenor-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Tenor-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Tenor-1/Breathy/Always Remember Us This Way/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Tenor-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Tenor-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Tenor-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Tenor-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Tenor-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Tenor-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Tenor-1/Vibrato/All I Ask/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Tenor-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Tenor-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Tenor-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Tenor-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Tenor-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Tenor-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "EN-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/English/EN-Tenor-1/Vibrato/Always Remember Us This Way/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/EN-Tenor-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/EN-Tenor-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/EN-Tenor-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/EN-Tenor-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/EN-Tenor-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/EN-Tenor-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "FR-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/French/FR-Soprano-1/Breathy/2019/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/FR-Soprano-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/FR-Soprano-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/FR-Soprano-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/FR-Soprano-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/FR-Soprano-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/FR-Soprano-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "FR-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/French/FR-Soprano-1/Breathy/a la vie comme a la mort/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/FR-Soprano-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/FR-Soprano-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/FR-Soprano-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/FR-Soprano-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/FR-Soprano-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/FR-Soprano-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "FR-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/French/FR-Soprano-1/Vibrato/1996/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/FR-Soprano-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/FR-Soprano-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/FR-Soprano-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/FR-Soprano-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/FR-Soprano-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/FR-Soprano-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "FR-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/French/FR-Soprano-1/Vibrato/a la renverse/Control_Group/0000.wav",
+    "start": 132300,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/FR-Soprano-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/FR-Soprano-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/FR-Soprano-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/FR-Soprano-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/FR-Soprano-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/FR-Soprano-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "FR-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/French/FR-Tenor-1/Breathy/Lafleur/Control_Group/0000.wav",
+    "start": 308700,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/FR-Tenor-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/FR-Tenor-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/FR-Tenor-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/FR-Tenor-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/FR-Tenor-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/FR-Tenor-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "FR-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/French/FR-Tenor-1/Breathy/Le Tor\u00e9ador/Control_Group/0000.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/FR-Tenor-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/FR-Tenor-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/FR-Tenor-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/FR-Tenor-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/FR-Tenor-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/FR-Tenor-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "FR-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/French/FR-Tenor-1/Vibrato/Le Tor\u00e9ador/Control_Group/0000.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/FR-Tenor-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/FR-Tenor-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/FR-Tenor-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/FR-Tenor-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/FR-Tenor-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/FR-Tenor-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "FR-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/French/FR-Tenor-1/Vibrato/Les Marionnettes/Control_Group/0000.wav",
+    "start": 330750,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/FR-Tenor-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/FR-Tenor-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/FR-Tenor-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/FR-Tenor-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/FR-Tenor-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/FR-Tenor-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "DE-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/German/DE-Soprano-1/Breathy/Copilot/Control_Group/0000.wav",
+    "start": 88200,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/DE-Soprano-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/DE-Soprano-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/DE-Soprano-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/DE-Soprano-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/DE-Soprano-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/DE-Soprano-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "DE-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/German/DE-Soprano-1/Breathy/Danke/Control_Group/0000.wav",
+    "start": 88200,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/DE-Soprano-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/DE-Soprano-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/DE-Soprano-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/DE-Soprano-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/DE-Soprano-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/DE-Soprano-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "DE-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/German/DE-Soprano-1/Vibrato/Copilot/Control_Group/0000.wav",
+    "start": 110250,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/DE-Soprano-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/DE-Soprano-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/DE-Soprano-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/DE-Soprano-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/DE-Soprano-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/DE-Soprano-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "DE-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/German/DE-Soprano-1/Vibrato/Danke/Control_Group/0000.wav",
+    "start": 110250,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/DE-Soprano-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/DE-Soprano-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/DE-Soprano-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/DE-Soprano-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/DE-Soprano-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/DE-Soprano-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "DE-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/German/DE-Tenor-1/Breathy/Adelaide/Control_Group/0000.wav",
+    "start": 88200,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/DE-Tenor-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/DE-Tenor-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/DE-Tenor-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/DE-Tenor-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/DE-Tenor-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/DE-Tenor-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "DE-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/German/DE-Tenor-1/Breathy/Am Feierabend/Control_Group/0000.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/DE-Tenor-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/DE-Tenor-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/DE-Tenor-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/DE-Tenor-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/DE-Tenor-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/DE-Tenor-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "DE-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/German/DE-Tenor-1/Vibrato/Adelaide/Control_Group/0000.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/DE-Tenor-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/DE-Tenor-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/DE-Tenor-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/DE-Tenor-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/DE-Tenor-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/DE-Tenor-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "DE-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/German/DE-Tenor-1/Vibrato/Am Feierabend/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/DE-Tenor-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/DE-Tenor-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/DE-Tenor-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/DE-Tenor-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/DE-Tenor-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/DE-Tenor-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Bass-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Bass-1/Breathy/Con ardore/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Bass-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Bass-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Bass-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Bass-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Bass-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Bass-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Bass-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Bass-1/Breathy/Di Provenza il mar, il suol/Control_Group/0000.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Bass-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Bass-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Bass-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Bass-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Bass-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Bass-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Bass-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Bass-1/Vibrato/Con ardore/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Bass-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Bass-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Bass-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Bass-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Bass-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Bass-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Bass-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Bass-1/Vibrato/Di Provenza il mar, il suol/Control_Group/0000.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Bass-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Bass-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Bass-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Bass-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Bass-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Bass-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Bass-2",
+    "sex": "male",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Bass-2/Breathy/Amarilli/Control_Group/0000.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Bass-2_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Bass-2_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Bass-2_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Bass-2_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Bass-2_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Bass-2_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Bass-2",
+    "sex": "male",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Bass-2/Breathy/Aprile/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Bass-2_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Bass-2_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Bass-2_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Bass-2_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Bass-2_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Bass-2_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Bass-2",
+    "sex": "male",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Bass-2/Vibrato/Amarilli/Control_Group/0000.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Bass-2_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Bass-2_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Bass-2_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Bass-2_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Bass-2_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Bass-2_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Bass-2",
+    "sex": "male",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Bass-2/Vibrato/Aprile/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Bass-2_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Bass-2_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Bass-2_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Bass-2_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Bass-2_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Bass-2_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Soprano-1/Breathy/batti batti/Control_Group/0000.wav",
+    "start": 242550,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Soprano-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Soprano-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Soprano-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Soprano-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Soprano-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Soprano-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Soprano-1/Breathy/lascia ch'io pianga/Control_Group/0000.wav",
+    "start": 308700,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Soprano-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Soprano-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Soprano-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Soprano-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Soprano-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Soprano-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Soprano-1/Vibrato/bella ciao/Control_Group/0000.wav",
+    "start": 220500,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Soprano-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Soprano-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Soprano-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Soprano-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Soprano-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Soprano-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "IT-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Italian/IT-Soprano-1/Vibrato/le violette/Control_Group/0000.wav",
+    "start": 330750,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/IT-Soprano-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/IT-Soprano-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/IT-Soprano-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/IT-Soprano-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/IT-Soprano-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/IT-Soprano-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "JA-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Japanese/JA-Soprano-1/Breathy/\u3055\u3088\u306a\u3089\u306e\u590f\uff5e\u30b3\u30af\u30ea\u30b3\u5742\u304b\u3089\uff5e/Control_Group/0000.wav",
+    "start": 198450,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/JA-Soprano-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/JA-Soprano-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/JA-Soprano-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/JA-Soprano-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/JA-Soprano-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/JA-Soprano-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "JA-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Japanese/JA-Soprano-1/Breathy/\u305f\u3060\u3044\u307e/Control_Group/0000.wav",
+    "start": 154350,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/JA-Soprano-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/JA-Soprano-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/JA-Soprano-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/JA-Soprano-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/JA-Soprano-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/JA-Soprano-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "JA-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Japanese/JA-Soprano-1/Vibrato/heartful song/Control_Group/0000.wav",
+    "start": 463050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/JA-Soprano-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/JA-Soprano-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/JA-Soprano-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/JA-Soprano-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/JA-Soprano-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/JA-Soprano-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "JA-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Japanese/JA-Soprano-1/Vibrato/voyage/Control_Group/0000.wav",
+    "start": 88200,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/JA-Soprano-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/JA-Soprano-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/JA-Soprano-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/JA-Soprano-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/JA-Soprano-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/JA-Soprano-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "JA-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Japanese/JA-Tenor-1/Breathy/Heartful Song/Control_Group/0000.wav",
+    "start": 0,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/JA-Tenor-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/JA-Tenor-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/JA-Tenor-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/JA-Tenor-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/JA-Tenor-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/JA-Tenor-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "JA-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Japanese/JA-Tenor-1/Breathy/\u3055\u3093\u307d/Control_Group/0000.wav",
+    "start": 220500,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/JA-Tenor-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/JA-Tenor-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/JA-Tenor-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/JA-Tenor-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/JA-Tenor-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/JA-Tenor-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "JA-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Japanese/JA-Tenor-1/Vibrato/Heartful Song/Control_Group/0000.wav",
+    "start": 374850,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/JA-Tenor-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/JA-Tenor-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/JA-Tenor-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/JA-Tenor-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/JA-Tenor-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/JA-Tenor-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "JA-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Japanese/JA-Tenor-1/Vibrato/\u3055\u3093\u307d/Control_Group/0000.wav",
+    "start": 220500,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/JA-Tenor-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/JA-Tenor-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/JA-Tenor-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/JA-Tenor-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/JA-Tenor-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/JA-Tenor-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Soprano-1/Breathy/all about you/Control_Group/0000.wav",
+    "start": 176400,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Soprano-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Soprano-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Soprano-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Soprano-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Soprano-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Soprano-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Soprano-1/Breathy/gravity/Control_Group/0000.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Soprano-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Soprano-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Soprano-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Soprano-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Soprano-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Soprano-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Soprano-1/Vibrato/chantey/Control_Group/0000.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Soprano-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Soprano-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Soprano-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Soprano-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Soprano-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Soprano-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Soprano-1/Vibrato/mysea/Control_Group/0000.wav",
+    "start": 198450,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Soprano-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Soprano-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Soprano-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Soprano-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Soprano-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Soprano-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Soprano-2",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Soprano-2/Breathy/ur/Control_Group/0000.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Soprano-2_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Soprano-2_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Soprano-2_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Soprano-2_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Soprano-2_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Soprano-2_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Soprano-2",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Soprano-2/Breathy/\ub208, \ucf54, \uc785/Control_Group/0000.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Soprano-2_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Soprano-2_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Soprano-2_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Soprano-2_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Soprano-2_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Soprano-2_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Soprano-2",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Soprano-2/Vibrato/\ub208, \ucf54, \uc785/Control_Group/0000.wav",
+    "start": 22050,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Soprano-2_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Soprano-2_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Soprano-2_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Soprano-2_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Soprano-2_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Soprano-2_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Soprano-2",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Soprano-2/Vibrato/\ub2e4\uac00\uc640/Control_Group/0000.wav",
+    "start": 88200,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Soprano-2_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Soprano-2_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Soprano-2_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Soprano-2_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Soprano-2_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Soprano-2_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Tenor-1/Breathy/EYES, NOSE, LIPS/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Tenor-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Tenor-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Tenor-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Tenor-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Tenor-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Tenor-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Tenor-1/Breathy/IF YOU/Control_Group/0000.wav",
+    "start": 418950,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Tenor-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Tenor-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Tenor-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Tenor-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Tenor-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Tenor-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Tenor-1/Vibrato/EYES, NOSE, LIPS/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Tenor-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Tenor-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Tenor-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Tenor-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Tenor-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Tenor-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "KO-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Korean/KO-Tenor-1/Vibrato/IF YOU/Control_Group/0000.wav",
+    "start": 418950,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/KO-Tenor-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/KO-Tenor-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/KO-Tenor-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/KO-Tenor-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/KO-Tenor-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/KO-Tenor-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ES-Bass-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Spanish/ES-Bass-1/Breathy/A Gritos de Esperanza/Control_Group/0000.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ES-Bass-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ES-Bass-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ES-Bass-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ES-Bass-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ES-Bass-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ES-Bass-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ES-Bass-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Spanish/ES-Bass-1/Breathy/Amar y Querer/Control_Group/0000.wav",
+    "start": 352800,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ES-Bass-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ES-Bass-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ES-Bass-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ES-Bass-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ES-Bass-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ES-Bass-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ES-Bass-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Spanish/ES-Bass-1/Vibrato/A Gritos de Esperanza/Control_Group/0000.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ES-Bass-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ES-Bass-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ES-Bass-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ES-Bass-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ES-Bass-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ES-Bass-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ES-Bass-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Spanish/ES-Bass-1/Vibrato/Amar y Querer/Control_Group/0000.wav",
+    "start": 44100,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ES-Bass-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ES-Bass-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ES-Bass-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ES-Bass-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ES-Bass-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ES-Bass-1_s3.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ES-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Spanish/ES-Soprano-1/Breathy/Ecos De Amor/Control_Group/0000.wav",
+    "start": 66150,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ES-Soprano-1_s0.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ES-Soprano-1_s0.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ES-Soprano-1_s0.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ES-Soprano-1_s0.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ES-Soprano-1_s0.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ES-Soprano-1_s0.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ES-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Spanish/ES-Soprano-1/Breathy/Esta Noche Es Para Amar/Control_Group/0000.wav",
+    "start": 352800,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ES-Soprano-1_s1.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ES-Soprano-1_s1.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ES-Soprano-1_s1.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ES-Soprano-1_s1.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ES-Soprano-1_s1.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ES-Soprano-1_s1.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ES-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Spanish/ES-Soprano-1/Vibrato/Ecos De Amor/Control_Group/0000.wav",
+    "start": 308700,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ES-Soprano-1_s2.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ES-Soprano-1_s2.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ES-Soprano-1_s2.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ES-Soprano-1_s2.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ES-Soprano-1_s2.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ES-Soprano-1_s2.wav"
+      ]
+    }
+  },
+  {
+    "singer": "ES-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "/legacy/ps/Q1-candidate-3/.external_data/Spanish/ES-Soprano-1/Vibrato/Loveyourself/Control_Group/0000.wav",
+    "start": 308700,
+    "crops": {
+      "clean": [
+        "/legacy/ps/claude-research/data/g1/crops/clean/ES-Soprano-1_s3.wav"
+      ],
+      "reverb@0.3": [
+        "/legacy/ps/claude-research/data/g1/crops/reverb@0.3/ES-Soprano-1_s3.wav"
+      ],
+      "codec@6": [
+        "/legacy/ps/claude-research/data/g1/crops/codec@6/ES-Soprano-1_s3.wav"
+      ],
+      "mp3@64": [
+        "/legacy/ps/claude-research/data/g1/crops/mp3@64/ES-Soprano-1_s3.wav"
+      ],
+      "eq@12": [
+        "/legacy/ps/claude-research/data/g1/crops/eq@12/ES-Soprano-1_s3.wav"
+      ],
+      "mixsep@0": [
+        "/legacy/ps/claude-research/data/g1/crops/mixsep@0/ES-Soprano-1_s3.wav"
+      ]
+    }
+  }
+]
