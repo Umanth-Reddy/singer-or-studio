@@ -1,0 +1,2002 @@
+[
+  {
+    "singer": "jvs001",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs001/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs001/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs001/common.wav"
+    }
+  },
+  {
+    "singer": "jvs001",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs001/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs001/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs001/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs002",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs002/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs002/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs002/common.wav"
+    }
+  },
+  {
+    "singer": "jvs002",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs002/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs002/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs002/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs003",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs003/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs003/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs003/common.wav"
+    }
+  },
+  {
+    "singer": "jvs003",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs003/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs003/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs003/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs004",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs004/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs004/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs004/common.wav"
+    }
+  },
+  {
+    "singer": "jvs004",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs004/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs004/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs004/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs005",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs005/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs005/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs005/common.wav"
+    }
+  },
+  {
+    "singer": "jvs005",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs005/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs005/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs005/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs006",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs006/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs006/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs006/common.wav"
+    }
+  },
+  {
+    "singer": "jvs006",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs006/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs006/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs006/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs007",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs007/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs007/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs007/common.wav"
+    }
+  },
+  {
+    "singer": "jvs007",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs007/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs007/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs007/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs008",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs008/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs008/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs008/common.wav"
+    }
+  },
+  {
+    "singer": "jvs008",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs008/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs008/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs008/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs009",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs009/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs009/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs009/common.wav"
+    }
+  },
+  {
+    "singer": "jvs009",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs009/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs009/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs009/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs010",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs010/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs010/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs010/common.wav"
+    }
+  },
+  {
+    "singer": "jvs010",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs010/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs010/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs010/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs011",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs011/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs011/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs011/common.wav"
+    }
+  },
+  {
+    "singer": "jvs011",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs011/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs011/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs011/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs012",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs012/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs012/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs012/common.wav"
+    }
+  },
+  {
+    "singer": "jvs012",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs012/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs012/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs012/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs013",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs013/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs013/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs013/common.wav"
+    }
+  },
+  {
+    "singer": "jvs013",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs013/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs013/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs013/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs014",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs014/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs014/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs014/common.wav"
+    }
+  },
+  {
+    "singer": "jvs014",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs014/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs014/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs014/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs015",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs015/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs015/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs015/common.wav"
+    }
+  },
+  {
+    "singer": "jvs015",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs015/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs015/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs015/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs016",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs016/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs016/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs016/common.wav"
+    }
+  },
+  {
+    "singer": "jvs016",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs016/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs016/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs016/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs017",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs017/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs017/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs017/common.wav"
+    }
+  },
+  {
+    "singer": "jvs017",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs017/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs017/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs017/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs018",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs018/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs018/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs018/common.wav"
+    }
+  },
+  {
+    "singer": "jvs018",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs018/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs018/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs018/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs019",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs019/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs019/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs019/common.wav"
+    }
+  },
+  {
+    "singer": "jvs019",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs019/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs019/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs019/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs020",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs020/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs020/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs020/common.wav"
+    }
+  },
+  {
+    "singer": "jvs020",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs020/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs020/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs020/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs021",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs021/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs021/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs021/common.wav"
+    }
+  },
+  {
+    "singer": "jvs021",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs021/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs021/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs021/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs022",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs022/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs022/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs022/common.wav"
+    }
+  },
+  {
+    "singer": "jvs022",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs022/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs022/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs022/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs023",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs023/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs023/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs023/common.wav"
+    }
+  },
+  {
+    "singer": "jvs023",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs023/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs023/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs023/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs024",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs024/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs024/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs024/common.wav"
+    }
+  },
+  {
+    "singer": "jvs024",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs024/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs024/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs024/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs025",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs025/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs025/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs025/common.wav"
+    }
+  },
+  {
+    "singer": "jvs025",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs025/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs025/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs025/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs026",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs026/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs026/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs026/common.wav"
+    }
+  },
+  {
+    "singer": "jvs026",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs026/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs026/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs026/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs027",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs027/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs027/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs027/common.wav"
+    }
+  },
+  {
+    "singer": "jvs027",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs027/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs027/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs027/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs028",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs028/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs028/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs028/common.wav"
+    }
+  },
+  {
+    "singer": "jvs028",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs028/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs028/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs028/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs029",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs029/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs029/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs029/common.wav"
+    }
+  },
+  {
+    "singer": "jvs029",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs029/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs029/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs029/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs030",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs030/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs030/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs030/common.wav"
+    }
+  },
+  {
+    "singer": "jvs030",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs030/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs030/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs030/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs031",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs031/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs031/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs031/common.wav"
+    }
+  },
+  {
+    "singer": "jvs031",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs031/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs031/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs031/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs032",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs032/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs032/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs032/common.wav"
+    }
+  },
+  {
+    "singer": "jvs032",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs032/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs032/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs032/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs033",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs033/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs033/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs033/common.wav"
+    }
+  },
+  {
+    "singer": "jvs033",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs033/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs033/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs033/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs034",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs034/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs034/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs034/common.wav"
+    }
+  },
+  {
+    "singer": "jvs034",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs034/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs034/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs034/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs035",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs035/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs035/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs035/common.wav"
+    }
+  },
+  {
+    "singer": "jvs035",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs035/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs035/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs035/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs036",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs036/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs036/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs036/common.wav"
+    }
+  },
+  {
+    "singer": "jvs036",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs036/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs036/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs036/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs037",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs037/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs037/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs037/common.wav"
+    }
+  },
+  {
+    "singer": "jvs037",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs037/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs037/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs037/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs038",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs038/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs038/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs038/common.wav"
+    }
+  },
+  {
+    "singer": "jvs038",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs038/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs038/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs038/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs039",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs039/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs039/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs039/common.wav"
+    }
+  },
+  {
+    "singer": "jvs039",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs039/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs039/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs039/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs040",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs040/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs040/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs040/common.wav"
+    }
+  },
+  {
+    "singer": "jvs040",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs040/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs040/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs040/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs041",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs041/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs041/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs041/common.wav"
+    }
+  },
+  {
+    "singer": "jvs041",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs041/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs041/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs041/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs042",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs042/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs042/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs042/common.wav"
+    }
+  },
+  {
+    "singer": "jvs042",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs042/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs042/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs042/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs043",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs043/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs043/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs043/common.wav"
+    }
+  },
+  {
+    "singer": "jvs043",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs043/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs043/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs043/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs044",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs044/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs044/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs044/common.wav"
+    }
+  },
+  {
+    "singer": "jvs044",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs044/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs044/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs044/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs045",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs045/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs045/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs045/common.wav"
+    }
+  },
+  {
+    "singer": "jvs045",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs045/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs045/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs045/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs046",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs046/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs046/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs046/common.wav"
+    }
+  },
+  {
+    "singer": "jvs046",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs046/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs046/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs046/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs047",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs047/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs047/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs047/common.wav"
+    }
+  },
+  {
+    "singer": "jvs047",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs047/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs047/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs047/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs048",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs048/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs048/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs048/common.wav"
+    }
+  },
+  {
+    "singer": "jvs048",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs048/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs048/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs048/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs049",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs049/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs049/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs049/common.wav"
+    }
+  },
+  {
+    "singer": "jvs049",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs049/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs049/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs049/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs050",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs050/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs050/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs050/common.wav"
+    }
+  },
+  {
+    "singer": "jvs050",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs050/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs050/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs050/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs051",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs051/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs051/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs051/common.wav"
+    }
+  },
+  {
+    "singer": "jvs051",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs051/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs051/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs051/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs052",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs052/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs052/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs052/common.wav"
+    }
+  },
+  {
+    "singer": "jvs052",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs052/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs052/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs052/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs053",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs053/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs053/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs053/common.wav"
+    }
+  },
+  {
+    "singer": "jvs053",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs053/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs053/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs053/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs054",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs054/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs054/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs054/common.wav"
+    }
+  },
+  {
+    "singer": "jvs054",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs054/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs054/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs054/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs055",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs055/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs055/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs055/common.wav"
+    }
+  },
+  {
+    "singer": "jvs055",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs055/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs055/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs055/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs056",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs056/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs056/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs056/common.wav"
+    }
+  },
+  {
+    "singer": "jvs056",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs056/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs056/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs056/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs057",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs057/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs057/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs057/common.wav"
+    }
+  },
+  {
+    "singer": "jvs057",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs057/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs057/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs057/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs058",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs058/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs058/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs058/common.wav"
+    }
+  },
+  {
+    "singer": "jvs058",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs058/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs058/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs058/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs059",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs059/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs059/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs059/common.wav"
+    }
+  },
+  {
+    "singer": "jvs059",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs059/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs059/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs059/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs060",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs060/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs060/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs060/common.wav"
+    }
+  },
+  {
+    "singer": "jvs060",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs060/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs060/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs060/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs061",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs061/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs061/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs061/common.wav"
+    }
+  },
+  {
+    "singer": "jvs061",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs061/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs061/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs061/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs062",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs062/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs062/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs062/common.wav"
+    }
+  },
+  {
+    "singer": "jvs062",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs062/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs062/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs062/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs063",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs063/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs063/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs063/common.wav"
+    }
+  },
+  {
+    "singer": "jvs063",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs063/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs063/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs063/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs064",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs064/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs064/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs064/common.wav"
+    }
+  },
+  {
+    "singer": "jvs064",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs064/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs064/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs064/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs065",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs065/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs065/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs065/common.wav"
+    }
+  },
+  {
+    "singer": "jvs065",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs065/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs065/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs065/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs066",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs066/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs066/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs066/common.wav"
+    }
+  },
+  {
+    "singer": "jvs066",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs066/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs066/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs066/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs067",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs067/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs067/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs067/common.wav"
+    }
+  },
+  {
+    "singer": "jvs067",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs067/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs067/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs067/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs068",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs068/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs068/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs068/common.wav"
+    }
+  },
+  {
+    "singer": "jvs068",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs068/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs068/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs068/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs069",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs069/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs069/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs069/common.wav"
+    }
+  },
+  {
+    "singer": "jvs069",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs069/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs069/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs069/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs070",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs070/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs070/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs070/common.wav"
+    }
+  },
+  {
+    "singer": "jvs070",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs070/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs070/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs070/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs071",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs071/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs071/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs071/common.wav"
+    }
+  },
+  {
+    "singer": "jvs071",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs071/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs071/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs071/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs072",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs072/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs072/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs072/common.wav"
+    }
+  },
+  {
+    "singer": "jvs072",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs072/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs072/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs072/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs073",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs073/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs073/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs073/common.wav"
+    }
+  },
+  {
+    "singer": "jvs073",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs073/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs073/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs073/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs074",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs074/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs074/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs074/common.wav"
+    }
+  },
+  {
+    "singer": "jvs074",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs074/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs074/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs074/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs075",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs075/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs075/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs075/common.wav"
+    }
+  },
+  {
+    "singer": "jvs075",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs075/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs075/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs075/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs076",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs076/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs076/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs076/common.wav"
+    }
+  },
+  {
+    "singer": "jvs076",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs076/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs076/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs076/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs077",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs077/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs077/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs077/common.wav"
+    }
+  },
+  {
+    "singer": "jvs077",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs077/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs077/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs077/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs078",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs078/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs078/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs078/common.wav"
+    }
+  },
+  {
+    "singer": "jvs078",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs078/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs078/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs078/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs079",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs079/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs079/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs079/common.wav"
+    }
+  },
+  {
+    "singer": "jvs079",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs079/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs079/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs079/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs080",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs080/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs080/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs080/common.wav"
+    }
+  },
+  {
+    "singer": "jvs080",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs080/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs080/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs080/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs081",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs081/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs081/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs081/common.wav"
+    }
+  },
+  {
+    "singer": "jvs081",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs081/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs081/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs081/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs082",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs082/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs082/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs082/common.wav"
+    }
+  },
+  {
+    "singer": "jvs082",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs082/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs082/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs082/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs083",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs083/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs083/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs083/common.wav"
+    }
+  },
+  {
+    "singer": "jvs083",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs083/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs083/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs083/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs084",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs084/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs084/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs084/common.wav"
+    }
+  },
+  {
+    "singer": "jvs084",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs084/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs084/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs084/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs085",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs085/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs085/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs085/common.wav"
+    }
+  },
+  {
+    "singer": "jvs085",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs085/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs085/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs085/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs086",
+    "song": "common",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs086/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs086/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs086/common.wav"
+    }
+  },
+  {
+    "singer": "jvs086",
+    "song": "unique",
+    "group": "male_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs086/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs086/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs086/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs087",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs087/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs087/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs087/common.wav"
+    }
+  },
+  {
+    "singer": "jvs087",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs087/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs087/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs087/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs088",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs088/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs088/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs088/common.wav"
+    }
+  },
+  {
+    "singer": "jvs088",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs088/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs088/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs088/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs089",
+    "song": "common",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs089/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs089/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs089/common.wav"
+    }
+  },
+  {
+    "singer": "jvs089",
+    "song": "unique",
+    "group": "male_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs089/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs089/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs089/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs090",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs090/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs090/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs090/common.wav"
+    }
+  },
+  {
+    "singer": "jvs090",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs090/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs090/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs090/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs091",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs091/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs091/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs091/common.wav"
+    }
+  },
+  {
+    "singer": "jvs091",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs091/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs091/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs091/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs092",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs092/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs092/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs092/common.wav"
+    }
+  },
+  {
+    "singer": "jvs092",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs092/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs092/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs092/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs093",
+    "song": "common",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs093/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs093/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs093/common.wav"
+    }
+  },
+  {
+    "singer": "jvs093",
+    "song": "unique",
+    "group": "female_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs093/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs093/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs093/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs094",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs094/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs094/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs094/common.wav"
+    }
+  },
+  {
+    "singer": "jvs094",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs094/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs094/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs094/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs095",
+    "song": "common",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs095/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs095/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs095/common.wav"
+    }
+  },
+  {
+    "singer": "jvs095",
+    "song": "unique",
+    "group": "female_mid",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs095/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs095/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs095/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs096",
+    "song": "common",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs096/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs096/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs096/common.wav"
+    }
+  },
+  {
+    "singer": "jvs096",
+    "song": "unique",
+    "group": "female_low",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs096/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs096/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs096/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs097",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs097/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs097/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs097/common.wav"
+    }
+  },
+  {
+    "singer": "jvs097",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs097/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs097/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs097/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs098",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs098/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs098/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs098/common.wav"
+    }
+  },
+  {
+    "singer": "jvs098",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs098/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs098/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs098/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs099",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs099/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs099/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs099/common.wav"
+    }
+  },
+  {
+    "singer": "jvs099",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs099/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs099/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs099/unique.wav"
+    }
+  },
+  {
+    "singer": "jvs100",
+    "song": "common",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs100/common.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs100/common.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs100/common.wav"
+    }
+  },
+  {
+    "singer": "jvs100",
+    "song": "unique",
+    "group": "male_high",
+    "crops": {
+      "clean": "datasets/jvs-music/processed/clean/jvs100/unique.wav",
+      "mp3_64": "datasets/jvs-music/processed/mp3_64/jvs100/unique.wav",
+      "reverb_20": "datasets/jvs-music/processed/reverb_20/jvs100/unique.wav"
+    }
+  }
+]
