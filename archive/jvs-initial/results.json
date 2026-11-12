@@ -1,0 +1,569 @@
+{
+  "cvsm_art": {
+    "model": "cvsm_art",
+    "singers": 100,
+    "vocal_range_groups": 6,
+    "conditions": {
+      "clean_all": {
+        "query_condition": "clean",
+        "positive_condition": "clean",
+        "negative_condition": "clean",
+        "ranking_error_pct": 14.73333333333333,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          10.295282738095239,
+          19.556382783882782
+        ],
+        "eer_pct_descriptive": 23.011479591836736,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 13.602941176470587,
+          "female_low": 18.75,
+          "female_mid": 21.691176470588236,
+          "male_high": 10.416666666666666,
+          "male_low": 10.661764705882353,
+          "male_mid": 12.916666666666664
+        },
+        "difference_vs_clean_all_pts": 0.0,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          0.0,
+          0.0
+        ]
+      },
+      "clean_query_mp3_64_positive": {
+        "query_condition": "clean",
+        "positive_condition": "mp3_64",
+        "negative_condition": "clean",
+        "ranking_error_pct": 22.016666666666666,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          16.6130608974359,
+          27.6484455128205
+        ],
+        "eer_pct_descriptive": 30.997448979591834,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 25.36764705882353,
+          "female_low": 24.264705882352942,
+          "female_mid": 33.088235294117645,
+          "male_high": 16.25,
+          "male_low": 15.808823529411764,
+          "male_mid": 16.666666666666664
+        },
+        "difference_vs_clean_all_pts": 7.283333333333335,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          4.036475919913421,
+          10.888058608058609
+        ]
+      },
+      "mp3_64_query_clean_candidates": {
+        "query_condition": "mp3_64",
+        "positive_condition": "clean",
+        "negative_condition": "clean",
+        "ranking_error_pct": 13.504166666666666,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          9.404955357142859,
+          18.0224233058608
+        ],
+        "eer_pct_descriptive": 23.989795918367346,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 11.029411764705882,
+          "female_low": 18.38235294117647,
+          "female_mid": 19.485294117647058,
+          "male_high": 9.583333333333332,
+          "male_low": 12.5,
+          "male_mid": 9.583333333333334
+        },
+        "difference_vs_clean_all_pts": -1.2291666666666643,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -3.2031250000000004,
+          0.5478021978021954
+        ]
+      },
+      "matched_mp3_64": {
+        "query_condition": "mp3_64",
+        "positive_condition": "mp3_64",
+        "negative_condition": "mp3_64",
+        "ranking_error_pct": 13.804166666666667,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          9.544552426739926,
+          18.48271978021978
+        ],
+        "eer_pct_descriptive": 23.011479591836736,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 12.132352941176471,
+          "female_low": 19.485294117647058,
+          "female_mid": 20.955882352941178,
+          "male_high": 7.5,
+          "male_low": 11.76470588235294,
+          "male_mid": 10.416666666666668
+        },
+        "difference_vs_clean_all_pts": -0.9291666666666636,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -3.5137840284715285,
+          1.7881994047619036
+        ]
+      },
+      "clean_query_reverb_20_positive": {
+        "query_condition": "clean",
+        "positive_condition": "reverb_20",
+        "negative_condition": "clean",
+        "ranking_error_pct": 46.2375,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          38.909826007326004,
+          53.739381868131865
+        ],
+        "eer_pct_descriptive": 46.90561224489795,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 48.529411764705884,
+          "female_low": 50.36764705882353,
+          "female_mid": 59.55882352941176,
+          "male_high": 42.91666666666667,
+          "male_low": 38.23529411764706,
+          "male_mid": 37.083333333333336
+        },
+        "difference_vs_clean_all_pts": 31.504166666666666,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          25.32885989010989,
+          38.142685439560445
+        ]
+      },
+      "reverb_20_query_clean_candidates": {
+        "query_condition": "reverb_20",
+        "positive_condition": "clean",
+        "negative_condition": "clean",
+        "ranking_error_pct": 14.145833333333336,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          10.144434523809524,
+          18.405031322843822
+        ],
+        "eer_pct_descriptive": 26.988520408163264,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 13.23529411764706,
+          "female_low": 19.11764705882353,
+          "female_mid": 21.323529411764707,
+          "male_high": 11.666666666666666,
+          "male_low": 9.926470588235293,
+          "male_mid": 9.166666666666668
+        },
+        "difference_vs_clean_all_pts": -0.587499999999995,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -4.038153617216118,
+          2.8869814560439537
+        ]
+      },
+      "matched_reverb_20": {
+        "query_condition": "reverb_20",
+        "positive_condition": "reverb_20",
+        "negative_condition": "reverb_20",
+        "ranking_error_pct": 11.254166666666665,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          7.366651785714284,
+          15.59228136446886
+        ],
+        "eer_pct_descriptive": 20.044642857142858,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 13.970588235294118,
+          "female_low": 10.294117647058822,
+          "female_mid": 22.794117647058822,
+          "male_high": 7.500000000000001,
+          "male_low": 6.985294117647059,
+          "male_mid": 5.416666666666667
+        },
+        "difference_vs_clean_all_pts": -3.479166666666666,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -6.352071262071261,
+          -0.8374473443223451
+        ]
+      }
+    }
+  },
+  "cvsm_a": {
+    "model": "cvsm_a",
+    "singers": 100,
+    "vocal_range_groups": 6,
+    "conditions": {
+      "clean_all": {
+        "query_condition": "clean",
+        "positive_condition": "clean",
+        "negative_condition": "clean",
+        "ranking_error_pct": 14.862499999999997,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          10.358199404761907,
+          19.636751373626367
+        ],
+        "eer_pct_descriptive": 23.989795918367346,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 18.014705882352942,
+          "female_low": 18.38235294117647,
+          "female_mid": 22.794117647058822,
+          "male_high": 7.5,
+          "male_low": 11.76470588235294,
+          "male_mid": 10.0
+        },
+        "difference_vs_clean_all_pts": 0.0,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          0.0,
+          0.0
+        ]
+      },
+      "clean_query_mp3_64_positive": {
+        "query_condition": "clean",
+        "positive_condition": "mp3_64",
+        "negative_condition": "clean",
+        "ranking_error_pct": 16.383333333333333,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          11.682604166666668,
+          21.51603594322344
+        ],
+        "eer_pct_descriptive": 26.010204081632654,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 16.544117647058822,
+          "female_low": 25.0,
+          "female_mid": 23.897058823529413,
+          "male_high": 8.75,
+          "male_low": 12.5,
+          "male_mid": 10.833333333333334
+        },
+        "difference_vs_clean_all_pts": 1.5208333333333357,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -0.2304464285714286,
+          3.4815603146853147
+        ]
+      },
+      "mp3_64_query_clean_candidates": {
+        "query_condition": "mp3_64",
+        "positive_condition": "clean",
+        "negative_condition": "clean",
+        "ranking_error_pct": 14.933333333333332,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          10.41961881868132,
+          19.971369255744246
+        ],
+        "eer_pct_descriptive": 23.989795918367346,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 18.014705882352942,
+          "female_low": 17.647058823529413,
+          "female_mid": 22.794117647058822,
+          "male_high": 7.916666666666666,
+          "male_low": 12.132352941176471,
+          "male_mid": 10.416666666666668
+        },
+        "difference_vs_clean_all_pts": 0.07083333333333464,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -1.2161850649350647,
+          1.4506604853479854
+        ]
+      },
+      "matched_mp3_64": {
+        "query_condition": "mp3_64",
+        "positive_condition": "mp3_64",
+        "negative_condition": "mp3_64",
+        "ranking_error_pct": 15.699999999999998,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          11.078343635531136,
+          20.80550824175824
+        ],
+        "eer_pct_descriptive": 26.010204081632654,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 16.544117647058822,
+          "female_low": 22.426470588235293,
+          "female_mid": 20.955882352941178,
+          "male_high": 7.083333333333333,
+          "male_low": 13.602941176470587,
+          "male_mid": 12.916666666666664
+        },
+        "difference_vs_clean_all_pts": 0.8375000000000004,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -1.256635760073262,
+          3.096871565934062
+        ]
+      },
+      "clean_query_reverb_20_positive": {
+        "query_condition": "clean",
+        "positive_condition": "reverb_20",
+        "negative_condition": "clean",
+        "ranking_error_pct": 47.85833333333333,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          41.52379235347986,
+          54.33796484765235
+        ],
+        "eer_pct_descriptive": 45.99107142857143,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 55.88235294117647,
+          "female_low": 55.14705882352941,
+          "female_mid": 54.779411764705884,
+          "male_high": 35.0,
+          "male_low": 40.80882352941176,
+          "male_mid": 44.58333333333333
+        },
+        "difference_vs_clean_all_pts": 32.99583333333333,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          27.288398580586076,
+          39.124601648351636
+        ]
+      },
+      "reverb_20_query_clean_candidates": {
+        "query_condition": "reverb_20",
+        "positive_condition": "clean",
+        "negative_condition": "clean",
+        "ranking_error_pct": 12.583333333333332,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          8.427801677489178,
+          17.11495421245421
+        ],
+        "eer_pct_descriptive": 22.00127551020408,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 13.23529411764706,
+          "female_low": 13.602941176470587,
+          "female_mid": 20.955882352941178,
+          "male_high": 5.416666666666667,
+          "male_low": 12.5,
+          "male_mid": 9.166666666666668
+        },
+        "difference_vs_clean_all_pts": -2.279166666666665,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -4.921979166666666,
+          0.2822332875457858
+        ]
+      },
+      "matched_reverb_20": {
+        "query_condition": "reverb_20",
+        "positive_condition": "reverb_20",
+        "negative_condition": "reverb_20",
+        "ranking_error_pct": 13.695833333333333,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          9.150580357142859,
+          18.643749999999994
+        ],
+        "eer_pct_descriptive": 22.00127551020408,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 15.808823529411764,
+          "female_low": 16.176470588235293,
+          "female_mid": 24.264705882352942,
+          "male_high": 5.0,
+          "male_low": 11.76470588235294,
+          "male_mid": 8.333333333333332
+        },
+        "difference_vs_clean_all_pts": -1.1666666666666643,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -3.620293040293041,
+          1.2083447802197789
+        ]
+      }
+    }
+  },
+  "ssl": {
+    "model": "ssl",
+    "singers": 100,
+    "vocal_range_groups": 6,
+    "conditions": {
+      "clean_all": {
+        "query_condition": "clean",
+        "positive_condition": "clean",
+        "negative_condition": "clean",
+        "ranking_error_pct": 18.487499999999997,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          13.592385531135534,
+          23.681512133699634
+        ],
+        "eer_pct_descriptive": 27.998724489795922,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 11.76470588235294,
+          "female_low": 23.52941176470588,
+          "female_mid": 30.88235294117647,
+          "male_high": 16.666666666666668,
+          "male_low": 14.338235294117647,
+          "male_mid": 13.333333333333334
+        },
+        "difference_vs_clean_all_pts": 0.0,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          0.0,
+          0.0
+        ]
+      },
+      "clean_query_mp3_64_positive": {
+        "query_condition": "clean",
+        "positive_condition": "mp3_64",
+        "negative_condition": "clean",
+        "ranking_error_pct": 27.979166666666664,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          22.289222756410258,
+          33.77028502747253
+        ],
+        "eer_pct_descriptive": 34.942602040816325,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 16.911764705882355,
+          "female_low": 28.676470588235293,
+          "female_mid": 49.26470588235294,
+          "male_high": 27.500000000000004,
+          "male_low": 24.63235294117647,
+          "male_mid": 20.416666666666668
+        },
+        "difference_vs_clean_all_pts": 9.491666666666667,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          5.505322802197803,
+          13.766489239926738
+        ]
+      },
+      "mp3_64_query_clean_candidates": {
+        "query_condition": "mp3_64",
+        "positive_condition": "clean",
+        "negative_condition": "clean",
+        "ranking_error_pct": 18.28333333333333,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          13.800491071428569,
+          22.99798763736263
+        ],
+        "eer_pct_descriptive": 29.168367346938773,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 11.76470588235294,
+          "female_low": 22.058823529411764,
+          "female_mid": 31.61764705882353,
+          "male_high": 14.166666666666666,
+          "male_low": 15.441176470588236,
+          "male_mid": 14.166666666666666
+        },
+        "difference_vs_clean_all_pts": -0.20416666666666572,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -3.422964743589743,
+          2.9833905677655648
+        ]
+      },
+      "matched_mp3_64": {
+        "query_condition": "mp3_64",
+        "positive_condition": "mp3_64",
+        "negative_condition": "mp3_64",
+        "ranking_error_pct": 16.145833333333332,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          11.683199404761902,
+          21.030738324175825
+        ],
+        "eer_pct_descriptive": 26.988520408163264,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 12.132352941176471,
+          "female_low": 20.588235294117645,
+          "female_mid": 25.36764705882353,
+          "male_high": 13.750000000000002,
+          "male_low": 11.397058823529411,
+          "male_mid": 13.333333333333334
+        },
+        "difference_vs_clean_all_pts": -2.341666666666665,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -5.318861034798536,
+          0.4696428571428563
+        ]
+      },
+      "clean_query_reverb_20_positive": {
+        "query_condition": "clean",
+        "positive_condition": "reverb_20",
+        "negative_condition": "clean",
+        "ranking_error_pct": 98.87083333333334,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          96.93869047619049,
+          100.0
+        ],
+        "eer_pct_descriptive": 95.99107142857143,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 99.26470588235294,
+          "female_low": 94.48529411764706,
+          "female_mid": 100.0,
+          "male_high": 100.0,
+          "male_low": 100.0,
+          "male_mid": 99.58333333333333
+        },
+        "difference_vs_clean_all_pts": 80.38333333333334,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          74.49814945471195,
+          85.8076636904762
+        ]
+      },
+      "reverb_20_query_clean_candidates": {
+        "query_condition": "reverb_20",
+        "positive_condition": "clean",
+        "negative_condition": "clean",
+        "ranking_error_pct": 31.73333333333333,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          27.515881410256405,
+          35.95541437728937
+        ],
+        "eer_pct_descriptive": 42.99234693877551,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 30.14705882352941,
+          "female_low": 36.39705882352941,
+          "female_mid": 41.911764705882355,
+          "male_high": 27.916666666666668,
+          "male_low": 32.720588235294116,
+          "male_mid": 20.416666666666668
+        },
+        "difference_vs_clean_all_pts": 13.245833333333334,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          8.589694368131868,
+          17.907020375457876
+        ]
+      },
+      "matched_reverb_20": {
+        "query_condition": "reverb_20",
+        "positive_condition": "reverb_20",
+        "negative_condition": "reverb_20",
+        "ranking_error_pct": 19.854166666666664,
+        "ranking_error_ci95_singer_bootstrap_pct": [
+          15.437481684981686,
+          24.57343978937729
+        ],
+        "eer_pct_descriptive": 29.764030612244895,
+        "positive_pairs": 100,
+        "negative_pairs": 1568,
+        "per_vocal_range_error_pct": {
+          "female_high": 16.544117647058822,
+          "female_low": 19.852941176470587,
+          "female_mid": 26.838235294117645,
+          "male_high": 19.583333333333332,
+          "male_low": 20.22058823529412,
+          "male_mid": 15.833333333333332
+        },
+        "difference_vs_clean_all_pts": 1.3666666666666671,
+        "difference_vs_clean_all_ci95_singer_bootstrap_pts": [
+          -2.6476190476190467,
+          5.296118360805859
+        ]
+      }
+    }
+  }
+}
