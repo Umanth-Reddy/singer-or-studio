@@ -1,0 +1,18 @@
+{
+  "model": "cvsm_a",
+  "checkpoint_files": [
+    {
+      "path": "/legacy/ps/glass-breaker/models/original-cvsm/open-unmix/m4all_cvsma/checkpoint-26.index",
+      "sha256": "3533ad6d2e66578b73674470af3aee07ab0f9bddc8eec5273b0235467246df45",
+      "bytes": 54270
+    },
+    {
+      "path": "/legacy/ps/glass-breaker/models/original-cvsm/open-unmix/m4all_cvsma/checkpoint-26.data-00000-of-00001",
+      "sha256": "8072b034c76c22b0dac88f47539c7cd009fb188caffd72efca9fec5aae4ad21b",
+      "bytes": 59424422
+    }
+  ],
+  "embedding_sha256": "2fd2095063d56460a88e494f6e60b83769e8782352fc60843dce15569a9cfe95",
+  "rows": 600,
+  "preprocessing": "prepared centered 4 s mono JVS crops; CVSM uses its original 16 kHz / four normalized 1 s window path; SSL uses its original peak-normalized 44.1 kHz path"
+}

@@ -1,0 +1,13 @@
+{
+  "model": "ssl",
+  "checkpoint_files": [
+    {
+      "path": "/legacy/ps/glass-breaker/models/original-ssl/ssl_contrastive_vc/model.ts",
+      "sha256": "7063f1ffff6855495636ba9d863ca932b711dc0bb83a7f5691e62a596dd18c50",
+      "bytes": 38969566
+    }
+  ],
+  "embedding_sha256": "427c7a979372dad57644f3e89c5d03231073735f360433d860f6f0d62d7ac7f7",
+  "rows": 600,
+  "preprocessing": "prepared centered 4 s mono JVS crops; CVSM uses its original 16 kHz / four normalized 1 s window path; SSL uses its original peak-normalized 44.1 kHz path"
+}
