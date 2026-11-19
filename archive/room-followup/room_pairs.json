@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "file": "h001_Bedroom_65txts.wav",
+      "t30": 0.3100161061365029,
+      "category": "bedroom",
+      "sha256": "b8b7ba6e0c12608c9a6fd6e4b21f1e1823c37555b5af3196a6fa509ea67a5b71"
+    },
+    {
+      "file": "h248_Classroom_1txts.wav",
+      "t30": 0.3191951310937249,
+      "category": "classroom",
+      "sha256": "bfa2363bd3371c6cfb36f5b261e789b30a26ae2d05ba2ad0ad9ae6b3228e86bf"
+    }
+  ],
+  [
+    {
+      "file": "h032_Bedroom_6txts.wav",
+      "t30": 0.4637700622617717,
+      "category": "bedroom",
+      "sha256": "b35c7e5bc6c54873c23aea71fb763bf24c5b1a3302af7ebece8a59cb1152a708"
+    },
+    {
+      "file": "h259_Classroom_1txts.wav",
+      "t30": 0.4350096167720246,
+      "category": "classroom",
+      "sha256": "bd2fb8005201585eb21d12ad2f07dd14d7a29a26a8a7554c1c122cbd23820da5"
+    }
+  ],
+  [
+    {
+      "file": "h045_Livingroom_4txts.wav",
+      "t30": 0.6064598821026498,
+      "category": "livingroom",
+      "sha256": "79c4f4be44574998631f6ea057e7f5665a52cf40e6f3803a1e260a0530d5e3ee"
+    },
+    {
+      "file": "h198_Hallway_MITCampus_1txts.wav",
+      "t30": 0.5967125151653367,
+      "category": "hallway",
+      "sha256": "8e123b39d23b277d09022fdc019e175268c779bf55021fce0920ff6f020a97dc"
+    }
+  ],
+  [
+    {
+      "file": "h036_Bathroom_5txts.wav",
+      "t30": 0.7940684990262994,
+      "category": "bathroom",
+      "sha256": "325e04c25ea7629886e68e48b939a114e68e9307b73c3985c50aadb16535c0e4"
+    },
+    {
+      "file": "h065_Classroom_3txts.wav",
+      "t30": 0.8036330589143423,
+      "category": "classroom",
+      "sha256": "afa517727b04f45d44e9a8e2b7d899d1d948514b704e79c7aa599ad5ef49c88c"
+    }
+  ]
+]
