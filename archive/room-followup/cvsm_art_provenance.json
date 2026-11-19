@@ -1,0 +1,9 @@
+{
+  "count": 1564,
+  "manifest_sha256": "54cb44030bf319cf1ea3e64f4f77c1961f82351ca2d83a95a5e319737b6c0e8f",
+  "embeddings_sha256": "a06742c9f60054f5d0eb62ae41f05bd71c7973c7d378a456f079042fe11648e6",
+  "checkpoints": {
+    "/legacy/ps/glass-breaker/models/original-cvsm/htdemucs/m4all_cvsmart/checkpoint-40.data-00000-of-00001": "3fc94cd614f817addd9cb87a864088c6e57cd4c57458e035b311f9ec68df1d5c",
+    "/legacy/ps/glass-breaker/models/original-cvsm/htdemucs/m4all_cvsmart/checkpoint-40.index": "8c0f02d41ecccd680a510d5f9872ab4f91d3fb096b58e54c693cdaeaa262c13a"
+  }
+}

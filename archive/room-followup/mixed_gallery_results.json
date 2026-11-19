@@ -1,0 +1,1573 @@
+{
+  "analysis": "held-out responses and new singer cohorts for this reverb question",
+  "bootstrap_replicates": 5000,
+  "room_pairs": [
+    [
+      {
+        "file": "h001_Bedroom_65txts.wav",
+        "t30": 0.3100161061365029,
+        "category": "bedroom",
+        "sha256": "b8b7ba6e0c12608c9a6fd6e4b21f1e1823c37555b5af3196a6fa509ea67a5b71"
+      },
+      {
+        "file": "h248_Classroom_1txts.wav",
+        "t30": 0.3191951310937249,
+        "category": "classroom",
+        "sha256": "bfa2363bd3371c6cfb36f5b261e789b30a26ae2d05ba2ad0ad9ae6b3228e86bf"
+      }
+    ],
+    [
+      {
+        "file": "h032_Bedroom_6txts.wav",
+        "t30": 0.4637700622617717,
+        "category": "bedroom",
+        "sha256": "b35c7e5bc6c54873c23aea71fb763bf24c5b1a3302af7ebece8a59cb1152a708"
+      },
+      {
+        "file": "h259_Classroom_1txts.wav",
+        "t30": 0.4350096167720246,
+        "category": "classroom",
+        "sha256": "bd2fb8005201585eb21d12ad2f07dd14d7a29a26a8a7554c1c122cbd23820da5"
+      }
+    ],
+    [
+      {
+        "file": "h045_Livingroom_4txts.wav",
+        "t30": 0.6064598821026498,
+        "category": "livingroom",
+        "sha256": "79c4f4be44574998631f6ea057e7f5665a52cf40e6f3803a1e260a0530d5e3ee"
+      },
+      {
+        "file": "h198_Hallway_MITCampus_1txts.wav",
+        "t30": 0.5967125151653367,
+        "category": "hallway",
+        "sha256": "8e123b39d23b277d09022fdc019e175268c779bf55021fce0920ff6f020a97dc"
+      }
+    ],
+    [
+      {
+        "file": "h036_Bathroom_5txts.wav",
+        "t30": 0.7940684990262994,
+        "category": "bathroom",
+        "sha256": "325e04c25ea7629886e68e48b939a114e68e9307b73c3985c50aadb16535c0e4"
+      },
+      {
+        "file": "h065_Classroom_3txts.wav",
+        "t30": 0.8036330589143423,
+        "category": "classroom",
+        "sha256": "afa517727b04f45d44e9a8e2b7d899d1d948514b704e79c7aa599ad5ef49c88c"
+      }
+    ]
+  ],
+  "datasets": {
+    "covox": {
+      "singers": 22,
+      "recordings": 44,
+      "triplets_per_cell": 924,
+      "models": {
+        "ssl": {
+          "provenance": {
+            "count": 1564,
+            "manifest_sha256": "54cb44030bf319cf1ea3e64f4f77c1961f82351ca2d83a95a5e319737b6c0e8f",
+            "embeddings_sha256": "0da72b6175d5f4fed5eb75d3fb9f47636406df3952ea36743e8037c06a06b575",
+            "checkpoints": {
+              "/legacy/ps/glass-breaker/models/original-ssl/ssl_contrastive_vc/model.ts": "7063f1ffff6855495636ba9d863ca932b711dc0bb83a7f5691e62a596dd18c50"
+            }
+          },
+          "clean": {
+            "value": 13.311688311688311,
+            "ci95": [
+              6.531755525176576,
+              21.55891148325358
+            ]
+          },
+          "levels": {
+            "0.2": {
+              "pooled": {
+                "impostor_condition_match_error_pp": {
+                  "value": 2.2930194805194817,
+                  "ci95": [
+                    1.4491199589883799,
+                    3.269593550637957
+                  ]
+                },
+                "impostor_condition_match_cosine": {
+                  "value": 0.007412074464353133,
+                  "ci95": [
+                    0.005721815063812211,
+                    0.009486269430826276
+                  ]
+                },
+                "genuine_condition_match_cosine": {
+                  "value": 0.008275935257023019,
+                  "ci95": [
+                    0.00609645607288588,
+                    0.010807843243872569
+                  ]
+                }
+              },
+              "per_pair": [
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": -0.1893939393939394,
+                    "ci95": [
+                      -0.8854570137464872,
+                      0.48701298701298706
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.000404611358910928,
+                    "ci95": [
+                      3.946003865889439e-05,
+                      0.0009327582076965412
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.0007324787703427403,
+                    "ci95": [
+                      0.00024789270352233554,
+                      0.0012315741994164198
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 5.05952380952381,
+                    "ci95": [
+                      3.3033507063112317,
+                      6.831709956709956
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.014332299753701016,
+                    "ci95": [
+                      0.011086206531657577,
+                      0.018043365842713873
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.015229489315639848,
+                    "ci95": [
+                      0.011242393234913998,
+                      0.019972611625086168
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.5681818181818181,
+                    "ci95": [
+                      -0.5794788609223592,
+                      1.6726282618310473
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.004604863849553195,
+                    "ci95": [
+                      0.0032006997984901915,
+                      0.006274862422517229
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.00536822866309773,
+                    "ci95": [
+                      0.003678712993860246,
+                      0.007354740967804733
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 3.7337662337662336,
+                    "ci95": [
+                      1.617092111964403,
+                      5.774987895876053
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.010306522895247385,
+                    "ci95": [
+                      0.006839562472500083,
+                      0.01447855739526152
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.011773544279011816,
+                    "ci95": [
+                      0.007045971365137534,
+                      0.017338213087482884
+                    ]
+                  }
+                }
+              ],
+              "leave_one_pair_out_error_pp": [
+                {
+                  "value": 3.12049062049062,
+                  "ci95": [
+                    2.036708722563985,
+                    4.345526062631323
+                  ]
+                },
+                {
+                  "value": 1.3708513708513708,
+                  "ci95": [
+                    0.45906314080656196,
+                    2.355422172856383
+                  ]
+                },
+                {
+                  "value": 2.867965367965367,
+                  "ci95": [
+                    1.8963928872984608,
+                    3.9677720370444822
+                  ]
+                },
+                {
+                  "value": 1.8127705627705624,
+                  "ci95": [
+                    1.0303900534163692,
+                    2.673511639504286
+                  ]
+                }
+              ],
+              "mixed_gallery": {
+                "top1_error_pct": 60.05859375,
+                "matching_impostor_wins_pct": 35.13405539772727,
+                "other_impostor_wins_pct": 24.924538352272727,
+                "matching_impostor_all_wins_pct": 57.51065340909091,
+                "all_other_top1_error_pct": 57.24431818181818,
+                "all_same_top1_error_pct": 61.50568181818182
+              },
+              "mixed_gallery_excess_matched_error_pp": 10.209517045454545,
+              "posthoc_secondary_gallery_uncertainty": {
+                "fixed_gallery_query_bootstrap_ci95": [
+                  6.671586470170455,
+                  14.031427556818182
+                ],
+                "mixed_minus_all_other_top1_pp": {
+                  "value": 2.8142755681818183,
+                  "ci95": [
+                    0.7768110795454546,
+                    4.900679154829544
+                  ]
+                },
+                "per_pair_excess_matched_error_pp": [
+                  -0.24857954545454544,
+                  17.791193181818183,
+                  5.3977272727272725,
+                  17.897727272727273
+                ]
+              }
+            },
+            "0.5": {
+              "pooled": {
+                "impostor_condition_match_error_pp": {
+                  "value": 22.4025974025974,
+                  "ci95": [
+                    18.864898710680446,
+                    25.900836074561397
+                  ]
+                },
+                "impostor_condition_match_cosine": {
+                  "value": 0.0511198690669103,
+                  "ci95": [
+                    0.044608140456161106,
+                    0.05836070260526893
+                  ]
+                },
+                "genuine_condition_match_cosine": {
+                  "value": 0.05440487983551891,
+                  "ci95": [
+                    0.04731939868493515,
+                    0.06251238319514828
+                  ]
+                }
+              },
+              "per_pair": [
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 4.13961038961039,
+                    "ci95": [
+                      1.8303215424925954,
+                      6.975834472544996
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.009384819697508047,
+                    "ci95": [
+                      0.006051632982349175,
+                      0.013313268837089793
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.011149791153994483,
+                    "ci95": [
+                      0.007240126112645323,
+                      0.015524637123400511
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 29.680735930735942,
+                    "ci95": [
+                      24.382938881294148,
+                      34.66788775917065
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.060250856595121936,
+                    "ci95": [
+                      0.0510204520302119,
+                      0.06944418833385847
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.06288779730146583,
+                    "ci95": [
+                      0.0533842176537622,
+                      0.07271585295146159
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 25.649350649350662,
+                    "ci95": [
+                      20.88890431571353,
+                      30.7922801796157
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.05841248163155147,
+                    "ci95": [
+                      0.048579028546050486,
+                      0.06925602915190715
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.06312123482877556,
+                    "ci95": [
+                      0.051988862183961,
+                      0.07567365548827432
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 30.14069264069266,
+                    "ci95": [
+                      24.477315447710183,
+                      35.79035894660893
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.07643131834345976,
+                    "ci95": [
+                      0.06459325330671856,
+                      0.08979592154613948
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.08046069605783976,
+                    "ci95": [
+                      0.06825754612006922,
+                      0.09369513023306023
+                    ]
+                  }
+                }
+              ],
+              "leave_one_pair_out_error_pp": [
+                {
+                  "value": 28.490259740259738,
+                  "ci95": [
+                    24.1749556182122,
+                    32.60232019442544
+                  ]
+                },
+                {
+                  "value": 19.97655122655122,
+                  "ci95": [
+                    16.73467760309865,
+                    23.345184764495905
+                  ]
+                },
+                {
+                  "value": 21.32034632034632,
+                  "ci95": [
+                    17.64850533847245,
+                    24.826514118406525
+                  ]
+                },
+                {
+                  "value": 19.823232323232325,
+                  "ci95": [
+                    16.46502105959343,
+                    23.40296883306751
+                  ]
+                }
+              ],
+              "mixed_gallery": {
+                "top1_error_pct": 74.951171875,
+                "matching_impostor_wins_pct": 65.41637073863636,
+                "other_impostor_wins_pct": 9.534801136363637,
+                "matching_impostor_all_wins_pct": 86.47017045454545,
+                "all_other_top1_error_pct": 53.97727272727273,
+                "all_same_top1_error_pct": 79.54545454545455
+              },
+              "mixed_gallery_excess_matched_error_pp": 55.88156960227273,
+              "posthoc_secondary_gallery_uncertainty": {
+                "fixed_gallery_query_bootstrap_ci95": [
+                  50.07102272727273,
+                  61.55007102272727
+                ],
+                "mixed_minus_all_other_top1_pp": {
+                  "value": 20.973899147727273,
+                  "ci95": [
+                    18.292791193181817,
+                    23.730690696022723
+                  ]
+                },
+                "per_pair_excess_matched_error_pp": [
+                  16.051136363636363,
+                  69.4247159090909,
+                  65.50071022727273,
+                  72.5497159090909
+                ]
+              }
+            }
+          }
+        },
+        "cvsm_art": {
+          "provenance": {
+            "count": 1564,
+            "manifest_sha256": "54cb44030bf319cf1ea3e64f4f77c1961f82351ca2d83a95a5e319737b6c0e8f",
+            "embeddings_sha256": "a06742c9f60054f5d0eb62ae41f05bd71c7973c7d378a456f079042fe11648e6",
+            "checkpoints": {
+              "/legacy/ps/glass-breaker/models/original-cvsm/htdemucs/m4all_cvsmart/checkpoint-40.data-00000-of-00001": "3fc94cd614f817addd9cb87a864088c6e57cd4c57458e035b311f9ec68df1d5c",
+              "/legacy/ps/glass-breaker/models/original-cvsm/htdemucs/m4all_cvsmart/checkpoint-40.index": "8c0f02d41ecccd680a510d5f9872ab4f91d3fb096b58e54c693cdaeaa262c13a"
+            }
+          },
+          "clean": {
+            "value": 6.926406926406926,
+            "ci95": [
+              2.738095238095238,
+              12.309623490544535
+            ]
+          },
+          "levels": {
+            "0.2": {
+              "pooled": {
+                "impostor_condition_match_error_pp": {
+                  "value": 0.20292207792207795,
+                  "ci95": [
+                    -0.029934566529961314,
+                    0.5249163286726171
+                  ]
+                },
+                "impostor_condition_match_cosine": {
+                  "value": 0.0003463574624680853,
+                  "ci95": [
+                    0.00029998801945264994,
+                    0.00039564879641160086
+                  ]
+                },
+                "genuine_condition_match_cosine": {
+                  "value": 0.00045292959971861393,
+                  "ci95": [
+                    0.0003846050578762184,
+                    0.000516961921345104
+                  ]
+                }
+              },
+              "per_pair": [
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.05411255411255411,
+                    "ci95": [
+                      -0.28145292207792205,
+                      0.606576811346547
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 5.660628601586147e-05,
+                    "ci95": [
+                      4.057528591982378e-05,
+                      7.202284301527813e-05
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 8.464130488308994e-05,
+                    "ci95": [
+                      5.1627951589497655e-05,
+                      0.00011814981698989865
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.40584415584415584,
+                    "ci95": [
+                      0.02392344497607657,
+                      0.9298566017316013
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0006193458646922917,
+                    "ci95": [
+                      0.0005225215088826467,
+                      0.0007186892284447478
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.000751370733434503,
+                    "ci95": [
+                      0.0006249011578884993,
+                      0.0008686547590927645
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": -0.027056277056277056,
+                    "ci95": [
+                      -0.35987103174603174,
+                      0.33179777094250773
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.00015789263950281837,
+                    "ci95": [
+                      0.00012971081726324894,
+                      0.0001895983024581156
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.00020446425134485434,
+                    "ci95": [
+                      0.00016301125288009646,
+                      0.00025001930242235
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.3787878787878788,
+                    "ci95": [
+                      -0.2776828434723171,
+                      1.2061403508771928
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0005515850596613698,
+                    "ci95": [
+                      0.0004558869655627912,
+                      0.0006532540264657331
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.000771242109212008,
+                    "ci95": [
+                      0.0006250195543874396,
+                      0.0009332949464971366
+                    ]
+                  }
+                }
+              ],
+              "leave_one_pair_out_error_pp": [
+                {
+                  "value": 0.25252525252525254,
+                  "ci95": [
+                    -0.03518384028252449,
+                    0.637362819928609
+                  ]
+                },
+                {
+                  "value": 0.13528138528138528,
+                  "ci95": [
+                    -0.1193549688615478,
+                    0.46332087460183413
+                  ]
+                },
+                {
+                  "value": 0.2795815295815296,
+                  "ci95": [
+                    -0.00544043374925728,
+                    0.6790793271056427
+                  ]
+                },
+                {
+                  "value": 0.1443001443001443,
+                  "ci95": [
+                    -0.10522478861294653,
+                    0.46997742145768456
+                  ]
+                }
+              ],
+              "mixed_gallery": {
+                "top1_error_pct": 45.45454545454545,
+                "matching_impostor_wins_pct": 23.2421875,
+                "other_impostor_wins_pct": 22.212357954545453,
+                "matching_impostor_all_wins_pct": 50.71910511363637,
+                "all_other_top1_error_pct": 44.46022727272727,
+                "all_same_top1_error_pct": 46.44886363636363
+              },
+              "mixed_gallery_excess_matched_error_pp": 1.0298295454545454,
+              "posthoc_secondary_gallery_uncertainty": {
+                "fixed_gallery_query_bootstrap_ci95": [
+                  0.06214488636363636,
+                  2.0685369318181817
+                ],
+                "mixed_minus_all_other_top1_pp": {
+                  "value": 0.9943181818181818,
+                  "ci95": [
+                    0.3995028409090909,
+                    1.6867897727272727
+                  ]
+                },
+                "per_pair_excess_matched_error_pp": [
+                  0.9943181818181818,
+                  0.7102272727272727,
+                  0.21306818181818182,
+                  2.2017045454545454
+                ]
+              }
+            },
+            "0.5": {
+              "pooled": {
+                "impostor_condition_match_error_pp": {
+                  "value": 2.908549783549784,
+                  "ci95": [
+                    1.601803099130402,
+                    4.501212489082554
+                  ]
+                },
+                "impostor_condition_match_cosine": {
+                  "value": 0.005701116024157703,
+                  "ci95": [
+                    0.005155109778324443,
+                    0.006267727604570807
+                  ]
+                },
+                "genuine_condition_match_cosine": {
+                  "value": 0.006622168828140604,
+                  "ci95": [
+                    0.006014819705689495,
+                    0.007211937425150114
+                  ]
+                }
+              },
+              "per_pair": [
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.10822510822510822,
+                    "ci95": [
+                      -0.5060200216450217,
+                      0.735058526999316
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0008971817565686775,
+                    "ci95": [
+                      0.000721805840918813,
+                      0.0010697926112722004
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.0011470521038228821,
+                    "ci95": [
+                      0.0008896685120734305,
+                      0.0014088960533792324
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 4.464285714285716,
+                    "ci95": [
+                      2.3474880382775125,
+                      6.893870566567929
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.008362772015782146,
+                    "ci95": [
+                      0.007464148841270364,
+                      0.009282701667139334
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.009543099186637184,
+                    "ci95": [
+                      0.008507931909777897,
+                      0.010552104867317459
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 1.5151515151515151,
+                    "ci95": [
+                      0.4779372674109516,
+                      2.8607551074656334
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0029283959370154837,
+                    "ci95": [
+                      0.002660272201349044,
+                      0.003199926761888675
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.003465599634430626,
+                    "ci95": [
+                      0.003123414448716423,
+                      0.0038310047916390684
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 5.546536796536798,
+                    "ci95": [
+                      2.894177916381863,
+                      8.676607475127202
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.010616114387264498,
+                    "ci95": [
+                      0.009363459902001006,
+                      0.01198643152164401
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.012332924387671723,
+                    "ci95": [
+                      0.010884433070367034,
+                      0.01393106403675947
+                    ]
+                  }
+                }
+              ],
+              "leave_one_pair_out_error_pp": [
+                {
+                  "value": 3.841991341991342,
+                  "ci95": [
+                    2.1126312466773,
+                    5.925388755980858
+                  ]
+                },
+                {
+                  "value": 2.389971139971139,
+                  "ci95": [
+                    1.23403442317916,
+                    3.802923501936659
+                  ]
+                },
+                {
+                  "value": 3.373015873015873,
+                  "ci95": [
+                    1.8928375277543235,
+                    5.178582108680791
+                  ]
+                },
+                {
+                  "value": 2.0292207792207795,
+                  "ci95": [
+                    1.0699084358623834,
+                    3.2411869319764057
+                  ]
+                }
+              ],
+              "mixed_gallery": {
+                "top1_error_pct": 49.30308948863637,
+                "matching_impostor_wins_pct": 31.960227272727273,
+                "other_impostor_wins_pct": 17.34286221590909,
+                "matching_impostor_all_wins_pct": 62.58877840909091,
+                "all_other_top1_error_pct": 42.61363636363637,
+                "all_same_top1_error_pct": 53.26704545454545
+              },
+              "mixed_gallery_excess_matched_error_pp": 14.617365056818182,
+              "posthoc_secondary_gallery_uncertainty": {
+                "fixed_gallery_query_bootstrap_ci95": [
+                  10.892888849431818,
+                  18.452703302556817
+                ],
+                "mixed_minus_all_other_top1_pp": {
+                  "value": 6.689453125,
+                  "ci95": [
+                    4.9094460227272725,
+                    8.354159268465907
+                  ]
+                },
+                "per_pair_excess_matched_error_pp": [
+                  3.053977272727273,
+                  19.975142045454547,
+                  12.020596590909092,
+                  23.419744318181817
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "nus": {
+      "singers": 12,
+      "recordings": 48,
+      "triplets_per_cell": 1584,
+      "models": {
+        "ssl": {
+          "provenance": {
+            "count": 1564,
+            "manifest_sha256": "54cb44030bf319cf1ea3e64f4f77c1961f82351ca2d83a95a5e319737b6c0e8f",
+            "embeddings_sha256": "0da72b6175d5f4fed5eb75d3fb9f47636406df3952ea36743e8037c06a06b575",
+            "checkpoints": {
+              "/legacy/ps/glass-breaker/models/original-ssl/ssl_contrastive_vc/model.ts": "7063f1ffff6855495636ba9d863ca932b711dc0bb83a7f5691e62a596dd18c50"
+            }
+          },
+          "clean": {
+            "value": 9.532828282828284,
+            "ci95": [
+              4.463226010101011,
+              17.70212542087542
+            ]
+          },
+          "levels": {
+            "0.2": {
+              "pooled": {
+                "impostor_condition_match_error_pp": {
+                  "value": 4.438920454545455,
+                  "ci95": [
+                    2.5368594802188555,
+                    7.0116135311447785
+                  ]
+                },
+                "impostor_condition_match_cosine": {
+                  "value": 0.021328647846751144,
+                  "ci95": [
+                    0.01809411346400862,
+                    0.024391258221926317
+                  ]
+                },
+                "genuine_condition_match_cosine": {
+                  "value": 0.027160320534474328,
+                  "ci95": [
+                    0.0235516607011151,
+                    0.030869413107737068
+                  ]
+                }
+              },
+              "per_pair": [
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.2998737373737374,
+                    "ci95": [
+                      -0.39251893939393934,
+                      0.9680397727272725
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0012287767698066403,
+                    "ci95": [
+                      0.0008206482465858712,
+                      0.001711771484473814
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.0017223875555727216,
+                    "ci95": [
+                      0.0011587502745290597,
+                      0.002413147677563959
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 7.733585858585858,
+                    "ci95": [
+                      4.338988846801348,
+                      12.398227062289559
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.03648381116752974,
+                    "ci95": [
+                      0.02993493147462494,
+                      0.042665030627694875
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.04521056264638901,
+                    "ci95": [
+                      0.037744371220469475,
+                      0.052151881592969095
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 6.7234848484848495,
+                    "ci95": [
+                      3.534275042087542,
+                      10.769281355218855
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.02978826425217017,
+                    "ci95": [
+                      0.02384506206692946,
+                      0.036141210357542544
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.03760016130076514,
+                    "ci95": [
+                      0.03041640638063351,
+                      0.04483343145499627
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 2.9987373737373737,
+                    "ci95": [
+                      1.5918823653198655,
+                      5.120028409090907
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.017813739197498017,
+                    "ci95": [
+                      0.011971991729902211,
+                      0.024656334192976543
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.024108170635170408,
+                    "ci95": [
+                      0.01763258254569438,
+                      0.030736953930722337
+                    ]
+                  }
+                }
+              ],
+              "leave_one_pair_out_error_pp": [
+                {
+                  "value": 5.818602693602694,
+                  "ci95": [
+                    3.3717250631313136,
+                    9.158249158249156
+                  ]
+                },
+                {
+                  "value": 3.3406986531986536,
+                  "ci95": [
+                    1.851851851851852,
+                    5.295467697811444
+                  ]
+                },
+                {
+                  "value": 3.6773989898989905,
+                  "ci95": [
+                    2.1541806958473626,
+                    5.782354797979794
+                  ]
+                },
+                {
+                  "value": 4.918981481481481,
+                  "ci95": [
+                    2.661287352693603,
+                    7.869357638888888
+                  ]
+                }
+              ],
+              "mixed_gallery": {
+                "top1_error_pct": 49.58902994791666,
+                "matching_impostor_wins_pct": 34.065755208333336,
+                "other_impostor_wins_pct": 15.523274739583334,
+                "matching_impostor_all_wins_pct": 64.72167968749999,
+                "all_other_top1_error_pct": 40.58159722222222,
+                "all_same_top1_error_pct": 54.16666666666668
+              },
+              "mixed_gallery_excess_matched_error_pp": 18.542480468750004,
+              "posthoc_secondary_gallery_uncertainty": {
+                "fixed_gallery_query_bootstrap_ci95": [
+                  15.086127387152779,
+                  22.391798231336807
+                ],
+                "mixed_minus_all_other_top1_pp": {
+                  "value": 9.007432725694448,
+                  "ci95": [
+                    7.480095757378476,
+                    10.62154134114584
+                  ]
+                },
+                "per_pair_excess_matched_error_pp": [
+                  1.9531250000000007,
+                  31.976996527777775,
+                  28.819444444444446,
+                  11.420355902777779
+                ]
+              }
+            },
+            "0.5": {
+              "pooled": {
+                "impostor_condition_match_error_pp": {
+                  "value": 14.393939393939394,
+                  "ci95": [
+                    10.695108638468012,
+                    19.543244949494945
+                  ]
+                },
+                "impostor_condition_match_cosine": {
+                  "value": 0.10249073798691788,
+                  "ci95": [
+                    0.08973819766961873,
+                    0.11479528429748143
+                  ]
+                },
+                "genuine_condition_match_cosine": {
+                  "value": 0.12653270648378467,
+                  "ci95": [
+                    0.11660014510853214,
+                    0.1362477043785879
+                  ]
+                }
+              },
+              "per_pair": [
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 4.924242424242424,
+                    "ci95": [
+                      2.2674400252525255,
+                      8.641729797979798
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.02072475410320542,
+                    "ci95": [
+                      0.01568002074497504,
+                      0.026187243718334065
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.026228752401140008,
+                    "ci95": [
+                      0.02073415235305826,
+                      0.031578294715533646
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 16.91919191919192,
+                    "ci95": [
+                      12.714620159932661,
+                      23.16564078282826
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.11287947070744887,
+                    "ci95": [
+                      0.09738481539155468,
+                      0.12910157909690403
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.1424423812164201,
+                    "ci95": [
+                      0.12730025176683232,
+                      0.15917880785548022
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 23.737373737373744,
+                    "ci95": [
+                      17.191656144781145,
+                      31.08909406565656
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.19044040207929838,
+                    "ci95": [
+                      0.1613811119791843,
+                      0.2184986742194632
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.23139429547720486,
+                    "ci95": [
+                      0.20335052542181478,
+                      0.2567621928639709
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 11.994949494949497,
+                    "ci95": [
+                      8.216435185185183,
+                      17.847432659932657
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0859183250577189,
+                    "ci95": [
+                      0.07509269238922449,
+                      0.09772470300983846
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.1060653968403737,
+                    "ci95": [
+                      0.09544223164104755,
+                      0.11789303923853568
+                    ]
+                  }
+                }
+              ],
+              "leave_one_pair_out_error_pp": [
+                {
+                  "value": 17.550505050505055,
+                  "ci95": [
+                    13.269439183501683,
+                    23.418928872053865
+                  ]
+                },
+                {
+                  "value": 13.552188552188554,
+                  "ci95": [
+                    9.9637257996633,
+                    18.406841856060602
+                  ]
+                },
+                {
+                  "value": 11.27946127946128,
+                  "ci95": [
+                    8.260193076599325,
+                    15.98876788720538
+                  ]
+                },
+                {
+                  "value": 15.193602693602699,
+                  "ci95": [
+                    10.992073512906847,
+                    20.399928100448932
+                  ]
+                }
+              ],
+              "mixed_gallery": {
+                "top1_error_pct": 61.886935763888886,
+                "matching_impostor_wins_pct": 54.710557725694436,
+                "other_impostor_wins_pct": 7.1763780381944455,
+                "matching_impostor_all_wins_pct": 84.63812934027777,
+                "all_other_top1_error_pct": 39.236111111111114,
+                "all_same_top1_error_pct": 69.18402777777777
+              },
+              "mixed_gallery_excess_matched_error_pp": 47.5341796875,
+              "posthoc_secondary_gallery_uncertainty": {
+                "fixed_gallery_query_bootstrap_ci95": [
+                  43.48130967881944,
+                  51.7755126953125
+                ],
+                "mixed_minus_all_other_top1_pp": {
+                  "value": 22.650824652777775,
+                  "ci95": [
+                    20.70716010199653,
+                    24.763997395833332
+                  ]
+                },
+                "per_pair_excess_matched_error_pp": [
+                  19.731987847222225,
+                  56.483289930555564,
+                  64.87087673611111,
+                  49.050564236111114
+                ]
+              }
+            }
+          }
+        },
+        "cvsm_art": {
+          "provenance": {
+            "count": 1564,
+            "manifest_sha256": "54cb44030bf319cf1ea3e64f4f77c1961f82351ca2d83a95a5e319737b6c0e8f",
+            "embeddings_sha256": "a06742c9f60054f5d0eb62ae41f05bd71c7973c7d378a456f079042fe11648e6",
+            "checkpoints": {
+              "/legacy/ps/glass-breaker/models/original-cvsm/htdemucs/m4all_cvsmart/checkpoint-40.data-00000-of-00001": "3fc94cd614f817addd9cb87a864088c6e57cd4c57458e035b311f9ec68df1d5c",
+              "/legacy/ps/glass-breaker/models/original-cvsm/htdemucs/m4all_cvsmart/checkpoint-40.index": "8c0f02d41ecccd680a510d5f9872ab4f91d3fb096b58e54c693cdaeaa262c13a"
+            }
+          },
+          "clean": {
+            "value": 4.545454545454546,
+            "ci95": [
+              1.3888888888888888,
+              8.889414983164976
+            ]
+          },
+          "levels": {
+            "0.2": {
+              "pooled": {
+                "impostor_condition_match_error_pp": {
+                  "value": 0.15782828282828282,
+                  "ci95": [
+                    0.007891414141414144,
+                    0.4374802714646459
+                  ]
+                },
+                "impostor_condition_match_cosine": {
+                  "value": 0.0008373468117129924,
+                  "ci95": [
+                    0.0006855828332658293,
+                    0.0009965925949769914
+                  ]
+                },
+                "genuine_condition_match_cosine": {
+                  "value": 0.0011270055547356606,
+                  "ci95": [
+                    0.0009627467538747523,
+                    0.0012923453417089251
+                  ]
+                }
+              },
+              "per_pair": [
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": -0.015782828282828284,
+                    "ci95": [
+                      -0.1373500631313131,
+                      0.14995002104377084
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.00010722258476295858,
+                    "ci95": [
+                      8.935245487726097e-05,
+                      0.00013321615316550737
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.00015232380893495344,
+                    "ci95": [
+                      0.00011929175299074915,
+                      0.000183783606108692
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.18939393939393942,
+                    "ci95": [
+                      -0.05787037037037035,
+                      0.5376946548821545
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0011311748789416419,
+                    "ci95": [
+                      0.0008730370343446428,
+                      0.001427305673032698
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.0014735352661874562,
+                    "ci95": [
+                      0.0011811639906631572,
+                      0.0017691502554549113
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.22095959595959597,
+                    "ci95": [
+                      -0.15944602272727268,
+                      0.845959595959596
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0011070459102741398,
+                    "ci95": [
+                      0.0008734489241081857,
+                      0.0013802441068445192
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.0013887712524996865,
+                    "ci95": [
+                      0.0011279849542511833,
+                      0.001654212083667516
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.23674242424242425,
+                    "ci95": [
+                      -0.022095959595959596,
+                      0.6608270202020194
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0010039438728732294,
+                    "ci95": [
+                      0.000735720030850533,
+                      0.00132497616973
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.0014933918913205466,
+                    "ci95": [
+                      0.001185350161459711,
+                      0.0018307651910516951
+                    ]
+                  }
+                }
+              ],
+              "leave_one_pair_out_error_pp": [
+                {
+                  "value": 0.21569865319865322,
+                  "ci95": [
+                    0.009469696969696975,
+                    0.5843723695286188
+                  ]
+                },
+                {
+                  "value": 0.14730639730639733,
+                  "ci95": [
+                    -0.007365319865319853,
+                    0.45138888888888884
+                  ]
+                },
+                {
+                  "value": 0.13678451178451181,
+                  "ci95": [
+                    0.010521885521885524,
+                    0.35108024691358025
+                  ]
+                },
+                {
+                  "value": 0.13152356902356904,
+                  "ci95": [
+                    -0.026304713804713796,
+                    0.4118529040404026
+                  ]
+                }
+              ],
+              "mixed_gallery": {
+                "top1_error_pct": 22.702365451388886,
+                "matching_impostor_wins_pct": 11.63330078125,
+                "other_impostor_wins_pct": 11.069064670138891,
+                "matching_impostor_all_wins_pct": 50.642903645833336,
+                "all_other_top1_error_pct": 22.309027777777782,
+                "all_same_top1_error_pct": 23.046875
+              },
+              "mixed_gallery_excess_matched_error_pp": 0.5642361111111113,
+              "posthoc_secondary_gallery_uncertainty": {
+                "fixed_gallery_query_bootstrap_ci95": [
+                  0.2332899305555555,
+                  0.9602864583333334
+                ],
+                "mixed_minus_all_other_top1_pp": {
+                  "value": 0.3933376736111121,
+                  "ci95": [
+                    0.08680555555555573,
+                    0.7405598958333334
+                  ]
+                },
+                "per_pair_excess_matched_error_pp": [
+                  0.5642361111111108,
+                  -0.06510416666666646,
+                  0.553385416666667,
+                  1.2044270833333333
+                ]
+              }
+            },
+            "0.5": {
+              "pooled": {
+                "impostor_condition_match_error_pp": {
+                  "value": 1.5467171717171717,
+                  "ci95": [
+                    0.6715198863636364,
+                    2.6965422453703694
+                  ]
+                },
+                "impostor_condition_match_cosine": {
+                  "value": 0.006880469309786956,
+                  "ci95": [
+                    0.005979461769670601,
+                    0.007830506143566245
+                  ]
+                },
+                "genuine_condition_match_cosine": {
+                  "value": 0.009233173500332568,
+                  "ci95": [
+                    0.008237659390498366,
+                    0.010224822031644484
+                  ]
+                }
+              },
+              "per_pair": [
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 0.29987373737373735,
+                    "ci95": [
+                      0.04734848484848485,
+                      0.6565656565656566
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.0010771874827567977,
+                    "ci95": [
+                      0.0008845321084325663,
+                      0.0013430382423604578
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.0015886252125104274,
+                    "ci95": [
+                      0.0013796072660220995,
+                      0.0018067337469094328
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 2.1622474747474745,
+                    "ci95": [
+                      0.9627262205387206,
+                      3.8533380681818152
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.009655777063935696,
+                    "ci95": [
+                      0.00832011612141599,
+                      0.011107008375261943
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.012334237496058147,
+                    "ci95": [
+                      0.010645679736302958,
+                      0.014031521779381568
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 1.5625,
+                    "ci95": [
+                      0.48611111111111116,
+                      3.0478614267676734
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.006465264003385198,
+                    "ci95": [
+                      0.005349207184675718,
+                      0.007792934296803188
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.008449821422497436,
+                    "ci95": [
+                      0.006988859849257601,
+                      0.009945212832341592
+                    ]
+                  }
+                },
+                {
+                  "impostor_condition_match_error_pp": {
+                    "value": 2.162247474747475,
+                    "ci95": [
+                      0.8775252525252525,
+                      3.8329049422799364
+                    ]
+                  },
+                  "impostor_condition_match_cosine": {
+                    "value": 0.010323648689070134,
+                    "ci95": [
+                      0.008435457472999891,
+                      0.012535527018071316
+                    ]
+                  },
+                  "genuine_condition_match_cosine": {
+                    "value": 0.014560009870264264,
+                    "ci95": [
+                      0.012456833923028574,
+                      0.01684175071616967
+                    ]
+                  }
+                }
+              ],
+              "leave_one_pair_out_error_pp": [
+                {
+                  "value": 1.96233164983165,
+                  "ci95": [
+                    0.857454755892256,
+                    3.418911335578002
+                  ]
+                },
+                {
+                  "value": 1.3415404040404042,
+                  "ci95": [
+                    0.5495317760942762,
+                    2.362518413299663
+                  ]
+                },
+                {
+                  "value": 1.5414562289562292,
+                  "ci95": [
+                    0.6839050224466892,
+                    2.649410774410774
+                  ]
+                },
+                {
+                  "value": 1.3415404040404044,
+                  "ci95": [
+                    0.5523639169472502,
+                    2.487382505611672
+                  ]
+                }
+              ],
+              "mixed_gallery": {
+                "top1_error_pct": 24.602593315972225,
+                "matching_impostor_wins_pct": 15.597873263888891,
+                "other_impostor_wins_pct": 9.004720052083334,
+                "matching_impostor_all_wins_pct": 57.84505208333334,
+                "all_other_top1_error_pct": 20.355902777777775,
+                "all_same_top1_error_pct": 28.081597222222225
+              },
+              "mixed_gallery_excess_matched_error_pp": 6.593153211805556,
+              "posthoc_secondary_gallery_uncertainty": {
+                "fixed_gallery_query_bootstrap_ci95": [
+                  3.9766777886284723,
+                  9.228617350260414
+                ],
+                "mixed_minus_all_other_top1_pp": {
+                  "value": 4.246690538194445,
+                  "ci95": [
+                    2.932400173611111,
+                    5.653279622395834
+                  ]
+                },
+                "per_pair_excess_matched_error_pp": [
+                  1.9205729166666667,
+                  9.212239583333332,
+                  5.935329861111111,
+                  9.30447048611111
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "advance_q1": false
+}

@@ -1,0 +1,8 @@
+{
+  "count": 1564,
+  "manifest_sha256": "54cb44030bf319cf1ea3e64f4f77c1961f82351ca2d83a95a5e319737b6c0e8f",
+  "embeddings_sha256": "0da72b6175d5f4fed5eb75d3fb9f47636406df3952ea36743e8037c06a06b575",
+  "checkpoints": {
+    "/legacy/ps/glass-breaker/models/original-ssl/ssl_contrastive_vc/model.ts": "7063f1ffff6855495636ba9d863ca932b711dc0bb83a7f5691e62a596dd18c50"
+  }
+}
