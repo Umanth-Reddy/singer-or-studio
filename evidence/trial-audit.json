@@ -1,0 +1,327 @@
+{
+  "f2": {
+    "recordings_per_condition": 59,
+    "condition_count": 20,
+    "source_manifest_sha256": "7a618e3a3996face5e289d4e8b4c1508cd27fa59ad867420dae9a4d93a4cbdc4",
+    "singers_by_sex_group": {
+      "female": 9,
+      "male": 11
+    },
+    "genuine_pairs": 116,
+    "triplets": 1032,
+    "encoders": {
+      "cvsm_art": {
+        "embeddings_in_archive": 1180,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "342a2eef140981104262b0da6c0a6e46b7d7ac11e701b782fd95b89829ffe73e",
+        "common_shift_points": 47.80163962136578,
+        "common_ci95_sorted_singer_order": [
+          43.39784377112913,
+          52.375602180527366
+        ],
+        "original_ci95_manifest_singer_order": [
+          43.39784377112913,
+          52.375602180527366
+        ]
+      },
+      "cvsm_a": {
+        "embeddings_in_archive": 1180,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "35e7e88b6156b6f14be50de824ce25995e09afe40fa361f549ed853d4619afc1",
+        "common_shift_points": 32.17025862068966,
+        "common_ci95_sorted_singer_order": [
+          28.434188007099387,
+          35.4778239097363
+        ],
+        "original_ci95_manifest_singer_order": [
+          28.434188007099387,
+          35.4778239097363
+        ]
+      },
+      "ssl": {
+        "embeddings_in_archive": 1180,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "0bc400fab25056bd0cbe51772254b8cc02b9291eeef17e9fa03e793dff87d45e",
+        "common_shift_points": 70.77577755240026,
+        "common_ci95_sorted_singer_order": [
+          65.7727740449628,
+          75.63752641142663
+        ],
+        "original_ci95_manifest_singer_order": [
+          65.7727740449628,
+          75.63752641142663
+        ]
+      },
+      "ecapa": {
+        "embeddings_in_archive": 1180,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "2df2dc39931fc736435020a45cb04b2f9aa45602e269a095989bdf040ace707f",
+        "common_shift_points": 6.954530087897229,
+        "common_ci95_sorted_singer_order": [
+          4.944433527721436,
+          8.840533088235295
+        ],
+        "original_ci95_manifest_singer_order": [
+          4.944433527721436,
+          8.840533088235295
+        ]
+      },
+      "mert": {
+        "embeddings_in_archive": 1180,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "d29ba0fd30229b01c19e1aab69da29329b7800ad39d22618bea05d0e2b617af6",
+        "common_shift_points": 10.776115618661256,
+        "common_ci95_sorted_singer_order": [
+          8.583004775185938,
+          13.032411046315072
+        ],
+        "original_ci95_manifest_singer_order": [
+          8.583004775185938,
+          13.032411046315072
+        ]
+      }
+    }
+  },
+  "g1": {
+    "recordings_per_condition": 76,
+    "condition_count": 20,
+    "source_manifest_sha256": "c73d6ff6bacff9f7a53cf2fa105e97f11cc6778a871b86e543b38e4db4e1f8ec",
+    "singers_by_sex_group": {
+      "female": 10,
+      "male": 9
+    },
+    "genuine_pairs": 228,
+    "triplets": 1944,
+    "encoders": {
+      "cvsm_art": {
+        "embeddings_in_archive": 1520,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "dd2636c5bad915874a2926826959b4b410813f51bdcdc2500cccbcff61582830",
+        "common_shift_points": 31.212375300997596,
+        "common_ci95_sorted_singer_order": [
+          27.67888752723312,
+          34.69787366701066
+        ],
+        "original_ci95_manifest_singer_order": [
+          27.577990626074993,
+          34.58932641038871
+        ]
+      },
+      "cvsm_a": {
+        "embeddings_in_archive": 1520,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "40515bef43b76a226b69b387a22264bbd8f0254efb437ed216b1b9a3037f27c1",
+        "common_shift_points": 17.49441004471964,
+        "common_ci95_sorted_singer_order": [
+          14.9562747248022,
+          20.30275341130604
+        ],
+        "original_ci95_manifest_singer_order": [
+          14.864336085311317,
+          20.37232327141383
+        ]
+      },
+      "ssl": {
+        "embeddings_in_archive": 1520,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "311f0879756ada19f522bb0b67f6b8e0d8127d6719333e93d0e4d6486c359ac0",
+        "common_shift_points": 44.5182605205825,
+        "common_ci95_sorted_singer_order": [
+          36.77819702442381,
+          52.9542286578374
+        ],
+        "original_ci95_manifest_singer_order": [
+          36.720765608875126,
+          52.26891268203187
+        ]
+      },
+      "ecapa": {
+        "embeddings_in_archive": 1520,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "8a488a6a45c044b9088a31b52df8b8e18cda8b87d4ca64eeab33549e7a3a7c30",
+        "common_shift_points": 4.395281504414631,
+        "common_ci95_sorted_singer_order": [
+          2.800343638917555,
+          6.483738963421624
+        ],
+        "original_ci95_manifest_singer_order": [
+          2.783313983488131,
+          6.4552427330581335
+        ]
+      },
+      "mert": {
+        "embeddings_in_archive": 1520,
+        "skipped_embeddings": 0,
+        "source_embedding_sha256": "d285b4e6bd15465ef9c09b0616ea356439b7ea2584b759e2ae1a8e4c926934de",
+        "common_shift_points": 5.19328345373237,
+        "common_ci95_sorted_singer_order": [
+          3.6058705280357755,
+          7.047374871001029
+        ],
+        "original_ci95_manifest_singer_order": [
+          3.569625401330122,
+          6.9846401645453495
+        ]
+      }
+    }
+  },
+  "bootstrap": {
+    "draws": 2000,
+    "seed": 0,
+    "rng": "NumPy default_rng, PCG64",
+    "sorted_by": "Original manifest singer identifier sorted lexicographically",
+    "shared_settings": [
+      "codec@1.5",
+      "codec@12",
+      "codec@24",
+      "codec@3",
+      "codec@6",
+      "eq@12",
+      "mixsep@-6",
+      "mixsep@0",
+      "mixsep@12",
+      "mixsep@6",
+      "mp3@128",
+      "mp3@32",
+      "mp3@64",
+      "reverb@0.1",
+      "reverb@0.2",
+      "reverb@0.3",
+      "reverb@0.5"
+    ]
+  },
+  "musdb18": {
+    "tracks_initial": 150,
+    "encoders": {
+      "cvsm_art": {
+        "tracks_retained_by_split": {
+          "train": 100,
+          "test": 47
+        },
+        "skipped_crops": 7,
+        "excluded_tracks": [
+          "Detsky Sad - Walkie Talkie",
+          "Louis Cressy Band - Good Time",
+          "Skelpolu - Resurrection"
+        ],
+        "source_embedding_sha256": "ff67364e47c5332f3ae43ff315f820a9d1eab6f05380049d7b16a0af5d9a83dc"
+      },
+      "cvsm_a": {
+        "tracks_retained_by_split": {
+          "train": 100,
+          "test": 47
+        },
+        "skipped_crops": 7,
+        "excluded_tracks": [
+          "Detsky Sad - Walkie Talkie",
+          "Louis Cressy Band - Good Time",
+          "Skelpolu - Resurrection"
+        ],
+        "source_embedding_sha256": "7856f91aa8e025ac6d5a0ca4f9aaf520bf42d84fd3512775399d2419942fb0da"
+      },
+      "ssl": {
+        "tracks_retained_by_split": {
+          "train": 100,
+          "test": 47
+        },
+        "skipped_crops": 7,
+        "excluded_tracks": [
+          "Detsky Sad - Walkie Talkie",
+          "Louis Cressy Band - Good Time",
+          "Skelpolu - Resurrection"
+        ],
+        "source_embedding_sha256": "a5a50718d9c613ac18ae1e20f30404ba0da3a3ee6e3d14d9e79d22125f44b9ae"
+      },
+      "ecapa": {
+        "tracks_retained_by_split": {
+          "train": 100,
+          "test": 47
+        },
+        "skipped_crops": 7,
+        "excluded_tracks": [
+          "Detsky Sad - Walkie Talkie",
+          "Louis Cressy Band - Good Time",
+          "Skelpolu - Resurrection"
+        ],
+        "source_embedding_sha256": "089bbe24a55a4436129e2ee2597a783cf9a9302e009cdb33b27196d865daca90"
+      },
+      "mert": {
+        "tracks_retained_by_split": {
+          "train": 100,
+          "test": 47
+        },
+        "skipped_crops": 7,
+        "excluded_tracks": [
+          "Detsky Sad - Walkie Talkie",
+          "Louis Cressy Band - Good Time",
+          "Skelpolu - Resurrection"
+        ],
+        "source_embedding_sha256": "9e3ecd0caf97d6f817efedf73195ba6011b8981b23f7d725bcbb142c48e6cf18"
+      }
+    }
+  },
+  "jvs_clean_margin_quantiles": {
+    "cvsm_art": {
+      "common": {
+        "0.1": -0.011120378971099854,
+        "0.5": 0.04426872730255127,
+        "0.9": 0.11078011989593506
+      },
+      "unique": {
+        "0.1": -0.007254481315612793,
+        "0.5": 0.0460779070854187,
+        "0.9": 0.10954844951629639
+      }
+    },
+    "cvsm_a": {
+      "common": {
+        "0.1": -0.01137077808380127,
+        "0.5": 0.03536254167556763,
+        "0.9": 0.08826690912246704
+      },
+      "unique": {
+        "0.1": -0.008393645286560059,
+        "0.5": 0.03554701805114746,
+        "0.9": 0.09133589267730713
+      }
+    },
+    "ssl": {
+      "common": {
+        "0.1": -0.023171186447143555,
+        "0.5": 0.05109596252441406,
+        "0.9": 0.19637835025787354
+      },
+      "unique": {
+        "0.1": -0.026870906352996826,
+        "0.5": 0.05091041326522827,
+        "0.9": 0.2002103328704834
+      }
+    }
+  },
+  "measured_response_clean_margin_quantiles": {
+    "covox": {
+      "cvsm_art": {
+        "0.1": 0.007319450378417969,
+        "0.5": 0.04256492853164673,
+        "0.9": 0.08857136964797974
+      },
+      "ssl": {
+        "0.1": -0.008190572261810303,
+        "0.5": 0.04708307981491089,
+        "0.9": 0.12331706285476685
+      }
+    },
+    "nus": {
+      "cvsm_art": {
+        "0.1": 0.02041935920715332,
+        "0.5": 0.09334301948547363,
+        "0.9": 0.154776930809021
+      },
+      "ssl": {
+        "0.1": 0.0015392899513244629,
+        "0.5": 0.13585811853408813,
+        "0.9": 0.39467161893844604
+      }
+    }
+  }
+}

@@ -1,0 +1,415 @@
+[
+  {
+    "singer": 1,
+    "sex_group": "female",
+    "song_or_slot": "caro",
+    "source": "female1/excerpts/straight/f1_caro_straight.wav",
+    "crop_start_sample_44100": 44100
+  },
+  {
+    "singer": 1,
+    "sex_group": "female",
+    "song_or_slot": "dona",
+    "source": "female1/excerpts/straight/f1_dona_straight.wav",
+    "crop_start_sample_44100": 441000
+  },
+  {
+    "singer": 1,
+    "sex_group": "female",
+    "song_or_slot": "row",
+    "source": "female1/excerpts/straight/f1_row_straight.wav",
+    "crop_start_sample_44100": 308700
+  },
+  {
+    "singer": 2,
+    "sex_group": "female",
+    "song_or_slot": "caro",
+    "source": "female2/excerpts/straight/f2_caro_straight.wav",
+    "crop_start_sample_44100": 793800
+  },
+  {
+    "singer": 2,
+    "sex_group": "female",
+    "song_or_slot": "dona",
+    "source": "female2/excerpts/straight/f2_dona_straight.wav",
+    "crop_start_sample_44100": 66150
+  },
+  {
+    "singer": 2,
+    "sex_group": "female",
+    "song_or_slot": "row",
+    "source": "female2/excerpts/straight/f2_row_straight.wav",
+    "crop_start_sample_44100": 220500
+  },
+  {
+    "singer": 3,
+    "sex_group": "female",
+    "song_or_slot": "caro",
+    "source": "female3/excerpts/straight/f3_caro_straight.wav",
+    "crop_start_sample_44100": 418950
+  },
+  {
+    "singer": 3,
+    "sex_group": "female",
+    "song_or_slot": "dona",
+    "source": "female3/excerpts/straight/f3_dona_straight.wav",
+    "crop_start_sample_44100": 551250
+  },
+  {
+    "singer": 3,
+    "sex_group": "female",
+    "song_or_slot": "row",
+    "source": "female3/excerpts/straight/f3_row_straight.wav",
+    "crop_start_sample_44100": 242550
+  },
+  {
+    "singer": 4,
+    "sex_group": "female",
+    "song_or_slot": "caro",
+    "source": "female4/excerpts/straight/f4_caro_straight.wav",
+    "crop_start_sample_44100": 22050
+  },
+  {
+    "singer": 4,
+    "sex_group": "female",
+    "song_or_slot": "dona",
+    "source": "female4/excerpts/straight/f4_dona_straight.wav",
+    "crop_start_sample_44100": 463050
+  },
+  {
+    "singer": 4,
+    "sex_group": "female",
+    "song_or_slot": "row",
+    "source": "female4/excerpts/straight/f4_row_straight.wav",
+    "crop_start_sample_44100": 242550
+  },
+  {
+    "singer": 5,
+    "sex_group": "female",
+    "song_or_slot": "caro",
+    "source": "female5/excerpts/straight/f5_caro_straight.wav",
+    "crop_start_sample_44100": 1014300
+  },
+  {
+    "singer": 5,
+    "sex_group": "female",
+    "song_or_slot": "dona",
+    "source": "female5/excerpts/straight/f5_dona_straight.wav",
+    "crop_start_sample_44100": 529200
+  },
+  {
+    "singer": 5,
+    "sex_group": "female",
+    "song_or_slot": "row",
+    "source": "female5/excerpts/straight/f5_row_straight.wav",
+    "crop_start_sample_44100": 308700
+  },
+  {
+    "singer": 6,
+    "sex_group": "female",
+    "song_or_slot": "caro",
+    "source": "female6/excerpts/straight/f6_caro_straight.wav",
+    "crop_start_sample_44100": 992250
+  },
+  {
+    "singer": 6,
+    "sex_group": "female",
+    "song_or_slot": "dona",
+    "source": "female6/excerpts/straight/f6_dona_straight.wav",
+    "crop_start_sample_44100": 441000
+  },
+  {
+    "singer": 6,
+    "sex_group": "female",
+    "song_or_slot": "row",
+    "source": "female6/excerpts/straight/f6_row_straight.wav",
+    "crop_start_sample_44100": 176400
+  },
+  {
+    "singer": 7,
+    "sex_group": "female",
+    "song_or_slot": "caro",
+    "source": "female7/excerpts/straight/f7_caro_straight.wav",
+    "crop_start_sample_44100": 22050
+  },
+  {
+    "singer": 7,
+    "sex_group": "female",
+    "song_or_slot": "dona",
+    "source": "female7/excerpts/straight/f7_dona_straight.wav",
+    "crop_start_sample_44100": 463050
+  },
+  {
+    "singer": 7,
+    "sex_group": "female",
+    "song_or_slot": "row",
+    "source": "female7/excerpts/straight/f7_row_straight.wav",
+    "crop_start_sample_44100": 286650
+  },
+  {
+    "singer": 8,
+    "sex_group": "female",
+    "song_or_slot": "caro",
+    "source": "female8/excerpts/straight/f8_caro_straight.wav",
+    "crop_start_sample_44100": 22050
+  },
+  {
+    "singer": 8,
+    "sex_group": "female",
+    "song_or_slot": "dona",
+    "source": "female8/excerpts/straight/f8_dona_straight.wav",
+    "crop_start_sample_44100": 485100
+  },
+  {
+    "singer": 8,
+    "sex_group": "female",
+    "song_or_slot": "row",
+    "source": "female8/excerpts/straight/f8_row_straight.wav",
+    "crop_start_sample_44100": 441000
+  },
+  {
+    "singer": 9,
+    "sex_group": "female",
+    "song_or_slot": "caro",
+    "source": "female9/excerpts/straight/f9_caro_straight.wav",
+    "crop_start_sample_44100": 705600
+  },
+  {
+    "singer": 9,
+    "sex_group": "female",
+    "song_or_slot": "dona",
+    "source": "female9/excerpts/straight/f9_dona_straight.wav",
+    "crop_start_sample_44100": 463050
+  },
+  {
+    "singer": 9,
+    "sex_group": "female",
+    "song_or_slot": "row",
+    "source": "female9/excerpts/straight/f9_row_straight.wav",
+    "crop_start_sample_44100": 176400
+  },
+  {
+    "singer": 10,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male1/excerpts/straight/m1_caro_straight.wav",
+    "crop_start_sample_44100": 1168650
+  },
+  {
+    "singer": 10,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male1/excerpts/straight/m1_dona_straight.wav",
+    "crop_start_sample_44100": 529200
+  },
+  {
+    "singer": 10,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male1/excerpts/straight/m1_row_straight.wav",
+    "crop_start_sample_44100": 352800
+  },
+  {
+    "singer": 11,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male10/excerpts/straight/m10_caro_straight.wav",
+    "crop_start_sample_44100": 705600
+  },
+  {
+    "singer": 11,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male10/excerpts/straight/m10_dona_straight.wav",
+    "crop_start_sample_44100": 441000
+  },
+  {
+    "singer": 11,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male10/excerpts/straight/m10_row_straight.wav",
+    "crop_start_sample_44100": 286650
+  },
+  {
+    "singer": 12,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male11/excerpts/straight/m11_caro_straight.wav",
+    "crop_start_sample_44100": 837900
+  },
+  {
+    "singer": 12,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male11/excerpts/straight/m11_dona_straight.wav",
+    "crop_start_sample_44100": 507150
+  },
+  {
+    "singer": 12,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male11/excerpts/straight/m11_row_straight.wav",
+    "crop_start_sample_44100": 352800
+  },
+  {
+    "singer": 13,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male2/excerpts/straight/m2_caro_straight.wav",
+    "crop_start_sample_44100": 661500
+  },
+  {
+    "singer": 13,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male2/excerpts/straight/m2_dona_straight.wav",
+    "crop_start_sample_44100": 507150
+  },
+  {
+    "singer": 13,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male2/excerpts/straight/m2_row_straight.wav",
+    "crop_start_sample_44100": 396900
+  },
+  {
+    "singer": 14,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male3/excerpts/straight/m3_caro_straight.wav",
+    "crop_start_sample_44100": 0
+  },
+  {
+    "singer": 14,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male3/excerpts/straight/m3_dona_straight.wav",
+    "crop_start_sample_44100": 485100
+  },
+  {
+    "singer": 14,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male3/excerpts/straight/m3_row_straight.wav",
+    "crop_start_sample_44100": 308700
+  },
+  {
+    "singer": 15,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male4/excerpts/straight/m4_caro_straight.wav",
+    "crop_start_sample_44100": 705600
+  },
+  {
+    "singer": 15,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male4/excerpts/straight/m4_dona_straight.wav",
+    "crop_start_sample_44100": 374850
+  },
+  {
+    "singer": 15,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male4/excerpts/straight/m4_row_straight.wav",
+    "crop_start_sample_44100": 220500
+  },
+  {
+    "singer": 16,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male5/excerpts/straight/m5_caro_straight.wav",
+    "crop_start_sample_44100": 44100
+  },
+  {
+    "singer": 16,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male5/excerpts/straight/m5_dona_straight.wav",
+    "crop_start_sample_44100": 396900
+  },
+  {
+    "singer": 16,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male5/excerpts/straight/m5_row_straight.wav",
+    "crop_start_sample_44100": 242550
+  },
+  {
+    "singer": 17,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male6/excerpts/straight/m6_caro_straight.wav",
+    "crop_start_sample_44100": 948150
+  },
+  {
+    "singer": 17,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male6/excerpts/straight/m6_dona_straight.wav",
+    "crop_start_sample_44100": 374850
+  },
+  {
+    "singer": 17,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male6/excerpts/straight/m6_row_straight.wav",
+    "crop_start_sample_44100": 308700
+  },
+  {
+    "singer": 18,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male7/excerpts/straight/m7_caro_straight.wav",
+    "crop_start_sample_44100": 771750
+  },
+  {
+    "singer": 18,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male7/excerpts/straight/m7_dona_straight.wav",
+    "crop_start_sample_44100": 507150
+  },
+  {
+    "singer": 18,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male7/excerpts/straight/m7_row_straight.wav",
+    "crop_start_sample_44100": 220500
+  },
+  {
+    "singer": 19,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male8/excerpts/straight/m8_caro_straight.wav",
+    "crop_start_sample_44100": 948150
+  },
+  {
+    "singer": 19,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male8/excerpts/straight/m8_dona_straight.wav",
+    "crop_start_sample_44100": 507150
+  },
+  {
+    "singer": 20,
+    "sex_group": "male",
+    "song_or_slot": "caro",
+    "source": "male9/excerpts/straight/m9_caro_straight.wav",
+    "crop_start_sample_44100": 992250
+  },
+  {
+    "singer": 20,
+    "sex_group": "male",
+    "song_or_slot": "dona",
+    "source": "male9/excerpts/straight/m9_dona_straight.wav",
+    "crop_start_sample_44100": 463050
+  },
+  {
+    "singer": 20,
+    "sex_group": "male",
+    "song_or_slot": "row",
+    "source": "male9/excerpts/straight/m9_row_straight.wav",
+    "crop_start_sample_44100": 308700
+  }
+]
