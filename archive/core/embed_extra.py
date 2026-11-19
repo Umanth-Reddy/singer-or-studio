@@ -29,10 +29,12 @@ def ecapa():
     return 16000, lambda w: model.encode_batch(w[None])[0, 0]
 
 
-def mert():
+def mert(source="m-a-p/MERT-v1-95M", local_files_only=False):
     from transformers import AutoModel
 
-    model = AutoModel.from_pretrained("m-a-p/MERT-v1-95M", trust_remote_code=True).to(DEVICE).eval()
+    model = AutoModel.from_pretrained(
+        source, trust_remote_code=True, local_files_only=local_files_only
+    ).to(DEVICE).eval()
     # Recent transformers no longer return hidden_states from MERT's remote code, so hook the
     # 13 states directly: encoder input after layer_norm (state 0) and each of the 12 layers.
     hs: list[torch.Tensor] = []

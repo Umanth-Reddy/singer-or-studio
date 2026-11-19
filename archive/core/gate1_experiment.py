@@ -21,6 +21,7 @@ MANIFEST = EVIDENCE_ROOT / "manifest.csv"
 CHECKPOINT_ROOT = Path(__file__).resolve().parent / "checkpoints"
 CVSM_REPO = PROJECT_ROOT / "existing-work" / "CVSM"
 CVSM_CHECKPOINT_DIR = CVSM_REPO / "models" / "htdemucs" / "m4all_cvsmart"
+CVSM_CHECKPOINT_PREFIX = None
 SSL_CHECKPOINT = CHECKPOINT_ROOT / "ssl_contrastive_vc" / "model.ts"
 PILOT_ROOT = EVIDENCE_ROOT / "gate1_pilot"
 
@@ -96,7 +97,7 @@ def run_cvsm(rows: list[dict[str, str]]) -> np.ndarray:
         pooling_type="max",
         similarity_type=constants.SimilarityMeasure.BILINEAR,
     )
-    checkpoint = tf.train.latest_checkpoint(str(CVSM_CHECKPOINT_DIR))
+    checkpoint = CVSM_CHECKPOINT_PREFIX or tf.train.latest_checkpoint(str(CVSM_CHECKPOINT_DIR))
     if checkpoint is None:
         raise FileNotFoundError(f"no CVSM checkpoint in {CVSM_CHECKPOINT_DIR}")
     restore_status = model.load_weights(checkpoint)
