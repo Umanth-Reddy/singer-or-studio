@@ -28,5 +28,5 @@ Audio, embeddings, private training assets and large checkpoint files belong in 
 
 
 ## Contributors
-Desu Nayanika Sri Sai Jhansi [https://github.com/desunayani-ssj] 
+Desu Nayanika Sri Sai Jhansi [https://github.com/desunayani-ssj] \
 Shivani Kona [https://github.com/shivani11-glitch]
