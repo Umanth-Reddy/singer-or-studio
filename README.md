@@ -22,6 +22,6 @@ The first check recalculates JVS rankings and point contrasts from preserved tri
 | [evidence](evidence/) | Exact result tables, score-level evidence, input manifests, protocols and verification scripts |
 | [workflow](workflow/) | Portable model fetch, crop rendering, embedding and scoring commands |
 | [archive](archive/) | Source analysis scripts, original outputs, selected-inference recheck, auxiliary method and artist-level records |
-| [docs](docs/) | Claim map, setup, literature notes, model hashes and author-run validation |
+| [docs](docs/) | Claim map, setup, literature notes, model hashes, validation and [import history](docs/HISTORY.md) |
 
 Audio, embeddings, private training assets and large checkpoint files belong in ignored local directories. The released encoders are fetched from their upstream sources and verified by hash. The optional Yakura and fine-tuning baseline weights are author-local, with archived results available here. This paper's evidence is machine-only. Participant responses and listening-study material are outside its scope.
