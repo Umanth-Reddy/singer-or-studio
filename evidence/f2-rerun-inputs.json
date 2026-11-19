@@ -1,0 +1,474 @@
+[
+  {
+    "singer": "female1",
+    "sex": "female",
+    "song": "caro",
+    "source": "female1/excerpts/straight/f1_caro_straight.wav",
+    "start": 44100,
+    "sha256": "9e36dabf2e0be8a89be1b6d9dd8692f5b394c80d17dfc9a30b4b6e57c8cdee50"
+  },
+  {
+    "singer": "female1",
+    "sex": "female",
+    "song": "dona",
+    "source": "female1/excerpts/straight/f1_dona_straight.wav",
+    "start": 441000,
+    "sha256": "ea67f1c18c59726e1962d6d178f929a31d8c5ddf1662c1b253dc36b083e08efb"
+  },
+  {
+    "singer": "female1",
+    "sex": "female",
+    "song": "row",
+    "source": "female1/excerpts/straight/f1_row_straight.wav",
+    "start": 308700,
+    "sha256": "1f813de45396a2e8671aa3ad93248378668f14648a6a564fa4765abe07e59309"
+  },
+  {
+    "singer": "female2",
+    "sex": "female",
+    "song": "caro",
+    "source": "female2/excerpts/straight/f2_caro_straight.wav",
+    "start": 793800,
+    "sha256": "1b65094c5fb4420a9973319bc90535909ad27171035358087b39029d32d33559"
+  },
+  {
+    "singer": "female2",
+    "sex": "female",
+    "song": "dona",
+    "source": "female2/excerpts/straight/f2_dona_straight.wav",
+    "start": 66150,
+    "sha256": "ad59edc0bfd82728a15eb8f267135da752630bace68057f9a44a4f16ec8866b2"
+  },
+  {
+    "singer": "female2",
+    "sex": "female",
+    "song": "row",
+    "source": "female2/excerpts/straight/f2_row_straight.wav",
+    "start": 220500,
+    "sha256": "9226d123d0a1d6f52fd1f406ff4da9fe0a73debb1c5363e3266f2acbe703a4c7"
+  },
+  {
+    "singer": "female3",
+    "sex": "female",
+    "song": "caro",
+    "source": "female3/excerpts/straight/f3_caro_straight.wav",
+    "start": 418950,
+    "sha256": "3bcbe60f69ac5005538e321069a0df895d44023d91e566cf3224b01b6dbf7dde"
+  },
+  {
+    "singer": "female3",
+    "sex": "female",
+    "song": "dona",
+    "source": "female3/excerpts/straight/f3_dona_straight.wav",
+    "start": 551250,
+    "sha256": "e811870218f97abcc0e4c70b939b10f175825ff9d9f1eee549ba60e768d0ad44"
+  },
+  {
+    "singer": "female3",
+    "sex": "female",
+    "song": "row",
+    "source": "female3/excerpts/straight/f3_row_straight.wav",
+    "start": 242550,
+    "sha256": "28ee7862f84a3b4eec85fd763683f6d67f4f8d0a399fcca5b62ce5a182e7dd56"
+  },
+  {
+    "singer": "female4",
+    "sex": "female",
+    "song": "caro",
+    "source": "female4/excerpts/straight/f4_caro_straight.wav",
+    "start": 22050,
+    "sha256": "133f931795dbf1dc493096dee1b7b3dcc21c710dfd404fe2dc23253180e10cbe"
+  },
+  {
+    "singer": "female4",
+    "sex": "female",
+    "song": "dona",
+    "source": "female4/excerpts/straight/f4_dona_straight.wav",
+    "start": 463050,
+    "sha256": "c3ca56d39451c81ea420c42595009b0c3833e77f5f60edc7720b74d8fd30de24"
+  },
+  {
+    "singer": "female4",
+    "sex": "female",
+    "song": "row",
+    "source": "female4/excerpts/straight/f4_row_straight.wav",
+    "start": 242550,
+    "sha256": "f823620aad0222d56251544b4619f3c0089d0267e68381543774359d87e59465"
+  },
+  {
+    "singer": "female5",
+    "sex": "female",
+    "song": "caro",
+    "source": "female5/excerpts/straight/f5_caro_straight.wav",
+    "start": 1014300,
+    "sha256": "2578c28e2e48d4acd13b20a2ed36c222a3e50f12361f83ba52ae4053c78d47a5"
+  },
+  {
+    "singer": "female5",
+    "sex": "female",
+    "song": "dona",
+    "source": "female5/excerpts/straight/f5_dona_straight.wav",
+    "start": 529200,
+    "sha256": "f5da8c744623d4b14ce3b3d04daa3e133cb1561425a5523b78d511f10a28fdef"
+  },
+  {
+    "singer": "female5",
+    "sex": "female",
+    "song": "row",
+    "source": "female5/excerpts/straight/f5_row_straight.wav",
+    "start": 308700,
+    "sha256": "369237d97cc9f6d606e5e847b69419474554bd556feb36ec963f985e71e40996"
+  },
+  {
+    "singer": "female6",
+    "sex": "female",
+    "song": "caro",
+    "source": "female6/excerpts/straight/f6_caro_straight.wav",
+    "start": 992250,
+    "sha256": "605863d2988cfd74cc7d00ee08bc8c5458e60b13998ef66bff4f1c2a0d98b0f1"
+  },
+  {
+    "singer": "female6",
+    "sex": "female",
+    "song": "dona",
+    "source": "female6/excerpts/straight/f6_dona_straight.wav",
+    "start": 441000,
+    "sha256": "b18ce7c24b0871d1520e4c9163b00ae40fc68c720ec8814dab0c31455aca5978"
+  },
+  {
+    "singer": "female6",
+    "sex": "female",
+    "song": "row",
+    "source": "female6/excerpts/straight/f6_row_straight.wav",
+    "start": 176400,
+    "sha256": "c26f1e9dee371d4b2afea4e750d50681a36a736000bac7b572bf52de323a0d8d"
+  },
+  {
+    "singer": "female7",
+    "sex": "female",
+    "song": "caro",
+    "source": "female7/excerpts/straight/f7_caro_straight.wav",
+    "start": 22050,
+    "sha256": "ae0265a6d24fff3ea2a4e5971599b8f631376f4620be1745d34152c90ca183f2"
+  },
+  {
+    "singer": "female7",
+    "sex": "female",
+    "song": "dona",
+    "source": "female7/excerpts/straight/f7_dona_straight.wav",
+    "start": 463050,
+    "sha256": "8f39af9998b5b990dd19890bef42b6c352ef768c31399ba487399e555bffd6cc"
+  },
+  {
+    "singer": "female7",
+    "sex": "female",
+    "song": "row",
+    "source": "female7/excerpts/straight/f7_row_straight.wav",
+    "start": 286650,
+    "sha256": "b15a59cd7aa3e0c18b70354d35516e1ae69059aefa64e72534293ef2d1b9a4f9"
+  },
+  {
+    "singer": "female8",
+    "sex": "female",
+    "song": "caro",
+    "source": "female8/excerpts/straight/f8_caro_straight.wav",
+    "start": 22050,
+    "sha256": "8702e8c20c22b32bdb1ef97717bb2eeb3686b354963c32af28d93ea091d92221"
+  },
+  {
+    "singer": "female8",
+    "sex": "female",
+    "song": "dona",
+    "source": "female8/excerpts/straight/f8_dona_straight.wav",
+    "start": 485100,
+    "sha256": "38eff26f2edb069d80ab161c0f7e1052f52e3433376e45a90d33f9235902ad9f"
+  },
+  {
+    "singer": "female8",
+    "sex": "female",
+    "song": "row",
+    "source": "female8/excerpts/straight/f8_row_straight.wav",
+    "start": 441000,
+    "sha256": "3a07840a89a94d0090b5df731a54a19a1e3ebd2c83d51e7ed1a2c8f40ca05254"
+  },
+  {
+    "singer": "female9",
+    "sex": "female",
+    "song": "caro",
+    "source": "female9/excerpts/straight/f9_caro_straight.wav",
+    "start": 705600,
+    "sha256": "6213b21eacd52cfbdd9bad4cb27f5d21ac867364070db2bc19362f5dfd27f811"
+  },
+  {
+    "singer": "female9",
+    "sex": "female",
+    "song": "dona",
+    "source": "female9/excerpts/straight/f9_dona_straight.wav",
+    "start": 463050,
+    "sha256": "cfda9ee64305dbd6feb1a606650104c7ef42072fe5e8574ce1aa3b23e90e121f"
+  },
+  {
+    "singer": "female9",
+    "sex": "female",
+    "song": "row",
+    "source": "female9/excerpts/straight/f9_row_straight.wav",
+    "start": 176400,
+    "sha256": "5534fabe9e7fcf9ec919068ef2e9845835ee33b5edc9d0e2939ee5004ff1b4dc"
+  },
+  {
+    "singer": "male1",
+    "sex": "male",
+    "song": "caro",
+    "source": "male1/excerpts/straight/m1_caro_straight.wav",
+    "start": 1168650,
+    "sha256": "b898b3d1f6108e103408b85ff967c3ab8da2c5c301cf1bbadae3413608faf720"
+  },
+  {
+    "singer": "male1",
+    "sex": "male",
+    "song": "dona",
+    "source": "male1/excerpts/straight/m1_dona_straight.wav",
+    "start": 529200,
+    "sha256": "c710ed683750a8a1201fae9bcb81e7c23cda0e8f57f4748439acecbc09514c77"
+  },
+  {
+    "singer": "male1",
+    "sex": "male",
+    "song": "row",
+    "source": "male1/excerpts/straight/m1_row_straight.wav",
+    "start": 352800,
+    "sha256": "601f875d9f550b1ac2e6ea95814b0634fcb6d8567b258f0f8522f704500f0911"
+  },
+  {
+    "singer": "male10",
+    "sex": "male",
+    "song": "caro",
+    "source": "male10/excerpts/straight/m10_caro_straight.wav",
+    "start": 705600,
+    "sha256": "66224284432b7809f31e43b961be8e22b345ec770bb9c407cb6cfd1c19bf1b47"
+  },
+  {
+    "singer": "male10",
+    "sex": "male",
+    "song": "dona",
+    "source": "male10/excerpts/straight/m10_dona_straight.wav",
+    "start": 441000,
+    "sha256": "db2c1b09ef15fe807c35e8cdfe4197da54ce534b89b11a5f06bc6c1161f0e7d2"
+  },
+  {
+    "singer": "male10",
+    "sex": "male",
+    "song": "row",
+    "source": "male10/excerpts/straight/m10_row_straight.wav",
+    "start": 286650,
+    "sha256": "e1b96ac52d9b1a83810b72c58c2d9d11a5848416f7f0a3b74728e1162da27389"
+  },
+  {
+    "singer": "male11",
+    "sex": "male",
+    "song": "caro",
+    "source": "male11/excerpts/straight/m11_caro_straight.wav",
+    "start": 837900,
+    "sha256": "969933d99c6bfd196e36f86c5c00f68155c8e6149b0bf799b92e768efe1e5544"
+  },
+  {
+    "singer": "male11",
+    "sex": "male",
+    "song": "dona",
+    "source": "male11/excerpts/straight/m11_dona_straight.wav",
+    "start": 507150,
+    "sha256": "d673c7c17f5527f84db1010051cee98a0176bd284421e19cbc36c98cd931d96d"
+  },
+  {
+    "singer": "male11",
+    "sex": "male",
+    "song": "row",
+    "source": "male11/excerpts/straight/m11_row_straight.wav",
+    "start": 352800,
+    "sha256": "91ab503929877de89183a1317c93ceda816881891f98191ff5eafd7f7059beb3"
+  },
+  {
+    "singer": "male2",
+    "sex": "male",
+    "song": "caro",
+    "source": "male2/excerpts/straight/m2_caro_straight.wav",
+    "start": 661500,
+    "sha256": "3661e7f1b9e6bcfb0ce11a28e3f159f95a9340655bb75191addc9e76d2e91982"
+  },
+  {
+    "singer": "male2",
+    "sex": "male",
+    "song": "dona",
+    "source": "male2/excerpts/straight/m2_dona_straight.wav",
+    "start": 507150,
+    "sha256": "02fcfa4b0196e5e6ef7afeca4f7e536e50b5217cbeb77ddb62f4082a64f45c22"
+  },
+  {
+    "singer": "male2",
+    "sex": "male",
+    "song": "row",
+    "source": "male2/excerpts/straight/m2_row_straight.wav",
+    "start": 396900,
+    "sha256": "ae79273352598a75726a6bcc24b539768ae3ee6ed97a461e686efe2c9209deba"
+  },
+  {
+    "singer": "male3",
+    "sex": "male",
+    "song": "caro",
+    "source": "male3/excerpts/straight/m3_caro_straight.wav",
+    "start": 0,
+    "sha256": "ff0b0c57bd91c295d8c95947e57153100e78b43087e2356066bee3e45028d9e8"
+  },
+  {
+    "singer": "male3",
+    "sex": "male",
+    "song": "dona",
+    "source": "male3/excerpts/straight/m3_dona_straight.wav",
+    "start": 485100,
+    "sha256": "2189574f2864bfbe803fdb5e2638a85b0151f380937828f5a3b66ac203adc738"
+  },
+  {
+    "singer": "male3",
+    "sex": "male",
+    "song": "row",
+    "source": "male3/excerpts/straight/m3_row_straight.wav",
+    "start": 308700,
+    "sha256": "458f0867605ed8ecbc1278263512dc43da0e891ee890b2940ae52c60c7392e9c"
+  },
+  {
+    "singer": "male4",
+    "sex": "male",
+    "song": "caro",
+    "source": "male4/excerpts/straight/m4_caro_straight.wav",
+    "start": 705600,
+    "sha256": "813edbc62c4f2273a5d1c52e0264b778a174c4141ab159271152794dbb94f763"
+  },
+  {
+    "singer": "male4",
+    "sex": "male",
+    "song": "dona",
+    "source": "male4/excerpts/straight/m4_dona_straight.wav",
+    "start": 374850,
+    "sha256": "201077f745c67b1b182a949e44091cecfecd653d733f91c3079e2d77f40cf7ee"
+  },
+  {
+    "singer": "male4",
+    "sex": "male",
+    "song": "row",
+    "source": "male4/excerpts/straight/m4_row_straight.wav",
+    "start": 220500,
+    "sha256": "618095e65b6593db384604aa86fd045750f3455b8564304e9c5654a8a5758e0a"
+  },
+  {
+    "singer": "male5",
+    "sex": "male",
+    "song": "caro",
+    "source": "male5/excerpts/straight/m5_caro_straight.wav",
+    "start": 44100,
+    "sha256": "559afda116fd5b67a1ab83da2fe2e6b2aa682fd1667f0a894eb09b13d87e4c34"
+  },
+  {
+    "singer": "male5",
+    "sex": "male",
+    "song": "dona",
+    "source": "male5/excerpts/straight/m5_dona_straight.wav",
+    "start": 396900,
+    "sha256": "f3c1c0456a020abe63d9e8472361ae4a4e8f4d4894e554eb0e055ee0a78fd2c9"
+  },
+  {
+    "singer": "male5",
+    "sex": "male",
+    "song": "row",
+    "source": "male5/excerpts/straight/m5_row_straight.wav",
+    "start": 242550,
+    "sha256": "8b2e362e6df63a5ae35f99cdb3eb1bc1bf1c259f95a4fc205a3646da39876f18"
+  },
+  {
+    "singer": "male6",
+    "sex": "male",
+    "song": "caro",
+    "source": "male6/excerpts/straight/m6_caro_straight.wav",
+    "start": 948150,
+    "sha256": "3f556c1b0cbc8fabd496cd44af9864682f3626b8c09c3e5331e2b74daf3ddd41"
+  },
+  {
+    "singer": "male6",
+    "sex": "male",
+    "song": "dona",
+    "source": "male6/excerpts/straight/m6_dona_straight.wav",
+    "start": 374850,
+    "sha256": "01eb6750712c20bde1ec0fa18780a933a9cda0eb7e4fc5f8eaf0362f867b0d8c"
+  },
+  {
+    "singer": "male6",
+    "sex": "male",
+    "song": "row",
+    "source": "male6/excerpts/straight/m6_row_straight.wav",
+    "start": 308700,
+    "sha256": "9f9ea1d172d53edcb48157c3240de02a0d0893cbc716a854abf1d49f3af73fe2"
+  },
+  {
+    "singer": "male7",
+    "sex": "male",
+    "song": "caro",
+    "source": "male7/excerpts/straight/m7_caro_straight.wav",
+    "start": 771750,
+    "sha256": "514af4bbc6be6ca869499b20b065d2ed7abaa994fa039e2f140b1a716cd7e5a1"
+  },
+  {
+    "singer": "male7",
+    "sex": "male",
+    "song": "dona",
+    "source": "male7/excerpts/straight/m7_dona_straight.wav",
+    "start": 507150,
+    "sha256": "70827851af8ccea4e8e296a9716fba727ba849e12b58039018f5db6690036ad3"
+  },
+  {
+    "singer": "male7",
+    "sex": "male",
+    "song": "row",
+    "source": "male7/excerpts/straight/m7_row_straight.wav",
+    "start": 220500,
+    "sha256": "549b9e396c92f1001bc0ec1f93028106d11f3203ffd6c83b282e9bc99afcc4ec"
+  },
+  {
+    "singer": "male8",
+    "sex": "male",
+    "song": "caro",
+    "source": "male8/excerpts/straight/m8_caro_straight.wav",
+    "start": 948150,
+    "sha256": "5f5feee1bbb97e57174d758e4d9f0c8996453acbba6b85a37b6b553ae5d7b3b0"
+  },
+  {
+    "singer": "male8",
+    "sex": "male",
+    "song": "dona",
+    "source": "male8/excerpts/straight/m8_dona_straight.wav",
+    "start": 507150,
+    "sha256": "af24733d372cc1891fdf33f2c025912cb8bd306ead9cd892bc2bee5111c75373"
+  },
+  {
+    "singer": "male9",
+    "sex": "male",
+    "song": "caro",
+    "source": "male9/excerpts/straight/m9_caro_straight.wav",
+    "start": 992250,
+    "sha256": "445b1dc84cc0535317e265b7029a57b80907fc3a50cc2acdc3013c64d42209a0"
+  },
+  {
+    "singer": "male9",
+    "sex": "male",
+    "song": "dona",
+    "source": "male9/excerpts/straight/m9_dona_straight.wav",
+    "start": 463050,
+    "sha256": "347cfc7f81e9c467943bdd08341eada4b8d4485308b88a21983764f317d32e01"
+  },
+  {
+    "singer": "male9",
+    "sex": "male",
+    "song": "row",
+    "source": "male9/excerpts/straight/m9_row_straight.wav",
+    "start": 308700,
+    "sha256": "1403097ffae43ecce27c61d287a3828c2937166ca4826b2f11a73c3121f1baa2"
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "singer": "ZH-Alto-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "Chinese/ZH-Alto-1/Breathy/不再见/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "7449f2142d5403d414caaf82cdb11b2898a64c857cfff464e559d4dfdc289093"
+  },
+  {
+    "singer": "ZH-Alto-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "Chinese/ZH-Alto-1/Breathy/云烟成雨/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "5ee7c43d5632a062ecbea8543fabcc6e2a8081d38d98f948a1a47ca5ac0002c1"
+  },
+  {
+    "singer": "ZH-Alto-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "Chinese/ZH-Alto-1/Vibrato/不再见/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "7743973990e23fabaf4c9c38e0048b8578b81669ff055adf29c1980ad25282cc"
+  },
+  {
+    "singer": "ZH-Alto-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "Chinese/ZH-Alto-1/Vibrato/南屏晚钟/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "0618c3d4786d40c13966c1ec05f2c5fa0a1c173685b94ac92543e7eda1e2f1c0"
+  },
+  {
+    "singer": "ZH-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "Chinese/ZH-Tenor-1/Breathy/不染/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "8cf971e65b031f7bf6f97360a1b3453662765962598ab56d2690942fe8230158"
+  },
+  {
+    "singer": "ZH-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "Chinese/ZH-Tenor-1/Breathy/会呼吸的痛/Control_Group/0000.wav",
+    "start": 66150,
+    "sha256": "68b54cd6eb96a69e720414b88afdbd65b6eb1aa10c425125ec78c80859523681"
+  },
+  {
+    "singer": "ZH-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "Chinese/ZH-Tenor-1/Vibrato/从前慢/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "8318bf684b3fcad4b5074fadf133ff140be253bde65b23cd0c4db66baabda023"
+  },
+  {
+    "singer": "ZH-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "Chinese/ZH-Tenor-1/Vibrato/你给我听好/Control_Group/0000.wav",
+    "start": 154350,
+    "sha256": "7de18a4a91cec033d33bfa57d360336844d7cd4a9d93a45f5d15ec1fb52c4dea"
+  },
+  {
+    "singer": "EN-Alto-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "English/EN-Alto-1/Breathy/all is found/Control_Group/0000.wav",
+    "start": 110250,
+    "sha256": "d1b5ffcb84064e16733a2aa69bff8cfbde33925f975f6fd79654a89031609a47"
+  },
+  {
+    "singer": "EN-Alto-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "English/EN-Alto-1/Breathy/god is a girl/Control_Group/0000.wav",
+    "start": 88200,
+    "sha256": "b34227b359c92e66e5c03a8349b9e77f41ef7cee740d835effc327525432e86b"
+  },
+  {
+    "singer": "EN-Alto-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "English/EN-Alto-1/Vibrato/edelweiss/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "9cd2b81ee956efd741fcf821b5311ede23798b87d15ddb77f6d27636e12d9eb3"
+  },
+  {
+    "singer": "EN-Alto-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "English/EN-Alto-1/Vibrato/if you love me for me/Control_Group/0000.wav",
+    "start": 110250,
+    "sha256": "7dca5c73cd8ea73e253dcb43a7234bcc97f74a1d4db2900be77f835ecea09d63"
+  },
+  {
+    "singer": "EN-Alto-2",
+    "sex": "female",
+    "song": "s0",
+    "source": "English/EN-Alto-2/Breathy/A Thousand Years/Control_Group/0000.wav",
+    "start": 242550,
+    "sha256": "f1c8329e7d304cbe4365e0c5b135670799e2bb460e8e7b0c4bea0b5417004528"
+  },
+  {
+    "singer": "EN-Alto-2",
+    "sex": "female",
+    "song": "s1",
+    "source": "English/EN-Alto-2/Breathy/All of Me/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "c61f276e720b9bbfea165e80165d353f3ebf0ed13794dc5606957d6974e46c12"
+  },
+  {
+    "singer": "EN-Alto-2",
+    "sex": "female",
+    "song": "s2",
+    "source": "English/EN-Alto-2/Vibrato/A Thousand Years/Control_Group/0000.wav",
+    "start": 242550,
+    "sha256": "f1c8329e7d304cbe4365e0c5b135670799e2bb460e8e7b0c4bea0b5417004528"
+  },
+  {
+    "singer": "EN-Alto-2",
+    "sex": "female",
+    "song": "s3",
+    "source": "English/EN-Alto-2/Vibrato/All of Me/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "b987ad1d9db45780539068a3f83ae528c1c7c0bc162922a8cc87d4093397b321"
+  },
+  {
+    "singer": "EN-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "English/EN-Tenor-1/Breathy/All I Ask/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "3fd2520c39e3d9475879a0abd4c252ad135588f8f23d9105d39f98d9947d8476"
+  },
+  {
+    "singer": "EN-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "English/EN-Tenor-1/Breathy/Always Remember Us This Way/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "d10a3f990ddd654edd3a09415efa4cb3993bf2b955899b8d17843cb9f7320c48"
+  },
+  {
+    "singer": "EN-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "English/EN-Tenor-1/Vibrato/All I Ask/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "892f6d684c6276811e6649dcda4fd257234a22f47d9d46f0cc9bf615fb747d65"
+  },
+  {
+    "singer": "EN-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "English/EN-Tenor-1/Vibrato/Always Remember Us This Way/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "546a16480c76607f836e6df13a0b0803cf45b73d0a98a451f54ba62af73339b3"
+  },
+  {
+    "singer": "FR-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "French/FR-Soprano-1/Breathy/2019/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "6ecda64194ecfbbe0a6b392592e115593c7d37f70477faa28e83d77df323f0af"
+  },
+  {
+    "singer": "FR-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "French/FR-Soprano-1/Breathy/a la vie comme a la mort/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "f5ff53c7f25cc28336e6a5a5ed09dbae0782306314d5f19c8b5c933a8f52dab4"
+  },
+  {
+    "singer": "FR-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "French/FR-Soprano-1/Vibrato/1996/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "defa298615b1c5227caf567ebff10f9479b149c16a61b33862e76c5c2520d9e1"
+  },
+  {
+    "singer": "FR-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "French/FR-Soprano-1/Vibrato/a la renverse/Control_Group/0000.wav",
+    "start": 132300,
+    "sha256": "c98afe6be48d79113a7d29e247c22664415e7f1cc7cad73476a969df93e0c486"
+  },
+  {
+    "singer": "FR-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "French/FR-Tenor-1/Breathy/Lafleur/Control_Group/0000.wav",
+    "start": 308700,
+    "sha256": "65e1385aa29f9a58c6725a71bf20188e619ad4f4b0ef1a610b10db0928e8801f"
+  },
+  {
+    "singer": "FR-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "French/FR-Tenor-1/Breathy/Le Toréador/Control_Group/0000.wav",
+    "start": 22050,
+    "sha256": "ca4dfd5995dbde6e9a7f9bff3ee034ee70f0558ad2e74907c11270b34c574cd9"
+  },
+  {
+    "singer": "FR-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "French/FR-Tenor-1/Vibrato/Le Toréador/Control_Group/0000.wav",
+    "start": 22050,
+    "sha256": "ca4dfd5995dbde6e9a7f9bff3ee034ee70f0558ad2e74907c11270b34c574cd9"
+  },
+  {
+    "singer": "FR-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "French/FR-Tenor-1/Vibrato/Les Marionnettes/Control_Group/0000.wav",
+    "start": 330750,
+    "sha256": "b609eb2f392111251fd336616e6bca5040a82eb61e8b39b45c2d8d9c27ae651c"
+  },
+  {
+    "singer": "DE-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "German/DE-Soprano-1/Breathy/Copilot/Control_Group/0000.wav",
+    "start": 88200,
+    "sha256": "11309fdfa9c3d2904b4567f51cfcefb0fc8a501888e7bb956f63e3acc40c6aba"
+  },
+  {
+    "singer": "DE-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "German/DE-Soprano-1/Breathy/Danke/Control_Group/0000.wav",
+    "start": 88200,
+    "sha256": "0fcedb968467bbac55d016a21b495b0f927dad253cd40d67669563ba19457def"
+  },
+  {
+    "singer": "DE-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "German/DE-Soprano-1/Vibrato/Copilot/Control_Group/0000.wav",
+    "start": 110250,
+    "sha256": "f6b9a33916e1454ec5f3aff15f839a7519ebe3ebf4e8669e97efbdb8dedc4dd9"
+  },
+  {
+    "singer": "DE-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "German/DE-Soprano-1/Vibrato/Danke/Control_Group/0000.wav",
+    "start": 110250,
+    "sha256": "7bb4a50eeb30caf4bbbf40d138bcc761eae78d93d61e51ddf5c989726b62258e"
+  },
+  {
+    "singer": "DE-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "German/DE-Tenor-1/Breathy/Adelaide/Control_Group/0000.wav",
+    "start": 88200,
+    "sha256": "95665e7fbf578ef16c5ba5adc986e13cd87499f81524c535567fd7d0b56b9bf8"
+  },
+  {
+    "singer": "DE-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "German/DE-Tenor-1/Breathy/Am Feierabend/Control_Group/0000.wav",
+    "start": 66150,
+    "sha256": "3e20ea8e0bbc982bdb35b0be4eeaa776e859c2af53c264db35dea76cd1ed93af"
+  },
+  {
+    "singer": "DE-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "German/DE-Tenor-1/Vibrato/Adelaide/Control_Group/0000.wav",
+    "start": 22050,
+    "sha256": "d26bdb97903c3c0c3334b2cf915f2da7c0ef4670b3bdcebcc1b3b92f2830902a"
+  },
+  {
+    "singer": "DE-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "German/DE-Tenor-1/Vibrato/Am Feierabend/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "3ee8915bd91cee1d541ef468252dc6f0c6c6b589367a36ee0f3697c7444e1eef"
+  },
+  {
+    "singer": "IT-Bass-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "Italian/IT-Bass-1/Breathy/Con ardore/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "bdc3f72e0dcf12d2c2392281f67022932f5074c0236965f179fdfebf2900248c"
+  },
+  {
+    "singer": "IT-Bass-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "Italian/IT-Bass-1/Breathy/Di Provenza il mar, il suol/Control_Group/0000.wav",
+    "start": 22050,
+    "sha256": "1861c2d5bedadd3ec3cdffc3adeac50912f73229562e3eb0ec55fed2016b2cf3"
+  },
+  {
+    "singer": "IT-Bass-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "Italian/IT-Bass-1/Vibrato/Con ardore/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "bdc3f72e0dcf12d2c2392281f67022932f5074c0236965f179fdfebf2900248c"
+  },
+  {
+    "singer": "IT-Bass-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "Italian/IT-Bass-1/Vibrato/Di Provenza il mar, il suol/Control_Group/0000.wav",
+    "start": 22050,
+    "sha256": "fddcbff1862f672b07b159f1265c33e08d033dae689f882ebce5e0c34b3748e7"
+  },
+  {
+    "singer": "IT-Bass-2",
+    "sex": "male",
+    "song": "s0",
+    "source": "Italian/IT-Bass-2/Breathy/Amarilli/Control_Group/0000.wav",
+    "start": 66150,
+    "sha256": "136b000bb706b761b2104ea3717c96ccdafe7d11bb3b800f5549f1775a64fa51"
+  },
+  {
+    "singer": "IT-Bass-2",
+    "sex": "male",
+    "song": "s1",
+    "source": "Italian/IT-Bass-2/Breathy/Aprile/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "9e66fccabe292be8af85de17c7537c1c329e061398f2e4c1c46494ad26ade1f9"
+  },
+  {
+    "singer": "IT-Bass-2",
+    "sex": "male",
+    "song": "s2",
+    "source": "Italian/IT-Bass-2/Vibrato/Amarilli/Control_Group/0000.wav",
+    "start": 66150,
+    "sha256": "fffd58a81daf2e8c400da22154a3b371f606b255a91e86abca8a7fa980bdc672"
+  },
+  {
+    "singer": "IT-Bass-2",
+    "sex": "male",
+    "song": "s3",
+    "source": "Italian/IT-Bass-2/Vibrato/Aprile/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "4974cdba00c930215b528c99e25123ae75eef141164fa60c4ed8b5205d8cc68d"
+  },
+  {
+    "singer": "IT-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "Italian/IT-Soprano-1/Breathy/batti batti/Control_Group/0000.wav",
+    "start": 242550,
+    "sha256": "b2db0693cba7971c536ebfa4623dfdd2050000bef3b7ce24d18e311f8316a1ef"
+  },
+  {
+    "singer": "IT-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "Italian/IT-Soprano-1/Breathy/lascia ch'io pianga/Control_Group/0000.wav",
+    "start": 308700,
+    "sha256": "c1966ca450bea5eb49eac18b918b61af59f2ccb51131f430ebf0acef1abf2ec3"
+  },
+  {
+    "singer": "IT-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "Italian/IT-Soprano-1/Vibrato/bella ciao/Control_Group/0000.wav",
+    "start": 220500,
+    "sha256": "5cbf7ceb4d98a876982e06f5fbf5145191744aa0c41570f24b6ac4bb954f64fd"
+  },
+  {
+    "singer": "IT-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "Italian/IT-Soprano-1/Vibrato/le violette/Control_Group/0000.wav",
+    "start": 330750,
+    "sha256": "72a536cc71ff8d95bcf6026a83974f24f74f2e398656e6258f0240597e39e80f"
+  },
+  {
+    "singer": "JA-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "Japanese/JA-Soprano-1/Breathy/さよならの夏～コクリコ坂から～/Control_Group/0000.wav",
+    "start": 198450,
+    "sha256": "559fb219da93a1a8307fb3853cf9dcfd9a3ef65088455c05b137023284fb6858"
+  },
+  {
+    "singer": "JA-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "Japanese/JA-Soprano-1/Breathy/ただいま/Control_Group/0000.wav",
+    "start": 154350,
+    "sha256": "a3e3368ff76a8e974f5dbbe654d036c167b5597fd7b2347ce1dd455c79b0e68f"
+  },
+  {
+    "singer": "JA-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "Japanese/JA-Soprano-1/Vibrato/heartful song/Control_Group/0000.wav",
+    "start": 463050,
+    "sha256": "1dc85c936851645bdf91bc72ea0f68d0abbeb3514ca4db59cb0db60b5f3abcd0"
+  },
+  {
+    "singer": "JA-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "Japanese/JA-Soprano-1/Vibrato/voyage/Control_Group/0000.wav",
+    "start": 88200,
+    "sha256": "bd7de8be44ec4ddf3d7877bbed129603014ef09d29c337dc4683cdbd62c86447"
+  },
+  {
+    "singer": "JA-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "Japanese/JA-Tenor-1/Breathy/Heartful Song/Control_Group/0000.wav",
+    "start": 0,
+    "sha256": "b1e0a9f87523b37d47105ffb627e08a9004b0393514854c27f29c2832f7def74"
+  },
+  {
+    "singer": "JA-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "Japanese/JA-Tenor-1/Breathy/さんぽ/Control_Group/0000.wav",
+    "start": 220500,
+    "sha256": "f23bc4807c3a34fc9e57ae5ef81300667d807844ba2ae864d10607582e20a583"
+  },
+  {
+    "singer": "JA-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "Japanese/JA-Tenor-1/Vibrato/Heartful Song/Control_Group/0000.wav",
+    "start": 374850,
+    "sha256": "863e8d0a08b323b932fef58deca60c6b2cfbeb3b33f22250927558da4a785ce2"
+  },
+  {
+    "singer": "JA-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "Japanese/JA-Tenor-1/Vibrato/さんぽ/Control_Group/0000.wav",
+    "start": 220500,
+    "sha256": "f23bc4807c3a34fc9e57ae5ef81300667d807844ba2ae864d10607582e20a583"
+  },
+  {
+    "singer": "KO-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "Korean/KO-Soprano-1/Breathy/all about you/Control_Group/0000.wav",
+    "start": 176400,
+    "sha256": "0a3a87af9cdef5f866470dfeca1f9df507b79d4e4015da180d12afd38c210a69"
+  },
+  {
+    "singer": "KO-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "Korean/KO-Soprano-1/Breathy/gravity/Control_Group/0000.wav",
+    "start": 66150,
+    "sha256": "febff0d16755042087d7d4985a19403ddf466f405cf127e6a88051a1cded32a4"
+  },
+  {
+    "singer": "KO-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "Korean/KO-Soprano-1/Vibrato/chantey/Control_Group/0000.wav",
+    "start": 66150,
+    "sha256": "137b77500a719dffe6fe39fe2870c8ffcb744edc59b76a568cbbac5fecfaac42"
+  },
+  {
+    "singer": "KO-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "Korean/KO-Soprano-1/Vibrato/mysea/Control_Group/0000.wav",
+    "start": 198450,
+    "sha256": "4581452cb779677adc44dd4eacca6b9f3f82e9726407c2b92511b350e12af989"
+  },
+  {
+    "singer": "KO-Soprano-2",
+    "sex": "female",
+    "song": "s0",
+    "source": "Korean/KO-Soprano-2/Breathy/ur/Control_Group/0000.wav",
+    "start": 22050,
+    "sha256": "15f5b789acf035af372aeef15aed86cfa0b1077d6ebb97feda6627bb0bdf9ec8"
+  },
+  {
+    "singer": "KO-Soprano-2",
+    "sex": "female",
+    "song": "s1",
+    "source": "Korean/KO-Soprano-2/Breathy/눈, 코, 입/Control_Group/0000.wav",
+    "start": 22050,
+    "sha256": "9fc18f8fc2a0bba1067b6f38b537b76bb0a3eb2e1f0be6411c1a26c17a8bc428"
+  },
+  {
+    "singer": "KO-Soprano-2",
+    "sex": "female",
+    "song": "s2",
+    "source": "Korean/KO-Soprano-2/Vibrato/눈, 코, 입/Control_Group/0000.wav",
+    "start": 22050,
+    "sha256": "a19d3fad913d8d5736856d6b3452a80bc3151d08d8d9168adbaa0d54299d3a12"
+  },
+  {
+    "singer": "KO-Soprano-2",
+    "sex": "female",
+    "song": "s3",
+    "source": "Korean/KO-Soprano-2/Vibrato/다가와/Control_Group/0000.wav",
+    "start": 88200,
+    "sha256": "8c898f2af4094c33337115b7a7681e0d5fea53c4034ecb5b71e579b87d48b86f"
+  },
+  {
+    "singer": "KO-Tenor-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "Korean/KO-Tenor-1/Breathy/EYES, NOSE, LIPS/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "afbc8d84daf11f06ad14b31803adec847df1954c655bdd43ec8dfce718af29b8"
+  },
+  {
+    "singer": "KO-Tenor-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "Korean/KO-Tenor-1/Breathy/IF YOU/Control_Group/0000.wav",
+    "start": 418950,
+    "sha256": "91b04ba87b1c235c8406357a37f29025c0e7227fa625dff54a431042bf150b9d"
+  },
+  {
+    "singer": "KO-Tenor-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "Korean/KO-Tenor-1/Vibrato/EYES, NOSE, LIPS/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "afbc8d84daf11f06ad14b31803adec847df1954c655bdd43ec8dfce718af29b8"
+  },
+  {
+    "singer": "KO-Tenor-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "Korean/KO-Tenor-1/Vibrato/IF YOU/Control_Group/0000.wav",
+    "start": 418950,
+    "sha256": "91b04ba87b1c235c8406357a37f29025c0e7227fa625dff54a431042bf150b9d"
+  },
+  {
+    "singer": "ES-Bass-1",
+    "sex": "male",
+    "song": "s0",
+    "source": "Spanish/ES-Bass-1/Breathy/A Gritos de Esperanza/Control_Group/0000.wav",
+    "start": 66150,
+    "sha256": "2f962d479233250f50b44c27838ac70eeee71d2be323aaad716aa8d19e0f15b4"
+  },
+  {
+    "singer": "ES-Bass-1",
+    "sex": "male",
+    "song": "s1",
+    "source": "Spanish/ES-Bass-1/Breathy/Amar y Querer/Control_Group/0000.wav",
+    "start": 352800,
+    "sha256": "29e446be077942b19f45d55f4e3801a639a660d94a62685950bb8d9516d04500"
+  },
+  {
+    "singer": "ES-Bass-1",
+    "sex": "male",
+    "song": "s2",
+    "source": "Spanish/ES-Bass-1/Vibrato/A Gritos de Esperanza/Control_Group/0000.wav",
+    "start": 66150,
+    "sha256": "2f962d479233250f50b44c27838ac70eeee71d2be323aaad716aa8d19e0f15b4"
+  },
+  {
+    "singer": "ES-Bass-1",
+    "sex": "male",
+    "song": "s3",
+    "source": "Spanish/ES-Bass-1/Vibrato/Amar y Querer/Control_Group/0000.wav",
+    "start": 44100,
+    "sha256": "f59b819a5f90caff355bc73cfdaf686b15039365e8db439616ef7edc49e42201"
+  },
+  {
+    "singer": "ES-Soprano-1",
+    "sex": "female",
+    "song": "s0",
+    "source": "Spanish/ES-Soprano-1/Breathy/Ecos De Amor/Control_Group/0000.wav",
+    "start": 66150,
+    "sha256": "1c862804972dd5506f90bb0e6e942f5654b0a58f1ad8e1f52c2756a20e28bca6"
+  },
+  {
+    "singer": "ES-Soprano-1",
+    "sex": "female",
+    "song": "s1",
+    "source": "Spanish/ES-Soprano-1/Breathy/Esta Noche Es Para Amar/Control_Group/0000.wav",
+    "start": 352800,
+    "sha256": "b4edf1ec681254afbf3a260c04186dc8cf4464c5d1a79d0c5578371cfb08e58d"
+  },
+  {
+    "singer": "ES-Soprano-1",
+    "sex": "female",
+    "song": "s2",
+    "source": "Spanish/ES-Soprano-1/Vibrato/Ecos De Amor/Control_Group/0000.wav",
+    "start": 308700,
+    "sha256": "f3317344812c819723d234295f1f17788a869a12bf03c8ea0f3e94096609cbf0"
+  },
+  {
+    "singer": "ES-Soprano-1",
+    "sex": "female",
+    "song": "s3",
+    "source": "Spanish/ES-Soprano-1/Vibrato/Loveyourself/Control_Group/0000.wav",
+    "start": 308700,
+    "sha256": "b8c0fe0f0e4e30dea08846aeeff2d5a81ab813f6623912067e5db884cd706a1e"
+  }
+]

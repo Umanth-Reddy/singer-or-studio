@@ -24,7 +24,7 @@ SPECIALISED = ("cvsm_art", "cvsm_a", "ssl")
 MODELS = SPECIALISED + ("ecapa", "mert")
 DATASETS = {"f2": "VocalSet", "g1": "GTSinger"}
 # Fixed set S of E1 (docs/04): VocalSet F2a failing strengths of CVSM-ART and SSL.
-S = sorted({v for r in json.loads((ROOT / "pilots" / "g1_verdict.json").read_text())
+S = sorted({v for r in json.loads((ROOT / "core" / "g1_verdict.json").read_text())
             if r["model"] in ("cvsm_art", "ssl") for v in r["failing_vocalset"]})
 
 

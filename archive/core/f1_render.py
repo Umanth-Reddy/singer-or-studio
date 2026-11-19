@@ -87,9 +87,9 @@ def load_accomp(song: Path = ACCOMP_SONG) -> np.ndarray:
     return np.frombuffer(subprocess.run(cmd, capture_output=True, check=True).stdout, dtype=np.float32)
 
 
-def make_mixsep():
+def make_mixsep(accompaniment=ACCOMP_SONG):
     model = get_model("htdemucs").to(DEVICE).eval()
-    default = load_accomp()
+    default = load_accomp(accompaniment)
 
     def mixsep(x: np.ndarray, var_db: float = 0.0, accomp: np.ndarray | None = None) -> np.ndarray:
         a = np.resize(default if accomp is None else accomp, len(x))

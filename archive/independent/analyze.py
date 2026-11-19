@@ -19,7 +19,7 @@ HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 DATA = ROOT / "data"
 MODELS = ("cvsm_art", "cvsm_a", "ssl", "ecapa", "mert")
-S = sorted({v for r in json.loads((ROOT / "pilots" / "g1_verdict.json").read_text())
+S = sorted({v for r in json.loads((ROOT / "core" / "g1_verdict.json").read_text())
             if r["model"] in ("cvsm_art", "ssl") for v in r["failing_vocalset"]})
 
 
@@ -139,14 +139,15 @@ def accomp() -> dict:
     return out
 
 
-def realsong() -> dict:
+def realsong(folder=None, models=MODELS) -> dict:
     """Check 3b: real MUSDB songs. Query = ground-truth vocal stem, window a. Positive = same song, other
     window b, either ground-truth stem (baseline) or htdemucs-separated from the real mix. Negatives =
     ground-truth stem, window b, of every song by another artist. Song-macro, song bootstrap."""
-    manifest = json.loads((HERE / "data" / "realsong" / "manifest.json").read_text())
+    folder = folder if folder is not None else HERE / "data" / "realsong"
+    manifest = json.loads((folder / "manifest.json").read_text())
     out = {}
-    for m in MODELS:
-        vec = vectors(HERE / "data" / "realsong", m)
+    for m in models:
+        vec = vectors(folder, m)
         if vec is None:
             continue
         songs = [(r["artist"], [vec.get(p) for p in r["crops"]["gt"]], [vec.get(p) for p in r["crops"]["sep"]]) for r in manifest]
