@@ -25,3 +25,6 @@ The first check recalculates JVS rankings and point contrasts from preserved tri
 | [docs](docs/) | Claim map, setup, literature notes, model hashes, validation and [import history](docs/HISTORY.md) |
 
 Audio, embeddings, private training assets and large checkpoint files belong in ignored local directories. The released encoders are fetched from their upstream sources and verified by hash. The optional Yakura and fine-tuning baseline weights are author-local, with archived results available here. This paper's evidence is machine-only. Participant responses and listening-study material are outside its scope.
+
+
+## Contributors
